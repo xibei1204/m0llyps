@@ -1,0 +1,4918 @@
+{
+  "clientFingerprint": "ga=320415624 meta=74424564",
+  "clientVersion": "installed-client",
+  "sync": {
+    "Missions": {
+      "c34m2": {
+        "MissionId": "c34m2",
+        "MissionState": 3,
+        "AcceptTime": 1,
+        "Properties": {}
+      },
+      "e10m4": {
+        "MissionId": "e10m4",
+        "MissionState": 3,
+        "AcceptTime": 1,
+        "Properties": {}
+      },
+      "e11m1": {
+        "MissionId": "e11m1",
+        "MissionState": 3,
+        "AcceptTime": 1,
+        "Properties": {
+          "1": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              1
+            ]
+          },
+          "2": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              1
+            ]
+          },
+          "3": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              1
+            ]
+          },
+          "4": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          },
+          "5": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          },
+          "6": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          },
+          "7": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          },
+          "8": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          },
+          "9": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          },
+          "10": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          },
+          "11": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              1
+            ]
+          },
+          "13": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              1
+            ]
+          },
+          "14": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          },
+          "15": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          }
+        }
+      },
+      "e2m5": {
+        "MissionId": "e2m5",
+        "MissionState": 3,
+        "AcceptTime": 1,
+        "Properties": {}
+      },
+      "e5m1": {
+        "MissionId": "e5m1",
+        "MissionState": 3,
+        "AcceptTime": 1,
+        "Properties": {
+          "1": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          }
+        }
+      },
+      "e7m1": {
+        "MissionId": "e7m1",
+        "MissionState": 3,
+        "AcceptTime": 1,
+        "Properties": {}
+      },
+      "e8m1": {
+        "MissionId": "e8m1",
+        "MissionState": 3,
+        "AcceptTime": 1,
+        "Properties": {}
+      },
+      "e9m8": {
+        "MissionId": "e9m8",
+        "MissionState": 3,
+        "AcceptTime": 1,
+        "Properties": {}
+      },
+      "f1m32": {
+        "MissionId": "f1m32",
+        "MissionState": 3,
+        "AcceptTime": 1,
+        "Properties": {
+          "1": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          }
+        }
+      },
+      "sm2l10m2": {
+        "MissionId": "sm2l10m2",
+        "MissionState": 3,
+        "AcceptTime": 1,
+        "Properties": {}
+      },
+      "sm2l1m1": {
+        "MissionId": "sm2l1m1",
+        "MissionState": 3,
+        "AcceptTime": 1,
+        "Properties": {
+          "1": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          },
+          "2": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          },
+          "3": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          },
+          "4": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          }
+        }
+      },
+      "sm2l1m3": {
+        "MissionId": "sm2l1m3",
+        "MissionState": 3,
+        "AcceptTime": 1,
+        "Properties": {
+          "1": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          }
+        }
+      },
+      "sm2l6m1": {
+        "MissionId": "sm2l6m1",
+        "MissionState": 3,
+        "AcceptTime": 1,
+        "Properties": {
+          "1": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          },
+          "2": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          },
+          "3": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          },
+          "4": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          },
+          "5": {
+            "ValueType": 3,
+            "RealType": 3,
+            "ValueIntList": [
+              0
+            ]
+          }
+        }
+      }
+    },
+    "CurQuests": {
+      "c34m2_q#0": {
+        "QuestId": "c34m2_q#0",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "8f193fe5",
+            "IsComplete": true,
+            "Values": {
+              "8f193fe5": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#1": {
+        "QuestId": "c34m2_q#1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "8c17ad54",
+            "IsComplete": true,
+            "Values": {
+              "8c17ad54": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#10": {
+        "QuestId": "c34m2_q#10",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "f878ca8f",
+            "IsComplete": true,
+            "Values": {
+              "f878ca8f": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#11": {
+        "QuestId": "c34m2_q#11",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "a68e6a16",
+            "IsComplete": true,
+            "Values": {
+              "a68e6a16": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#12": {
+        "QuestId": "c34m2_q#12",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "780a177d",
+            "IsComplete": true,
+            "Values": {
+              "780a177d": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#13": {
+        "QuestId": "c34m2_q#13",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "895a54a7",
+            "IsComplete": true,
+            "Values": {
+              "895a54a7": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#14": {
+        "QuestId": "c34m2_q#14",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "41960bb0",
+            "IsComplete": true,
+            "Values": {
+              "41960bb0": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#14d1": {
+        "QuestId": "c34m2_q#14d1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "1fb2c073",
+            "IsComplete": true,
+            "Values": {
+              "1fb2c073": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#15": {
+        "QuestId": "c34m2_q#15",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "bb5843dc",
+            "IsComplete": true,
+            "Values": {
+              "bb5843dc": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#16": {
+        "QuestId": "c34m2_q#16",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "dcb8c06a",
+            "IsComplete": true,
+            "Values": {
+              "dcb8c06a": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#16d1": {
+        "QuestId": "c34m2_q#16d1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "a052ec62",
+            "IsComplete": true,
+            "Values": {
+              "a052ec62": 0,
+              "291d69db": 0,
+              "115d61b1": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#17": {
+        "QuestId": "c34m2_q#17",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "a63d9b8a",
+            "IsComplete": true,
+            "Values": {
+              "a63d9b8a": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#18": {
+        "QuestId": "c34m2_q#18",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "3b5dda0e",
+            "IsComplete": true,
+            "Values": {
+              "3b5dda0e": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#19": {
+        "QuestId": "c34m2_q#19",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "9e682229",
+            "IsComplete": true,
+            "Values": {
+              "9e682229": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#2": {
+        "QuestId": "c34m2_q#2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "273b086e",
+            "IsComplete": true,
+            "Values": {
+              "273b086e": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#20": {
+        "QuestId": "c34m2_q#20",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "72128cb4",
+            "IsComplete": true,
+            "Values": {
+              "72128cb4": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#21": {
+        "QuestId": "c34m2_q#21",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "42cd5fe9",
+            "IsComplete": true,
+            "Values": {
+              "42cd5fe9": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#22": {
+        "QuestId": "c34m2_q#22",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "96912459",
+            "IsComplete": true,
+            "Values": {
+              "96912459": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#3": {
+        "QuestId": "c34m2_q#3",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "3626c29c",
+            "IsComplete": true,
+            "Values": {
+              "3626c29c": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#4": {
+        "QuestId": "c34m2_q#4",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "fa52f714",
+            "IsComplete": true,
+            "Values": {
+              "fa52f714": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#5": {
+        "QuestId": "c34m2_q#5",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "a617decf",
+            "IsComplete": true,
+            "Values": {
+              "a617decf": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#5d1": {
+        "QuestId": "c34m2_q#5d1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "0c1f40fe",
+            "IsComplete": true,
+            "Values": {
+              "0c1f40fe": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#5d2": {
+        "QuestId": "c34m2_q#5d2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "ef1533c4",
+            "IsComplete": true,
+            "Values": {
+              "ef1533c4": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#6": {
+        "QuestId": "c34m2_q#6",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "e5523f94",
+            "IsComplete": true,
+            "Values": {
+              "e5523f94": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#7": {
+        "QuestId": "c34m2_q#7",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "93563340",
+            "IsComplete": true,
+            "Values": {
+              "93563340": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "c34m2_q#8": {
+        "QuestId": "c34m2_q#8",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "a2d56220",
+            "IsComplete": true,
+            "Values": {
+              "a2d56220": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e10m4_q#2": {
+        "QuestId": "e10m4_q#2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "395dfe03",
+            "IsComplete": true,
+            "Values": {
+              "395dfe03": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e10m4_q#4": {
+        "QuestId": "e10m4_q#4",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "3e37353f",
+            "IsComplete": true,
+            "Values": {
+              "3e37353f": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#1": {
+        "QuestId": "e11m1_q#1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "e4d39947",
+            "IsComplete": true,
+            "Values": {
+              "e4d39947": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#10": {
+        "QuestId": "e11m1_q#10",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "80446a75",
+            "IsComplete": true,
+            "Values": {
+              "80446a75": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#11": {
+        "QuestId": "e11m1_q#11",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "cfd69672",
+            "IsComplete": true,
+            "Values": {
+              "cfd69672": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#12": {
+        "QuestId": "e11m1_q#12",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "d295835f",
+            "IsComplete": true,
+            "Values": {
+              "d295835f": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#13": {
+        "QuestId": "e11m1_q#13",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "bef4101e",
+            "IsComplete": true,
+            "Values": {
+              "bef4101e": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#14": {
+        "QuestId": "e11m1_q#14",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "3f882b83",
+            "IsComplete": true,
+            "Values": {
+              "3f882b83": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#15": {
+        "QuestId": "e11m1_q#15",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "e3562f72",
+            "IsComplete": true,
+            "Values": {
+              "e3562f72": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#16": {
+        "QuestId": "e11m1_q#16",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "ff381c55",
+            "IsComplete": true,
+            "Values": {
+              "ff381c55": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#17": {
+        "QuestId": "e11m1_q#17",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "e6c22d7a",
+            "IsComplete": true,
+            "Values": {
+              "e6c22d7a": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#18": {
+        "QuestId": "e11m1_q#18",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "b0643a6e",
+            "IsComplete": true,
+            "Values": {
+              "b0643a6e": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#19": {
+        "QuestId": "e11m1_q#19",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "49dddde2",
+            "IsComplete": true,
+            "Values": {
+              "49dddde2": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#2": {
+        "QuestId": "e11m1_q#2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "c71df814",
+            "IsComplete": true,
+            "Values": {
+              "c71df814": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#20": {
+        "QuestId": "e11m1_q#20",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "c0013f03",
+            "IsComplete": true,
+            "Values": {
+              "c0013f03": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#21": {
+        "QuestId": "e11m1_q#21",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "854bed19",
+            "IsComplete": true,
+            "Values": {
+              "854bed19": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#23": {
+        "QuestId": "e11m1_q#23",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "d91d75f5",
+            "IsComplete": true,
+            "Values": {
+              "d91d75f5": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#24": {
+        "QuestId": "e11m1_q#24",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "02e5d7d0",
+            "IsComplete": true,
+            "Values": {
+              "02e5d7d0": 0,
+              "c4b5d020": 0,
+              "ab03010c": 0,
+              "37417841": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#25": {
+        "QuestId": "e11m1_q#25",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "91a162a1",
+            "IsComplete": true,
+            "Values": {
+              "91a162a1": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#26": {
+        "QuestId": "e11m1_q#26",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "26375e84",
+            "IsComplete": true,
+            "Values": {
+              "26375e84": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#27": {
+        "QuestId": "e11m1_q#27",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "12ccbca9",
+            "IsComplete": true,
+            "Values": {
+              "12ccbca9": 0,
+              "98bec0ff": 0,
+              "b1109780": 0,
+              "b3f449ee": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#28": {
+        "QuestId": "e11m1_q#28",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "6c90c582",
+            "IsComplete": true,
+            "Values": {
+              "6c90c582": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#29": {
+        "QuestId": "e11m1_q#29",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "084e182d",
+            "IsComplete": true,
+            "Values": {
+              "084e182d": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#3": {
+        "QuestId": "e11m1_q#3",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "b235553d",
+            "IsComplete": true,
+            "Values": {
+              "b235553d": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#30": {
+        "QuestId": "e11m1_q#30",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "20e3cc50",
+            "IsComplete": true,
+            "Values": {
+              "20e3cc50": 0,
+              "1ff4a10c": 0,
+              "1fba06ef": 0,
+              "a6dff836": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#31": {
+        "QuestId": "e11m1_q#31",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "04fa6bf8",
+            "IsComplete": true,
+            "Values": {
+              "04fa6bf8": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#32": {
+        "QuestId": "e11m1_q#32",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "bb455ad5",
+            "IsComplete": true,
+            "Values": {
+              "bb455ad5": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#33": {
+        "QuestId": "e11m1_q#33",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "be24662c",
+            "IsComplete": true,
+            "Values": {
+              "be24662c": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#34": {
+        "QuestId": "e11m1_q#34",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "233ac3ce",
+            "IsComplete": true,
+            "Values": {
+              "233ac3ce": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#35": {
+        "QuestId": "e11m1_q#35",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "fc2b4ec5",
+            "IsComplete": true,
+            "Values": {
+              "fc2b4ec5": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#36": {
+        "QuestId": "e11m1_q#36",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "a90c4145",
+            "IsComplete": true,
+            "Values": {
+              "a90c4145": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#37": {
+        "QuestId": "e11m1_q#37",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "f7244169",
+            "IsComplete": true,
+            "Values": {
+              "f7244169": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#38": {
+        "QuestId": "e11m1_q#38",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "0daf6ee9",
+            "IsComplete": true,
+            "Values": {
+              "0daf6ee9": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#39": {
+        "QuestId": "e11m1_q#39",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "2760f2ea",
+            "IsComplete": true,
+            "Values": {
+              "2760f2ea": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#4": {
+        "QuestId": "e11m1_q#4",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "beeb2837",
+            "IsComplete": true,
+            "Values": {
+              "beeb2837": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#40": {
+        "QuestId": "e11m1_q#40",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "ad61d4b8",
+            "IsComplete": true,
+            "Values": {
+              "ad61d4b8": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#41": {
+        "QuestId": "e11m1_q#41",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "166bbc0d",
+            "IsComplete": true,
+            "Values": {
+              "166bbc0d": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#42": {
+        "QuestId": "e11m1_q#42",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "d879ea9a",
+            "IsComplete": true,
+            "Values": {
+              "d879ea9a": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#43": {
+        "QuestId": "e11m1_q#43",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "915925cb",
+            "IsComplete": true,
+            "Values": {
+              "915925cb": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#44": {
+        "QuestId": "e11m1_q#44",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "6682408f",
+            "IsComplete": true,
+            "Values": {
+              "6682408f": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#45": {
+        "QuestId": "e11m1_q#45",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "e625d9a8",
+            "IsComplete": true,
+            "Values": {
+              "e625d9a8": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#46": {
+        "QuestId": "e11m1_q#46",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "f4ea84e6",
+            "IsComplete": true,
+            "Values": {
+              "f4ea84e6": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#47": {
+        "QuestId": "e11m1_q#47",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "37d0e8a3",
+            "IsComplete": true,
+            "Values": {
+              "37d0e8a3": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#48": {
+        "QuestId": "e11m1_q#48",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "0070fee8",
+            "IsComplete": true,
+            "Values": {
+              "0070fee8": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#49": {
+        "QuestId": "e11m1_q#49",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "a9485cdf",
+            "IsComplete": true,
+            "Values": {
+              "a9485cdf": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#5": {
+        "QuestId": "e11m1_q#5",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "2ed13ca8",
+            "IsComplete": true,
+            "Values": {
+              "2ed13ca8": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#50": {
+        "QuestId": "e11m1_q#50",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "f1cd72c9",
+            "IsComplete": true,
+            "Values": {
+              "f1cd72c9": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#51": {
+        "QuestId": "e11m1_q#51",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "00624329",
+            "IsComplete": true,
+            "Values": {
+              "00624329": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#52": {
+        "QuestId": "e11m1_q#52",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "2af22ad7",
+            "IsComplete": true,
+            "Values": {
+              "2af22ad7": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#53": {
+        "QuestId": "e11m1_q#53",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "3188fa1e",
+            "IsComplete": true,
+            "Values": {
+              "3188fa1e": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#54": {
+        "QuestId": "e11m1_q#54",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "135f052c",
+            "IsComplete": true,
+            "Values": {
+              "135f052c": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#55": {
+        "QuestId": "e11m1_q#55",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "892476a0",
+            "IsComplete": true,
+            "Values": {
+              "892476a0": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#56": {
+        "QuestId": "e11m1_q#56",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "a13cbbab",
+            "IsComplete": true,
+            "Values": {
+              "a13cbbab": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#6": {
+        "QuestId": "e11m1_q#6",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "040bf66b",
+            "IsComplete": true,
+            "Values": {
+              "040bf66b": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#7": {
+        "QuestId": "e11m1_q#7",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "db361cf4",
+            "IsComplete": true,
+            "Values": {
+              "db361cf4": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#8": {
+        "QuestId": "e11m1_q#8",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "8ea3edde",
+            "IsComplete": true,
+            "Values": {
+              "8ea3edde": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e11m1_q#9": {
+        "QuestId": "e11m1_q#9",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "a761c847",
+            "IsComplete": true,
+            "Values": {
+              "a761c847": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#1": {
+        "QuestId": "e2m5_q#1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "49c2448d",
+            "IsComplete": true,
+            "Values": {
+              "49c2448d": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#10": {
+        "QuestId": "e2m5_q#10",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "c630554b",
+            "IsComplete": true,
+            "Values": {
+              "c630554b": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#11": {
+        "QuestId": "e2m5_q#11",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "94748113",
+            "IsComplete": true,
+            "Values": {
+              "94748113": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#12": {
+        "QuestId": "e2m5_q#12",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "7b5c4405",
+            "IsComplete": true,
+            "Values": {
+              "7b5c4405": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#13": {
+        "QuestId": "e2m5_q#13",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "fc050b36",
+            "IsComplete": true,
+            "Values": {
+              "fc050b36": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#14": {
+        "QuestId": "e2m5_q#14",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "035389a7",
+            "IsComplete": true,
+            "Values": {
+              "035389a7": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#15": {
+        "QuestId": "e2m5_q#15",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "602cdf2c",
+            "IsComplete": true,
+            "Values": {
+              "602cdf2c": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#16": {
+        "QuestId": "e2m5_q#16",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "db39a617",
+            "IsComplete": true,
+            "Values": {
+              "db39a617": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#17": {
+        "QuestId": "e2m5_q#17",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "2e60454f",
+            "IsComplete": true,
+            "Values": {
+              "2e60454f": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#18": {
+        "QuestId": "e2m5_q#18",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "7f0673ef",
+            "IsComplete": true,
+            "Values": {
+              "7f0673ef": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#19": {
+        "QuestId": "e2m5_q#19",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "53243ee3",
+            "IsComplete": true,
+            "Values": {
+              "53243ee3": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#2": {
+        "QuestId": "e2m5_q#2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "017900af",
+            "IsComplete": true,
+            "Values": {
+              "017900af": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#20": {
+        "QuestId": "e2m5_q#20",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "bb8cb194",
+            "IsComplete": true,
+            "Values": {
+              "bb8cb194": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#21": {
+        "QuestId": "e2m5_q#21",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "f32b34ef",
+            "IsComplete": true,
+            "Values": {
+              "f32b34ef": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#22": {
+        "QuestId": "e2m5_q#22",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "c0869d47",
+            "IsComplete": true,
+            "Values": {
+              "c0869d47": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#23": {
+        "QuestId": "e2m5_q#23",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "92652397",
+            "IsComplete": true,
+            "Values": {
+              "92652397": 0,
+              "9c5b7067": 0,
+              "537e6cbd": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#24": {
+        "QuestId": "e2m5_q#24",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "f2c183c0",
+            "IsComplete": true,
+            "Values": {
+              "f2c183c0": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#25": {
+        "QuestId": "e2m5_q#25",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "ad453529",
+            "IsComplete": true,
+            "Values": {
+              "ad453529": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#26": {
+        "QuestId": "e2m5_q#26",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "c6072a1f",
+            "IsComplete": true,
+            "Values": {
+              "c6072a1f": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#27": {
+        "QuestId": "e2m5_q#27",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "d49e6a91",
+            "IsComplete": true,
+            "Values": {
+              "d49e6a91": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#28": {
+        "QuestId": "e2m5_q#28",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "f57cb350",
+            "IsComplete": true,
+            "Values": {
+              "f57cb350": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#29": {
+        "QuestId": "e2m5_q#29",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "0f11c8d1",
+            "IsComplete": true,
+            "Values": {
+              "0f11c8d1": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#3": {
+        "QuestId": "e2m5_q#3",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "0ee7189f",
+            "IsComplete": true,
+            "Values": {
+              "0ee7189f": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#30": {
+        "QuestId": "e2m5_q#30",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "265e53d6",
+            "IsComplete": true,
+            "Values": {
+              "265e53d6": 0,
+              "8a6e08b4": 0,
+              "7015dc5f": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#31": {
+        "QuestId": "e2m5_q#31",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "74dae50c",
+            "IsComplete": true,
+            "Values": {
+              "74dae50c": 0,
+              "c321f8c0": 0,
+              "f03b5d1f": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#32": {
+        "QuestId": "e2m5_q#32",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "8328a104",
+            "IsComplete": true,
+            "Values": {
+              "8328a104": 0,
+              "e9c1729e": 0,
+              "fa5fceba": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#34": {
+        "QuestId": "e2m5_q#34",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "5e8b45ac",
+            "IsComplete": true,
+            "Values": {
+              "5e8b45ac": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#4": {
+        "QuestId": "e2m5_q#4",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "621ca248",
+            "IsComplete": true,
+            "Values": {
+              "621ca248": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#5": {
+        "QuestId": "e2m5_q#5",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "2c5319a6",
+            "IsComplete": true,
+            "Values": {
+              "2c5319a6": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#6": {
+        "QuestId": "e2m5_q#6",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "b5dee334",
+            "IsComplete": true,
+            "Values": {
+              "b5dee334": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#7": {
+        "QuestId": "e2m5_q#7",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "59d0e069",
+            "IsComplete": true,
+            "Values": {
+              "59d0e069": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#8": {
+        "QuestId": "e2m5_q#8",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "fadff3db",
+            "IsComplete": true,
+            "Values": {
+              "fadff3db": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e2m5_q#9": {
+        "QuestId": "e2m5_q#9",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "367ae9f9",
+            "IsComplete": true,
+            "Values": {
+              "367ae9f9": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#1": {
+        "QuestId": "e5m1_q#1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "9281d203",
+            "IsComplete": true,
+            "Values": {
+              "9281d203": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#12": {
+        "QuestId": "e5m1_q#12",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "204e3e93",
+            "IsComplete": true,
+            "Values": {
+              "204e3e93": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#13": {
+        "QuestId": "e5m1_q#13",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "368701f0",
+            "IsComplete": true,
+            "Values": {
+              "368701f0": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#18": {
+        "QuestId": "e5m1_q#18",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "1e81a405",
+            "IsComplete": true,
+            "Values": {
+              "1e81a405": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#19": {
+        "QuestId": "e5m1_q#19",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "e1c28869",
+            "IsComplete": true,
+            "Values": {
+              "e1c28869": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#2": {
+        "QuestId": "e5m1_q#2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "54b4bd5e",
+            "IsComplete": true,
+            "Values": {
+              "54b4bd5e": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#20": {
+        "QuestId": "e5m1_q#20",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "67cdd32d",
+            "IsComplete": true,
+            "Values": {
+              "67cdd32d": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#4": {
+        "QuestId": "e5m1_q#4",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "0e708f4e",
+            "IsComplete": true,
+            "Values": {
+              "0e708f4e": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#44": {
+        "QuestId": "e5m1_q#44",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "086ee98b",
+            "IsComplete": true,
+            "Values": {
+              "086ee98b": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#46": {
+        "QuestId": "e5m1_q#46",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "bc11c74c",
+            "IsComplete": true,
+            "Values": {
+              "bc11c74c": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#47": {
+        "QuestId": "e5m1_q#47",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "69c534f4",
+            "IsComplete": true,
+            "Values": {
+              "69c534f4": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#48": {
+        "QuestId": "e5m1_q#48",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "3c6ecab1",
+            "IsComplete": true,
+            "Values": {
+              "3c6ecab1": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#49": {
+        "QuestId": "e5m1_q#49",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "ac048513",
+            "IsComplete": true,
+            "Values": {
+              "ac048513": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#5": {
+        "QuestId": "e5m1_q#5",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "57424324",
+            "IsComplete": true,
+            "Values": {
+              "57424324": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#50": {
+        "QuestId": "e5m1_q#50",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "06b9ce5b",
+            "IsComplete": true,
+            "Values": {
+              "06b9ce5b": 0,
+              "4f27f3f5": 0,
+              "eb07846d": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#51": {
+        "QuestId": "e5m1_q#51",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "c82ad3ed",
+            "IsComplete": true,
+            "Values": {
+              "c82ad3ed": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#52": {
+        "QuestId": "e5m1_q#52",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "255a7536",
+            "IsComplete": true,
+            "Values": {
+              "255a7536": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#53": {
+        "QuestId": "e5m1_q#53",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "1086bf9e",
+            "IsComplete": true,
+            "Values": {
+              "1086bf9e": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#54": {
+        "QuestId": "e5m1_q#54",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "0f914e40",
+            "IsComplete": true,
+            "Values": {
+              "0f914e40": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#6": {
+        "QuestId": "e5m1_q#6",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "0432998f",
+            "IsComplete": true,
+            "Values": {
+              "0432998f": 0,
+              "d5218271": 0,
+              "7c4adde8": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#7": {
+        "QuestId": "e5m1_q#7",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "2bab5ab3",
+            "IsComplete": true,
+            "Values": {
+              "2bab5ab3": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#8": {
+        "QuestId": "e5m1_q#8",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "97da5257",
+            "IsComplete": true,
+            "Values": {
+              "97da5257": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e5m1_q#9": {
+        "QuestId": "e5m1_q#9",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "a0d55221",
+            "IsComplete": true,
+            "Values": {
+              "a0d55221": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e7m1_q#1": {
+        "QuestId": "e7m1_q#1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "68f92516",
+            "IsComplete": true,
+            "Values": {
+              "68f92516": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e7m1_q#10": {
+        "QuestId": "e7m1_q#10",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "f64c3848",
+            "IsComplete": true,
+            "Values": {
+              "f64c3848": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e7m1_q#11": {
+        "QuestId": "e7m1_q#11",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "758d30ce",
+            "IsComplete": true,
+            "Values": {
+              "758d30ce": 0,
+              "b5fd0041": 0,
+              "f8f7663b": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e7m1_q#13": {
+        "QuestId": "e7m1_q#13",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "173b32e7",
+            "IsComplete": true,
+            "Values": {
+              "173b32e7": 0,
+              "512477e3": 0,
+              "813e5d63": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e7m1_q#14": {
+        "QuestId": "e7m1_q#14",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "ffa3275a",
+            "IsComplete": true,
+            "Values": {
+              "ffa3275a": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e7m1_q#16": {
+        "QuestId": "e7m1_q#16",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "d98a2a08",
+            "IsComplete": true,
+            "Values": {
+              "d98a2a08": 0,
+              "2fa0d56a": 0,
+              "79c69be1": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e7m1_q#17": {
+        "QuestId": "e7m1_q#17",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "e40da710",
+            "IsComplete": true,
+            "Values": {
+              "e40da710": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e7m1_q#18": {
+        "QuestId": "e7m1_q#18",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "2354a05a",
+            "IsComplete": true,
+            "Values": {
+              "2354a05a": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#0d7": {
+        "QuestId": "e8m1_q#0d7",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "82f468bc",
+            "IsComplete": true,
+            "Values": {
+              "82f468bc": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#1": {
+        "QuestId": "e8m1_q#1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "930915d6",
+            "IsComplete": true,
+            "Values": {
+              "930915d6": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#10": {
+        "QuestId": "e8m1_q#10",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "07b6fb3a",
+            "IsComplete": true,
+            "Values": {
+              "07b6fb3a": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#11": {
+        "QuestId": "e8m1_q#11",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "be93bcaa",
+            "IsComplete": true,
+            "Values": {
+              "be93bcaa": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#12": {
+        "QuestId": "e8m1_q#12",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "289653f3",
+            "IsComplete": true,
+            "Values": {
+              "289653f3": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#13": {
+        "QuestId": "e8m1_q#13",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "d0b7862e",
+            "IsComplete": true,
+            "Values": {
+              "d0b7862e": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#14": {
+        "QuestId": "e8m1_q#14",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "614f5ef0",
+            "IsComplete": true,
+            "Values": {
+              "614f5ef0": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#15": {
+        "QuestId": "e8m1_q#15",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "e4824802",
+            "IsComplete": true,
+            "Values": {
+              "e4824802": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#15d5": {
+        "QuestId": "e8m1_q#15d5",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "f95e28eb",
+            "IsComplete": true,
+            "Values": {
+              "f95e28eb": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#16": {
+        "QuestId": "e8m1_q#16",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "323c9259",
+            "IsComplete": true,
+            "Values": {
+              "323c9259": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#1d5": {
+        "QuestId": "e8m1_q#1d5",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "40755d3b",
+            "IsComplete": true,
+            "Values": {
+              "40755d3b": 0,
+              "1279011a": 0,
+              "914e5db6": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#2": {
+        "QuestId": "e8m1_q#2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "5448017e",
+            "IsComplete": true,
+            "Values": {
+              "5448017e": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#3": {
+        "QuestId": "e8m1_q#3",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "f809064a",
+            "IsComplete": true,
+            "Values": {
+              "f809064a": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#5": {
+        "QuestId": "e8m1_q#5",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "885bb0aa",
+            "IsComplete": true,
+            "Values": {
+              "885bb0aa": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#5d5": {
+        "QuestId": "e8m1_q#5d5",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "0d9daf36",
+            "IsComplete": true,
+            "Values": {
+              "0d9daf36": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#6": {
+        "QuestId": "e8m1_q#6",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "6df18c4d",
+            "IsComplete": true,
+            "Values": {
+              "6df18c4d": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#6d5": {
+        "QuestId": "e8m1_q#6d5",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "e410246e",
+            "IsComplete": true,
+            "Values": {
+              "e410246e": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#7": {
+        "QuestId": "e8m1_q#7",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "70d0abe5",
+            "IsComplete": true,
+            "Values": {
+              "70d0abe5": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#8": {
+        "QuestId": "e8m1_q#8",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "b0649fb4",
+            "IsComplete": true,
+            "Values": {
+              "b0649fb4": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#8d5": {
+        "QuestId": "e8m1_q#8d5",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "d5e6e64a",
+            "IsComplete": true,
+            "Values": {
+              "d5e6e64a": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e8m1_q#9": {
+        "QuestId": "e8m1_q#9",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "d4e3c073",
+            "IsComplete": true,
+            "Values": {
+              "d4e3c073": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "e9m8_q#1": {
+        "QuestId": "e9m8_q#1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "b169dfc8",
+            "IsComplete": true,
+            "Values": {
+              "b169dfc8": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#3": {
+        "QuestId": "f1m32_q#3",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "cc0db375",
+            "IsComplete": true,
+            "Values": {
+              "cc0db375": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#7": {
+        "QuestId": "f1m32_q#7",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "22ff70a6",
+            "IsComplete": true,
+            "Values": {
+              "22ff70a6": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#BlackBox1": {
+        "QuestId": "f1m32_q#BlackBox1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "19a640f7",
+            "IsComplete": true,
+            "Values": {
+              "19a640f7": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#CheckDumperPanel": {
+        "QuestId": "f1m32_q#CheckDumperPanel",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "5b80f1a7",
+            "IsComplete": true,
+            "Values": {
+              "5b80f1a7": 0,
+              "9f7a070d": 0,
+              "1dca2e29": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#ConnectMain1Dumper": {
+        "QuestId": "f1m32_q#ConnectMain1Dumper",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "580eabeb",
+            "IsComplete": true,
+            "Values": {
+              "580eabeb": 0,
+              "06dcaccd": 0,
+              "c10b0182": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#ConnectMain2Dumper": {
+        "QuestId": "f1m32_q#ConnectMain2Dumper",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "ee4ccd10",
+            "IsComplete": true,
+            "Values": {
+              "ee4ccd10": 0,
+              "f43e8b55": 0,
+              "202efe9b": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#ConnectMain3Dumper": {
+        "QuestId": "f1m32_q#ConnectMain3Dumper",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "77891548",
+            "IsComplete": true,
+            "Values": {
+              "77891548": 0,
+              "cfb4d2de": 0,
+              "d0382d06": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#ConnectSide1Dumper": {
+        "QuestId": "f1m32_q#ConnectSide1Dumper",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "38129429",
+            "IsComplete": true,
+            "Values": {
+              "38129429": 0,
+              "bebe079c": 0,
+              "600ac907": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#ConnectSide2Dumper": {
+        "QuestId": "f1m32_q#ConnectSide2Dumper",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "4599ab42",
+            "IsComplete": true,
+            "Values": {
+              "4599ab42": 0,
+              "87f9d991": 0,
+              "761cf2c0": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#ControlSide1": {
+        "QuestId": "f1m32_q#ControlSide1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "714cb82d",
+            "IsComplete": true,
+            "Values": {
+              "714cb82d": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#ControlSide2": {
+        "QuestId": "f1m32_q#ControlSide2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "56a3383f",
+            "IsComplete": true,
+            "Values": {
+              "56a3383f": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#EndSNS": {
+        "QuestId": "f1m32_q#EndSNS",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "e16be4a3",
+            "IsComplete": true,
+            "Values": {
+              "e16be4a3": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#FactoryTime1": {
+        "QuestId": "f1m32_q#FactoryTime1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "2247d82a",
+            "IsComplete": true,
+            "Values": {
+              "2247d82a": 0,
+              "edf0d047": 0,
+              "624b5246": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#FindSdie2SNS": {
+        "QuestId": "f1m32_q#FindSdie2SNS",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "e8b6df19",
+            "IsComplete": true,
+            "Values": {
+              "e8b6df19": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#FindSide1": {
+        "QuestId": "f1m32_q#FindSide1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "e218d4ef",
+            "IsComplete": true,
+            "Values": {
+              "e218d4ef": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#FindSide2": {
+        "QuestId": "f1m32_q#FindSide2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "0d257d7a",
+            "IsComplete": true,
+            "Values": {
+              "0d257d7a": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#GoToMain2": {
+        "QuestId": "f1m32_q#GoToMain2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "0e3bf92c",
+            "IsComplete": true,
+            "Values": {
+              "0e3bf92c": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#GoToMain3": {
+        "QuestId": "f1m32_q#GoToMain3",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "d292cb59",
+            "IsComplete": true,
+            "Values": {
+              "d292cb59": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#GoToSide1": {
+        "QuestId": "f1m32_q#GoToSide1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "2da30529",
+            "IsComplete": true,
+            "Values": {
+              "2da30529": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#GoToSide1Entrance": {
+        "QuestId": "f1m32_q#GoToSide1Entrance",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "f25678e7",
+            "IsComplete": true,
+            "Values": {
+              "f25678e7": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#GoToSide2Entrance": {
+        "QuestId": "f1m32_q#GoToSide2Entrance",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "5b2d12c6",
+            "IsComplete": true,
+            "Values": {
+              "5b2d12c6": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#GuideGasTech": {
+        "QuestId": "f1m32_q#GuideGasTech",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "73fbd13f",
+            "IsComplete": true,
+            "Values": {
+              "73fbd13f": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#IntroSNS": {
+        "QuestId": "f1m32_q#IntroSNS",
+        "QuestState": 3,
+        "QuestObjectives": [],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#IntroSNSComplete": {
+        "QuestId": "f1m32_q#IntroSNSComplete",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "45496efd",
+            "IsComplete": true,
+            "Values": {
+              "45496efd": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#LastTalk": {
+        "QuestId": "f1m32_q#LastTalk",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "43683abd",
+            "IsComplete": true,
+            "Values": {
+              "43683abd": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Main1": {
+        "QuestId": "f1m32_q#Main1",
+        "QuestState": 3,
+        "QuestObjectives": [],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Main1Complete": {
+        "QuestId": "f1m32_q#Main1Complete",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "d14c6c3a",
+            "IsComplete": true,
+            "Values": {
+              "d14c6c3a": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Main1CompleteShow": {
+        "QuestId": "f1m32_q#Main1CompleteShow",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "44ec2b9e",
+            "IsComplete": true,
+            "Values": {
+              "44ec2b9e": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Main1FilledSNS": {
+        "QuestId": "f1m32_q#Main1FilledSNS",
+        "QuestState": 3,
+        "QuestObjectives": [],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Main1WaitFilled": {
+        "QuestId": "f1m32_q#Main1WaitFilled",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "68e6c706",
+            "IsComplete": true,
+            "Values": {
+              "68e6c706": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Main2": {
+        "QuestId": "f1m32_q#Main2",
+        "QuestState": 3,
+        "QuestObjectives": [],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#main2_talk": {
+        "QuestId": "f1m32_q#main2_talk",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "deb8c1dc",
+            "IsComplete": true,
+            "Values": {
+              "deb8c1dc": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Main2Complete": {
+        "QuestId": "f1m32_q#Main2Complete",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "a1cc51bc",
+            "IsComplete": true,
+            "Values": {
+              "a1cc51bc": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Main2CompleteShow": {
+        "QuestId": "f1m32_q#Main2CompleteShow",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "56231734",
+            "IsComplete": true,
+            "Values": {
+              "56231734": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Main2WaitFilled": {
+        "QuestId": "f1m32_q#Main2WaitFilled",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "b42eaafa",
+            "IsComplete": true,
+            "Values": {
+              "b42eaafa": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Main3": {
+        "QuestId": "f1m32_q#Main3",
+        "QuestState": 3,
+        "QuestObjectives": [],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#main3_talk": {
+        "QuestId": "f1m32_q#main3_talk",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "44a2ee71",
+            "IsComplete": true,
+            "Values": {
+              "44a2ee71": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Main3Complete": {
+        "QuestId": "f1m32_q#Main3Complete",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "7b70a1c2",
+            "IsComplete": true,
+            "Values": {
+              "7b70a1c2": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Main3CompleteShow": {
+        "QuestId": "f1m32_q#Main3CompleteShow",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "a33e10e9",
+            "IsComplete": true,
+            "Values": {
+              "a33e10e9": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Main3CompleteTalk": {
+        "QuestId": "f1m32_q#Main3CompleteTalk",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "e26ab056",
+            "IsComplete": true,
+            "Values": {
+              "e26ab056": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Main3WaitFilled": {
+        "QuestId": "f1m32_q#Main3WaitFilled",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "16863258",
+            "IsComplete": true,
+            "Values": {
+              "16863258": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#MainCompleteSNS": {
+        "QuestId": "f1m32_q#MainCompleteSNS",
+        "QuestState": 3,
+        "QuestObjectives": [],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#MakeDumpers": {
+        "QuestId": "f1m32_q#MakeDumpers",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "dedd758d",
+            "IsComplete": true,
+            "Values": {
+              "dedd758d": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#mifutalk": {
+        "QuestId": "f1m32_q#mifutalk",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "6c890500",
+            "IsComplete": true,
+            "Values": {
+              "6c890500": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#PipeHint_Side2": {
+        "QuestId": "f1m32_q#PipeHint_Side2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "c38f028f",
+            "IsComplete": true,
+            "Values": {
+              "c38f028f": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#PipeHint1": {
+        "QuestId": "f1m32_q#PipeHint1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "b1bb5fe3",
+            "IsComplete": true,
+            "Values": {
+              "b1bb5fe3": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#PipeHint2": {
+        "QuestId": "f1m32_q#PipeHint2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "ac051ad1",
+            "IsComplete": true,
+            "Values": {
+              "ac051ad1": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#PipeHint3": {
+        "QuestId": "f1m32_q#PipeHint3",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "6da8240d",
+            "IsComplete": true,
+            "Values": {
+              "6da8240d": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#PipePlaceHint4": {
+        "QuestId": "f1m32_q#PipePlaceHint4",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "33f20b15",
+            "IsComplete": true,
+            "Values": {
+              "33f20b15": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#PipePlaceHint5": {
+        "QuestId": "f1m32_q#PipePlaceHint5",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "7e2fa6a2",
+            "IsComplete": true,
+            "Values": {
+              "7e2fa6a2": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#PlaceMain1Dumper": {
+        "QuestId": "f1m32_q#PlaceMain1Dumper",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "891f4cdf",
+            "IsComplete": true,
+            "Values": {
+              "891f4cdf": 0,
+              "4ed37f72": 0,
+              "17341bf6": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#PlaceMain2Dumper": {
+        "QuestId": "f1m32_q#PlaceMain2Dumper",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "ee3b0091",
+            "IsComplete": true,
+            "Values": {
+              "ee3b0091": 0,
+              "f9ff2dbe": 0,
+              "8dcbf8a9": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#PlaceMain3Dumper": {
+        "QuestId": "f1m32_q#PlaceMain3Dumper",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "3be2443b",
+            "IsComplete": true,
+            "Values": {
+              "3be2443b": 0,
+              "2b7a1d70": 0,
+              "ab707183": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#PlaceSide1Dumper": {
+        "QuestId": "f1m32_q#PlaceSide1Dumper",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "25ca6f66",
+            "IsComplete": true,
+            "Values": {
+              "25ca6f66": 0,
+              "ebd72b83": 0,
+              "42bdfe79": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#PlaceSide2Dumper": {
+        "QuestId": "f1m32_q#PlaceSide2Dumper",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "1df3e88f",
+            "IsComplete": true,
+            "Values": {
+              "1df3e88f": 0,
+              "31a2ef0c": 0,
+              "7371a22e": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#SendEndSNS": {
+        "QuestId": "f1m32_q#SendEndSNS",
+        "QuestState": 3,
+        "QuestObjectives": [],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#SendFindSdie2SNS": {
+        "QuestId": "f1m32_q#SendFindSdie2SNS",
+        "QuestState": 3,
+        "QuestObjectives": [],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Settlement": {
+        "QuestId": "f1m32_q#Settlement",
+        "QuestState": 3,
+        "QuestObjectives": [],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#SettlementTalk": {
+        "QuestId": "f1m32_q#SettlementTalk",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "cae27cec",
+            "IsComplete": true,
+            "Values": {
+              "cae27cec": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Side1": {
+        "QuestId": "f1m32_q#Side1",
+        "QuestState": 3,
+        "QuestObjectives": [],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#side1_talk": {
+        "QuestId": "f1m32_q#side1_talk",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "29c4d011",
+            "IsComplete": true,
+            "Values": {
+              "29c4d011": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Side1Complete": {
+        "QuestId": "f1m32_q#Side1Complete",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "1369053d",
+            "IsComplete": true,
+            "Values": {
+              "1369053d": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Side1CompleteShow": {
+        "QuestId": "f1m32_q#Side1CompleteShow",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "ce1649d6",
+            "IsComplete": true,
+            "Values": {
+              "ce1649d6": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Side1CompleteSNS": {
+        "QuestId": "f1m32_q#Side1CompleteSNS",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "2782d0a9",
+            "IsComplete": true,
+            "Values": {
+              "2782d0a9": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Side1CompleteTalk": {
+        "QuestId": "f1m32_q#Side1CompleteTalk",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "f8987224",
+            "IsComplete": true,
+            "Values": {
+              "f8987224": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Side1Entrance": {
+        "QuestId": "f1m32_q#Side1Entrance",
+        "QuestState": 3,
+        "QuestObjectives": [],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Side1Unlock": {
+        "QuestId": "f1m32_q#Side1Unlock",
+        "QuestState": 3,
+        "QuestObjectives": [],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Side1WaitFilled": {
+        "QuestId": "f1m32_q#Side1WaitFilled",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "3fbe4097",
+            "IsComplete": true,
+            "Values": {
+              "3fbe4097": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Side2": {
+        "QuestId": "f1m32_q#Side2",
+        "QuestState": 3,
+        "QuestObjectives": [],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#side2_talk": {
+        "QuestId": "f1m32_q#side2_talk",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "2a6d8b21",
+            "IsComplete": true,
+            "Values": {
+              "2a6d8b21": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Side2Complete": {
+        "QuestId": "f1m32_q#Side2Complete",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "bde305c6",
+            "IsComplete": true,
+            "Values": {
+              "bde305c6": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Side2CompleteShow": {
+        "QuestId": "f1m32_q#Side2CompleteShow",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "ac189cb8",
+            "IsComplete": true,
+            "Values": {
+              "ac189cb8": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Side2CompleteSNS": {
+        "QuestId": "f1m32_q#Side2CompleteSNS",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "98d5af18",
+            "IsComplete": true,
+            "Values": {
+              "98d5af18": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Side2CompleteTalk": {
+        "QuestId": "f1m32_q#Side2CompleteTalk",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "53fd5bf0",
+            "IsComplete": true,
+            "Values": {
+              "53fd5bf0": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Side2Entrance": {
+        "QuestId": "f1m32_q#Side2Entrance",
+        "QuestState": 3,
+        "QuestObjectives": [],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Side2Unlock": {
+        "QuestId": "f1m32_q#Side2Unlock",
+        "QuestState": 3,
+        "QuestObjectives": [],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Side2WaitFilled": {
+        "QuestId": "f1m32_q#Side2WaitFilled",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "8d166ef0",
+            "IsComplete": true,
+            "Values": {
+              "8d166ef0": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#SideHint1": {
+        "QuestId": "f1m32_q#SideHint1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "7935ed75",
+            "IsComplete": true,
+            "Values": {
+              "7935ed75": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#SideHint2": {
+        "QuestId": "f1m32_q#SideHint2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "1d4ae622",
+            "IsComplete": true,
+            "Values": {
+              "1d4ae622": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#SNSFillRifts": {
+        "QuestId": "f1m32_q#SNSFillRifts",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "7f83ea12",
+            "IsComplete": true,
+            "Values": {
+              "7f83ea12": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#Unlock": {
+        "QuestId": "f1m32_q#Unlock",
+        "QuestState": 3,
+        "QuestObjectives": [],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#unlock_zhixian2": {
+        "QuestId": "f1m32_q#unlock_zhixian2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "fb232a0b",
+            "IsComplete": true,
+            "Values": {
+              "fb232a0b": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#UnlockTech": {
+        "QuestId": "f1m32_q#UnlockTech",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "15f1b95e",
+            "IsComplete": true,
+            "Values": {
+              "15f1b95e": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#UnlockTechOrUpdateTech": {
+        "QuestId": "f1m32_q#UnlockTechOrUpdateTech",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "1c6de062",
+            "IsComplete": true,
+            "Values": {
+              "1c6de062": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#UnlocTech2": {
+        "QuestId": "f1m32_q#UnlocTech2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "1a012727",
+            "IsComplete": true,
+            "Values": {
+              "1a012727": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "f1m32_q#WaitSettlementUnlock": {
+        "QuestId": "f1m32_q#WaitSettlementUnlock",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "79b3f7eb",
+            "IsComplete": true,
+            "Values": {
+              "79b3f7eb": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#10": {
+        "QuestId": "sm2l10m2_q#10",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "ea4a6736",
+            "IsComplete": true,
+            "Values": {
+              "ea4a6736": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#11": {
+        "QuestId": "sm2l10m2_q#11",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "180840c5",
+            "IsComplete": true,
+            "Values": {
+              "180840c5": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#12": {
+        "QuestId": "sm2l10m2_q#12",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "4cdbcc72",
+            "IsComplete": true,
+            "Values": {
+              "4cdbcc72": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#13": {
+        "QuestId": "sm2l10m2_q#13",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "bfda5c85",
+            "IsComplete": true,
+            "Values": {
+              "bfda5c85": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#14": {
+        "QuestId": "sm2l10m2_q#14",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "c2d0a17a",
+            "IsComplete": true,
+            "Values": {
+              "c2d0a17a": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#15": {
+        "QuestId": "sm2l10m2_q#15",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "d1062fe8",
+            "IsComplete": true,
+            "Values": {
+              "d1062fe8": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#16": {
+        "QuestId": "sm2l10m2_q#16",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "4d1ef277",
+            "IsComplete": true,
+            "Values": {
+              "4d1ef277": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#17": {
+        "QuestId": "sm2l10m2_q#17",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "bee278e0",
+            "IsComplete": true,
+            "Values": {
+              "bee278e0": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#18": {
+        "QuestId": "sm2l10m2_q#18",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "fddedc28",
+            "IsComplete": true,
+            "Values": {
+              "fddedc28": 0,
+              "5190c227": 0,
+              "aa4d0870": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#19": {
+        "QuestId": "sm2l10m2_q#19",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "97eb2d40",
+            "IsComplete": true,
+            "Values": {
+              "97eb2d40": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#2": {
+        "QuestId": "sm2l10m2_q#2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "42de1dc9",
+            "IsComplete": true,
+            "Values": {
+              "42de1dc9": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#20": {
+        "QuestId": "sm2l10m2_q#20",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "bbd6aa4a",
+            "IsComplete": true,
+            "Values": {
+              "bbd6aa4a": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#21": {
+        "QuestId": "sm2l10m2_q#21",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "4545b039",
+            "IsComplete": true,
+            "Values": {
+              "4545b039": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#22": {
+        "QuestId": "sm2l10m2_q#22",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "367d06ed",
+            "IsComplete": true,
+            "Values": {
+              "367d06ed": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#23": {
+        "QuestId": "sm2l10m2_q#23",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "d8c8104d",
+            "IsComplete": true,
+            "Values": {
+              "d8c8104d": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#24": {
+        "QuestId": "sm2l10m2_q#24",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "72038f86",
+            "IsComplete": true,
+            "Values": {
+              "72038f86": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#25": {
+        "QuestId": "sm2l10m2_q#25",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "58cd1cea",
+            "IsComplete": true,
+            "Values": {
+              "58cd1cea": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#3": {
+        "QuestId": "sm2l10m2_q#3",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "8692e714",
+            "IsComplete": true,
+            "Values": {
+              "8692e714": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#4": {
+        "QuestId": "sm2l10m2_q#4",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "44f72832",
+            "IsComplete": true,
+            "Values": {
+              "44f72832": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#5": {
+        "QuestId": "sm2l10m2_q#5",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "ff781877",
+            "IsComplete": true,
+            "Values": {
+              "ff781877": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#6": {
+        "QuestId": "sm2l10m2_q#6",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "b21a20ab",
+            "IsComplete": true,
+            "Values": {
+              "b21a20ab": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#7": {
+        "QuestId": "sm2l10m2_q#7",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "8598b12d",
+            "IsComplete": true,
+            "Values": {
+              "8598b12d": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#8": {
+        "QuestId": "sm2l10m2_q#8",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "26060eae",
+            "IsComplete": true,
+            "Values": {
+              "26060eae": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l10m2_q#9": {
+        "QuestId": "sm2l10m2_q#9",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "45ff0f09",
+            "IsComplete": true,
+            "Values": {
+              "45ff0f09": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#1": {
+        "QuestId": "sm2l1m1_q#1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "a609b13b",
+            "IsComplete": true,
+            "Values": {
+              "a609b13b": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#10": {
+        "QuestId": "sm2l1m1_q#10",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "44d4b0a1",
+            "IsComplete": true,
+            "Values": {
+              "44d4b0a1": 0,
+              "aea6645f": 0,
+              "549dff14": 0,
+              "77d3d6b7": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#11": {
+        "QuestId": "sm2l1m1_q#11",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "1a56ef60",
+            "IsComplete": true,
+            "Values": {
+              "1a56ef60": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#13": {
+        "QuestId": "sm2l1m1_q#13",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "158ce5af",
+            "IsComplete": true,
+            "Values": {
+              "158ce5af": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#15": {
+        "QuestId": "sm2l1m1_q#15",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "f637690e",
+            "IsComplete": true,
+            "Values": {
+              "f637690e": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#17": {
+        "QuestId": "sm2l1m1_q#17",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "da512834",
+            "IsComplete": true,
+            "Values": {
+              "da512834": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#18": {
+        "QuestId": "sm2l1m1_q#18",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "289a6423",
+            "IsComplete": true,
+            "Values": {
+              "289a6423": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#19": {
+        "QuestId": "sm2l1m1_q#19",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "c6337223",
+            "IsComplete": true,
+            "Values": {
+              "c6337223": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#2": {
+        "QuestId": "sm2l1m1_q#2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "07724d24",
+            "IsComplete": true,
+            "Values": {
+              "07724d24": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#20": {
+        "QuestId": "sm2l1m1_q#20",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "c0a4fa82",
+            "IsComplete": true,
+            "Values": {
+              "c0a4fa82": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#21": {
+        "QuestId": "sm2l1m1_q#21",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "778d0114",
+            "IsComplete": true,
+            "Values": {
+              "778d0114": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#22": {
+        "QuestId": "sm2l1m1_q#22",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "0683ccb2",
+            "IsComplete": true,
+            "Values": {
+              "0683ccb2": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#23": {
+        "QuestId": "sm2l1m1_q#23",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "fea490dc",
+            "IsComplete": true,
+            "Values": {
+              "fea490dc": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#24": {
+        "QuestId": "sm2l1m1_q#24",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "f6704e5d",
+            "IsComplete": true,
+            "Values": {
+              "f6704e5d": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#25": {
+        "QuestId": "sm2l1m1_q#25",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "0e5b99f0",
+            "IsComplete": true,
+            "Values": {
+              "0e5b99f0": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#3": {
+        "QuestId": "sm2l1m1_q#3",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "95e9cb46",
+            "IsComplete": true,
+            "Values": {
+              "95e9cb46": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#4": {
+        "QuestId": "sm2l1m1_q#4",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "8cd6e88b",
+            "IsComplete": true,
+            "Values": {
+              "8cd6e88b": 0,
+              "f29a2334": 0,
+              "a85c5729": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#5": {
+        "QuestId": "sm2l1m1_q#5",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "8ade3766",
+            "IsComplete": true,
+            "Values": {
+              "8ade3766": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#6": {
+        "QuestId": "sm2l1m1_q#6",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "a3d82f05",
+            "IsComplete": true,
+            "Values": {
+              "a3d82f05": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#7": {
+        "QuestId": "sm2l1m1_q#7",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "a4d6a646",
+            "IsComplete": true,
+            "Values": {
+              "a4d6a646": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m1_q#9": {
+        "QuestId": "sm2l1m1_q#9",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "8b01b4a3",
+            "IsComplete": true,
+            "Values": {
+              "8b01b4a3": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m3_q#2": {
+        "QuestId": "sm2l1m3_q#2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "8e418220",
+            "IsComplete": true,
+            "Values": {
+              "8e418220": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m3_q#3": {
+        "QuestId": "sm2l1m3_q#3",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "d814e8b9",
+            "IsComplete": true,
+            "Values": {
+              "d814e8b9": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m3_q#4": {
+        "QuestId": "sm2l1m3_q#4",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "7913a1cd",
+            "IsComplete": true,
+            "Values": {
+              "7913a1cd": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m3_q#5": {
+        "QuestId": "sm2l1m3_q#5",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "250ff012",
+            "IsComplete": true,
+            "Values": {
+              "250ff012": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m3_q#6": {
+        "QuestId": "sm2l1m3_q#6",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "11696da4",
+            "IsComplete": true,
+            "Values": {
+              "11696da4": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l1m3_q#8": {
+        "QuestId": "sm2l1m3_q#8",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "84b24e15",
+            "IsComplete": true,
+            "Values": {
+              "84b24e15": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#1": {
+        "QuestId": "sm2l6m1_q#1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "ba0d105f",
+            "IsComplete": true,
+            "Values": {
+              "ba0d105f": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#10": {
+        "QuestId": "sm2l6m1_q#10",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "9408f1f3",
+            "IsComplete": true,
+            "Values": {
+              "9408f1f3": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#11": {
+        "QuestId": "sm2l6m1_q#11",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "9cf4f138",
+            "IsComplete": true,
+            "Values": {
+              "9cf4f138": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#12": {
+        "QuestId": "sm2l6m1_q#12",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "bcdd0a70",
+            "IsComplete": true,
+            "Values": {
+              "bcdd0a70": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#12_1": {
+        "QuestId": "sm2l6m1_q#12_1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "c4901e2c",
+            "IsComplete": true,
+            "Values": {
+              "c4901e2c": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#13": {
+        "QuestId": "sm2l6m1_q#13",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "1cdb5527",
+            "IsComplete": true,
+            "Values": {
+              "1cdb5527": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#14": {
+        "QuestId": "sm2l6m1_q#14",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "d8c939d1",
+            "IsComplete": true,
+            "Values": {
+              "d8c939d1": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#15": {
+        "QuestId": "sm2l6m1_q#15",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "1c6a5eaf",
+            "IsComplete": true,
+            "Values": {
+              "1c6a5eaf": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#16": {
+        "QuestId": "sm2l6m1_q#16",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "8fd1640e",
+            "IsComplete": true,
+            "Values": {
+              "8fd1640e": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#17": {
+        "QuestId": "sm2l6m1_q#17",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "4d2bceca",
+            "IsComplete": true,
+            "Values": {
+              "4d2bceca": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#18": {
+        "QuestId": "sm2l6m1_q#18",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "648ff3a7",
+            "IsComplete": true,
+            "Values": {
+              "648ff3a7": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#19": {
+        "QuestId": "sm2l6m1_q#19",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "af56bf8c",
+            "IsComplete": true,
+            "Values": {
+              "af56bf8c": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#2": {
+        "QuestId": "sm2l6m1_q#2",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "3829dfed",
+            "IsComplete": true,
+            "Values": {
+              "3829dfed": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#20": {
+        "QuestId": "sm2l6m1_q#20",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "9a1a859f",
+            "IsComplete": true,
+            "Values": {
+              "9a1a859f": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#21": {
+        "QuestId": "sm2l6m1_q#21",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "545d9e55",
+            "IsComplete": true,
+            "Values": {
+              "545d9e55": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#22": {
+        "QuestId": "sm2l6m1_q#22",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "139b0001",
+            "IsComplete": true,
+            "Values": {
+              "139b0001": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#23": {
+        "QuestId": "sm2l6m1_q#23",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "bbdda413",
+            "IsComplete": true,
+            "Values": {
+              "bbdda413": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#23_1": {
+        "QuestId": "sm2l6m1_q#23_1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "3c007b78",
+            "IsComplete": true,
+            "Values": {
+              "3c007b78": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#24": {
+        "QuestId": "sm2l6m1_q#24",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "e6bc8968",
+            "IsComplete": true,
+            "Values": {
+              "e6bc8968": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#25": {
+        "QuestId": "sm2l6m1_q#25",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "da791206",
+            "IsComplete": true,
+            "Values": {
+              "da791206": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#26": {
+        "QuestId": "sm2l6m1_q#26",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "86ff2c0f",
+            "IsComplete": true,
+            "Values": {
+              "86ff2c0f": 0,
+              "12ffc8cc": 0,
+              "918af82b": 0,
+              "41acaf11": 0,
+              "8ed58e5c": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#3": {
+        "QuestId": "sm2l6m1_q#3",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "bbef7231",
+            "IsComplete": true,
+            "Values": {
+              "bbef7231": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#4": {
+        "QuestId": "sm2l6m1_q#4",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "96f28027",
+            "IsComplete": true,
+            "Values": {
+              "96f28027": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#5": {
+        "QuestId": "sm2l6m1_q#5",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "e175a107",
+            "IsComplete": true,
+            "Values": {
+              "e175a107": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#6": {
+        "QuestId": "sm2l6m1_q#6",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "400efa6a",
+            "IsComplete": true,
+            "Values": {
+              "400efa6a": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#7": {
+        "QuestId": "sm2l6m1_q#7",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "baa7f623",
+            "IsComplete": true,
+            "Values": {
+              "baa7f623": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#7_1": {
+        "QuestId": "sm2l6m1_q#7_1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "a46b0dc0",
+            "IsComplete": true,
+            "Values": {
+              "a46b0dc0": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#8": {
+        "QuestId": "sm2l6m1_q#8",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "ede11418",
+            "IsComplete": true,
+            "Values": {
+              "ede11418": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#8_1": {
+        "QuestId": "sm2l6m1_q#8_1",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "2bcf0f6f",
+            "IsComplete": true,
+            "Values": {
+              "2bcf0f6f": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      },
+      "sm2l6m1_q#9": {
+        "QuestId": "sm2l6m1_q#9",
+        "QuestState": 3,
+        "QuestObjectives": [
+          {
+            "ConditionId": "ba0bf3dd",
+            "IsComplete": true,
+            "Values": {
+              "ba0bf3dd": 0
+            }
+          }
+        ],
+        "DisplayObjectives": []
+      }
+    }
+  }
+}

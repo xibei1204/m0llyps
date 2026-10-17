@@ -1,0 +1,8180 @@
+{
+  "worldEntityBriefInfos": {
+    "200001237": {
+      "position": {
+        "x": -669.700012,
+        "y": 122.222,
+        "z": -77.3099976
+      },
+      "rotation": {
+        "x": 0,
+        "y": 176.689331,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "200001239": {
+      "position": {
+        "x": -794.070007,
+        "y": 127.333298,
+        "z": 119.910004
+      },
+      "rotation": {
+        "x": 0,
+        "y": 41.8478775,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "200001240": {
+      "position": {
+        "x": -839.679993,
+        "y": 142.473068,
+        "z": 124.040001
+      },
+      "rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "200001694": {
+      "position": {
+        "x": -841.830017,
+        "y": 142.17012,
+        "z": 11.2799997
+      },
+      "rotation": {
+        "x": 0,
+        "y": 52.3324013,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_01_map01_lv002_data_gameplay_001"
+    },
+    "300001865": {
+      "position": {
+        "x": 236.360001,
+        "y": 66.7099991,
+        "z": -571.710022
+      },
+      "rotation": {
+        "x": 0,
+        "y": 180.026489,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "300001874": {
+      "position": {
+        "x": 349.809998,
+        "y": 27.137001,
+        "z": -688.190002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 240.121307,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "300002538": {
+      "position": {
+        "x": 400.450012,
+        "y": 99.998291,
+        "z": -621.830017
+      },
+      "rotation": {
+        "x": 0,
+        "y": 67.7241516,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "300002665": {
+      "position": {
+        "x": 339.549988,
+        "y": 57.5972672,
+        "z": -835.859985
+      },
+      "rotation": {
+        "x": 0,
+        "y": 199.786545,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "300002668": {
+      "position": {
+        "x": 156.792786,
+        "y": 57.0786514,
+        "z": -715.846985
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_map01_lv003_data_gameplay_001"
+    },
+    "2100000031": {
+      "position": {
+        "x": -380.614014,
+        "y": 107.560905,
+        "z": -398.660004
+      },
+      "rotation": {
+        "x": 0,
+        "y": 291.917908,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "2100000073": {
+      "position": {
+        "x": -9.63074875,
+        "y": 95.9091415,
+        "z": -477.364868
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "2100000086": {
+      "position": {
+        "x": -273.079987,
+        "y": 139.049255,
+        "z": -92.6078339
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0.67560941,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "2100000093": {
+      "position": {
+        "x": -492.820007,
+        "y": 92.5275269,
+        "z": -504.369995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 238.976105,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "2100000284": {
+      "position": {
+        "x": -119.87532,
+        "y": 98.1442795,
+        "z": -384.195465
+      },
+      "rotation": {
+        "x": 0,
+        "y": 145.023407,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "2100000322": {
+      "position": {
+        "x": -152.48996,
+        "y": 104.642609,
+        "z": -480.850006
+      },
+      "rotation": {
+        "x": 0,
+        "y": 71.5070648,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "2100010282": {
+      "position": {
+        "x": -183.301727,
+        "y": 147.348694,
+        "z": -43.7900009
+      },
+      "rotation": {
+        "x": 0,
+        "y": 271.877197,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "2100210142": {
+      "position": {
+        "x": -227.890549,
+        "y": 114.605133,
+        "z": -187.011841
+      },
+      "rotation": {
+        "x": 0,
+        "y": 220.300003,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_gentleman_unionscholar_a_31_map01_lv001_data_sub_gm01m2_gameplay_001"
+    },
+    "2100210143": {
+      "position": {
+        "x": -227.637817,
+        "y": 114.4412,
+        "z": -188.252686
+      },
+      "rotation": {
+        "x": 0,
+        "y": 268.529999,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_tpl_gentleman_unionscholar_a_07_map01_lv001_data_sub_gm01m2_gameplay_001"
+    },
+    "2100210144": {
+      "position": {
+        "x": -229.756424,
+        "y": 114.358131,
+        "z": -187.717346
+      },
+      "rotation": {
+        "x": 0,
+        "y": 35.5,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_tpl_gentleman_unionscholar_a_10_map01_lv001_data_sub_gm01m2_gameplay_001"
+    },
+    "2100430019": {
+      "position": {
+        "x": -177.089005,
+        "y": 108.37899,
+        "z": -520.18103
+      },
+      "rotation": {
+        "x": 0,
+        "y": 37.0054703,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_glowing_02_map01_lv001_data_sub_08_gameplay_007"
+    },
+    "2100430020": {
+      "position": {
+        "x": -119.341995,
+        "y": 88.7085419,
+        "z": -461.332001
+      },
+      "rotation": {
+        "x": 0,
+        "y": 284.393402,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_glowing_02_map01_lv001_data_sub_08_gameplay_002"
+    },
+    "2100430021": {
+      "position": {
+        "x": -164.349991,
+        "y": 107.863998,
+        "z": -499.140015
+      },
+      "rotation": {
+        "x": 0,
+        "y": 188.599152,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_glowing_02_map01_lv001_data_sub_08_gameplay_005"
+    },
+    "2100430026": {
+      "position": {
+        "x": -183.650024,
+        "y": 97.6508331,
+        "z": -420.086426
+      },
+      "rotation": {
+        "x": 0,
+        "y": 114.800949,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_glowing_02_map01_lv001_data_sub_08_gameplay_001"
+    },
+    "2100430027": {
+      "position": {
+        "x": -100.486,
+        "y": 96.5670013,
+        "z": -499.787994
+      },
+      "rotation": {
+        "x": 0,
+        "y": 297.821106,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_glowing_02_map01_lv001_data_sub_08_gameplay_003"
+    },
+    "2100430037": {
+      "position": {
+        "x": -170.281998,
+        "y": 107.445,
+        "z": -500.657013
+      },
+      "rotation": {
+        "x": 0,
+        "y": 164.443848,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_glowing_02_map01_lv001_data_sub_08_gameplay_006"
+    },
+    "2100430038": {
+      "position": {
+        "x": -155.574997,
+        "y": 107.61203,
+        "z": -506.501007
+      },
+      "rotation": {
+        "x": 0,
+        "y": 257.249146,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_glowing_02_map01_lv001_data_sub_08_gameplay_004"
+    },
+    "2100430306": {
+      "position": {
+        "x": -158.30899,
+        "y": 107.892822,
+        "z": -501.381012
+      },
+      "rotation": {
+        "x": 0,
+        "y": 223.973022,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_glowing_02_map01_lv001_data_sub_08_gameplay_008"
+    },
+    "2800001292": {
+      "position": {
+        "x": 75.3300018,
+        "y": 158.894943,
+        "z": 685.030029
+      },
+      "rotation": {
+        "x": 0,
+        "y": 83.2284775,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "2800001338": {
+      "position": {
+        "x": -224.990005,
+        "y": 159.047592,
+        "z": 486.470001
+      },
+      "rotation": {
+        "x": 0,
+        "y": 342.8909,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "2800001509": {
+      "position": {
+        "x": -61.0999985,
+        "y": 171.33905,
+        "z": 575.23999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 180.141037,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "2800001519": {
+      "position": {
+        "x": -99.8799973,
+        "y": 196.046158,
+        "z": 352.579987
+      },
+      "rotation": {
+        "x": 0,
+        "y": 297.655518,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "2800020025": {
+      "position": {
+        "x": -246.217072,
+        "y": 176.449402,
+        "z": 387.942444
+      },
+      "rotation": {
+        "x": 0,
+        "y": 159.003708,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_gentleman_unionscholar_a_31_map01_lv007_data_sub_01_gameplay_001"
+    },
+    "2800020026": {
+      "position": {
+        "x": -245.881226,
+        "y": 176.749802,
+        "z": 385.202209
+      },
+      "rotation": {
+        "x": 0,
+        "y": 333.087402,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_tpl_gentleman_unionscholar_a_07_map01_lv007_data_sub_01_gameplay_001"
+    },
+    "2800020027": {
+      "position": {
+        "x": -244.143311,
+        "y": 176.857117,
+        "z": 387.370636
+      },
+      "rotation": {
+        "x": 0,
+        "y": 256.31369,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_tpl_gentleman_unionscholar_a_10_map01_lv007_data_sub_01_gameplay_001"
+    },
+    "2800220066": {
+      "position": {
+        "x": -237.917236,
+        "y": 183.917908,
+        "z": 662.869019
+      },
+      "rotation": {
+        "x": 0,
+        "y": 188.491623,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_map01_lv007_data_sub_04_gameplay_001"
+    },
+    "3400010189": {
+      "position": {
+        "x": 715.916992,
+        "y": 62.2999992,
+        "z": -52.8860016
+      },
+      "rotation": {
+        "x": 0,
+        "y": 53.7541008,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "3400010203": {
+      "position": {
+        "x": 599.364624,
+        "y": 96.630127,
+        "z": -312.28244
+      },
+      "rotation": {
+        "x": 0,
+        "y": 146.347107,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_gentleman_unionscholar_a_31_map01_lv005_data_sub_01_gameplay_001"
+    },
+    "3400010204": {
+      "position": {
+        "x": 601.24762,
+        "y": 95.7566986,
+        "z": -323.146301
+      },
+      "rotation": {
+        "x": 0,
+        "y": 169.088699,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_tpl_gentleman_unionscholar_a_07_map01_lv005_data_sub_01_gameplay_001"
+    },
+    "3400010205": {
+      "position": {
+        "x": 598.874573,
+        "y": 96.2771301,
+        "z": -318.642456
+      },
+      "rotation": {
+        "x": 0,
+        "y": 59.3428917,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_tpl_gentleman_unionscholar_a_10_map01_lv005_data_sub_01_gameplay_001"
+    },
+    "3400020743": {
+      "position": {
+        "x": 819.840027,
+        "y": 100.010002,
+        "z": -191.639999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "3400020746": {
+      "position": {
+        "x": 340.163696,
+        "y": 95.9121017,
+        "z": -284.906006
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "3400020747": {
+      "position": {
+        "x": 608.51001,
+        "y": 96.7900009,
+        "z": -153.119995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 225.220001,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "3400020917": {
+      "position": {
+        "x": 443.189117,
+        "y": 71.0539703,
+        "z": -325.611328
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_map01_lv005_data_sub_02_gameplay_003"
+    },
+    "3400020918": {
+      "position": {
+        "x": 430.999939,
+        "y": 70.3176956,
+        "z": -322.205688
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_map01_lv005_data_sub_02_gameplay_001"
+    },
+    "3400020919": {
+      "position": {
+        "x": 441.362854,
+        "y": 70.4800034,
+        "z": -317.840332
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_map01_lv005_data_sub_02_gameplay_002"
+    },
+    "3400021048": {
+      "position": {
+        "x": 621.099976,
+        "y": 94.5599976,
+        "z": -340.390015
+      },
+      "rotation": {
+        "x": 0,
+        "y": 300,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "3400160008": {
+      "position": {
+        "x": 484.493774,
+        "y": 96.8468094,
+        "z": -263.836151
+      },
+      "rotation": {
+        "x": 0,
+        "y": 152.593918,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_map01_lv005_data_sub_gm01m16_gameplay_001"
+    },
+    "3400160040": {
+      "position": {
+        "x": 476.925995,
+        "y": 96.7710037,
+        "z": -276.199005
+      },
+      "rotation": {
+        "x": 0,
+        "y": 341.282562,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_map01_lv005_data_sub_gm01m16_gameplay_002"
+    },
+    "3400310118": {
+      "position": {
+        "x": 423.979004,
+        "y": 80.0192261,
+        "z": -339.748871
+      },
+      "rotation": {
+        "x": 0,
+        "y": 100.19696,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_map01_lv005_data_sub_c16m2_gameplay_001"
+    },
+    "3500022068": {
+      "position": {
+        "x": 441.610779,
+        "y": 32.0490265,
+        "z": 149.864716
+      },
+      "rotation": {
+        "x": 0,
+        "y": 209.667801,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_02_map01_lv006_data_sub01_gameplay_001"
+    },
+    "3500022069": {
+      "position": {
+        "x": 447.709991,
+        "y": 36.3723297,
+        "z": 223.710007
+      },
+      "rotation": {
+        "x": 0,
+        "y": 197.767029,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_02_map01_lv006_data_sub01_gameplay_003"
+    },
+    "3500022070": {
+      "position": {
+        "x": 594.289978,
+        "y": 44.0052757,
+        "z": 158.359985
+      },
+      "rotation": {
+        "x": 0,
+        "y": 331.920471,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_02_map01_lv006_data_sub01_gameplay_002"
+    },
+    "3500022071": {
+      "position": {
+        "x": 385.690002,
+        "y": 15.5923491,
+        "z": 148.210007
+      },
+      "rotation": {
+        "x": 0,
+        "y": 127.456085,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_02_map01_lv006_data_sub01_gameplay_004"
+    },
+    "3500031058": {
+      "position": {
+        "x": 230.483688,
+        "y": 67.0931091,
+        "z": 664.99762
+      },
+      "rotation": {
+        "x": 0,
+        "y": 308.940063,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "3500031059": {
+      "position": {
+        "x": 294.350006,
+        "y": 57.0698814,
+        "z": 484.559998
+      },
+      "rotation": {
+        "x": 0,
+        "y": 102.543602,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "3500031060": {
+      "position": {
+        "x": 541.349976,
+        "y": 39.1940422,
+        "z": 245.690002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 322.106415,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "3500031061": {
+      "position": {
+        "x": 640.340027,
+        "y": 35.4239998,
+        "z": 440.559998
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "3500031199": {
+      "position": {
+        "x": 720.48999,
+        "y": 70.913887,
+        "z": 95.5599976
+      },
+      "rotation": {
+        "x": 0,
+        "y": 167.536804,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "3500031318": {
+      "position": {
+        "x": 312.365479,
+        "y": 75.8972168,
+        "z": 523.973816
+      },
+      "rotation": {
+        "x": 11.9600029,
+        "y": 238.049988,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_01_map01_lv006_data_sub03_gameplay_002"
+    },
+    "3500031319": {
+      "position": {
+        "x": 307.516327,
+        "y": 54.8939743,
+        "z": 481.037445
+      },
+      "rotation": {
+        "x": 11.9600029,
+        "y": 238.049988,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_01_map01_lv006_data_sub03_gameplay_003"
+    },
+    "3500031320": {
+      "position": {
+        "x": 756.252136,
+        "y": 33.2099991,
+        "z": 504.455597
+      },
+      "rotation": {
+        "x": 5.46000051,
+        "y": 36.25,
+        "z": -1.07208116e-07
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_01_map01_lv006_data_sub03_gameplay_004"
+    },
+    "3500031321": {
+      "position": {
+        "x": 748.940186,
+        "y": 32.4112244,
+        "z": 485.887909
+      },
+      "rotation": {
+        "x": 5.46000051,
+        "y": 36.25,
+        "z": -1.07208116e-07
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_01_map01_lv006_data_sub03_gameplay_005"
+    },
+    "3500031322": {
+      "position": {
+        "x": 748.8078,
+        "y": 32.4599991,
+        "z": 532.84668
+      },
+      "rotation": {
+        "x": 5.46000051,
+        "y": 36.25,
+        "z": -1.07208116e-07
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_01_map01_lv006_data_sub03_gameplay_006"
+    },
+    "3500031323": {
+      "position": {
+        "x": 732.04425,
+        "y": 31.4892445,
+        "z": 588.328552
+      },
+      "rotation": {
+        "x": 350.119995,
+        "y": 190.369995,
+        "z": -5.41641469e-08
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_01_map01_lv006_data_sub03_gameplay_007"
+    },
+    "3500031324": {
+      "position": {
+        "x": 701.084229,
+        "y": 35.1392441,
+        "z": 466.288574
+      },
+      "rotation": {
+        "x": 5.46000051,
+        "y": 36.25,
+        "z": -1.07208116e-07
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_01_map01_lv006_data_sub03_gameplay_008"
+    },
+    "3500031325": {
+      "position": {
+        "x": 566.962524,
+        "y": 35.8171196,
+        "z": 512.728699
+      },
+      "rotation": {
+        "x": 1.36000025,
+        "y": 334.799957,
+        "z": 1.51999986
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_01_map01_lv006_data_sub03_gameplay_009"
+    },
+    "3500031326": {
+      "position": {
+        "x": 645.390259,
+        "y": 37.4657402,
+        "z": 632.233093
+      },
+      "rotation": {
+        "x": 359.079987,
+        "y": 189.979996,
+        "z": -6.67096645e-09
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_01_map01_lv006_data_sub03_gameplay_010"
+    },
+    "3500080027": {
+      "position": {
+        "x": 317.625,
+        "y": 77.6764679,
+        "z": 604.794006
+      },
+      "rotation": {
+        "x": 0,
+        "y": 172.292007,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_machine_01_map01_lv006_data_sub_gm01m17_gameplay_001"
+    },
+    "3500080029": {
+      "position": {
+        "x": 286.630005,
+        "y": 75.3670273,
+        "z": 584.960022
+      },
+      "rotation": {
+        "x": 0,
+        "y": 95.6251984,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_machine_01_map01_lv006_data_sub_gm01m17_gameplay_003"
+    },
+    "3500080030": {
+      "position": {
+        "x": 297.360992,
+        "y": 75.3082275,
+        "z": 580.085022
+      },
+      "rotation": {
+        "x": 0,
+        "y": 145.373962,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_machine_01_map01_lv006_data_sub_gm01m17_gameplay_004"
+    },
+    "3500080031": {
+      "position": {
+        "x": 306.869995,
+        "y": 75.3270264,
+        "z": 573.840027
+      },
+      "rotation": {
+        "x": 0,
+        "y": 177.353485,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_machine_01_map01_lv006_data_sub_gm01m17_gameplay_005"
+    },
+    "3500080032": {
+      "position": {
+        "x": 314.966003,
+        "y": 77.6764679,
+        "z": 604.728027
+      },
+      "rotation": {
+        "x": 0,
+        "y": 172.870636,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_machine_01_map01_lv006_data_sub_gm01m17_gameplay_006"
+    },
+    "3500190006": {
+      "position": {
+        "x": 630.619263,
+        "y": 45.4780731,
+        "z": 253.803207
+      },
+      "rotation": {
+        "x": 0,
+        "y": 354.410492,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_gentleman_unionscholar_a_31_map01_lv006_data_sub_gm01m24_gameplay_001"
+    },
+    "3500190007": {
+      "position": {
+        "x": 630.453979,
+        "y": 45.5472221,
+        "z": 246.711411
+      },
+      "rotation": {
+        "x": 0,
+        "y": 189.522934,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_tpl_gentleman_unionscholar_a_07_map01_lv006_data_sub_gm01m24_gameplay_001"
+    },
+    "3500190008": {
+      "position": {
+        "x": 626.486145,
+        "y": 45.582283,
+        "z": 253.636353
+      },
+      "rotation": {
+        "x": 0,
+        "y": 97.8729477,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_tpl_gentleman_unionscholar_a_10_map01_lv006_data_sub_gm01m24_gameplay_001"
+    },
+    "3500360022": {
+      "position": {
+        "x": 569.871094,
+        "y": 43.6772003,
+        "z": 428.058411
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_02_map01_lv006_data_sub_wulfa_gameplay_010"
+    },
+    "3500360025": {
+      "position": {
+        "x": 596.76709,
+        "y": 48.1441994,
+        "z": 420.102814
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_02_map01_lv006_data_sub_wulfa_gameplay_008"
+    },
+    "3500360030": {
+      "position": {
+        "x": 586.241089,
+        "y": 47.6227989,
+        "z": 420.974609
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_02_map01_lv006_data_sub_wulfa_gameplay_009"
+    },
+    "3500360033": {
+      "position": {
+        "x": 589.563416,
+        "y": 46.735096,
+        "z": 436.321106
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_02_map01_lv006_data_sub_wulfa_gameplay_011"
+    },
+    "3500360036": {
+      "position": {
+        "x": 591.396423,
+        "y": 47.4650002,
+        "z": 433.083313
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_02_map01_lv006_data_sub_wulfa_gameplay_012"
+    },
+    "3500360039": {
+      "position": {
+        "x": 603.09198,
+        "y": 47.5971985,
+        "z": 424.998901
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_02_map01_lv006_data_sub_wulfa_gameplay_013"
+    },
+    "3500360042": {
+      "position": {
+        "x": 591.7229,
+        "y": 45.0502014,
+        "z": 445.230408
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_02_map01_lv006_data_sub_wulfa_gameplay_014"
+    },
+    "9800000001": {
+      "position": {
+        "x": 0,
+        "y": 2.41000009,
+        "z": -50
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "9800000002": {
+      "position": {
+        "x": 0,
+        "y": 0.939999998,
+        "z": 57.137001
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2_smaller"
+    },
+    "9800000031": {
+      "position": {
+        "x": -67.2910004,
+        "y": 1.42200005,
+        "z": 0.388999999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_system_spaceship_visit_portal"
+    },
+    "10100020314": {
+      "position": {
+        "x": -1127.71997,
+        "y": 226.68718,
+        "z": -1746.59009
+      },
+      "rotation": {
+        "x": 0,
+        "y": 292.856873,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "10100020315": {
+      "position": {
+        "x": -1243.56348,
+        "y": 240.191971,
+        "z": -1978.74609
+      },
+      "rotation": {
+        "x": 0,
+        "y": 50.0328217,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "10100020319": {
+      "position": {
+        "x": -962.200012,
+        "y": 228.587952,
+        "z": -1905.31006
+      },
+      "rotation": {
+        "x": 359.888367,
+        "y": 277.185913,
+        "z": 359.759857
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "10100020350": {
+      "position": {
+        "x": -1042.81006,
+        "y": 229.197952,
+        "z": -1668.54004
+      },
+      "rotation": {
+        "x": 0,
+        "y": 359.854553,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "10100020646": {
+      "position": {
+        "x": -745.440002,
+        "y": 234.008453,
+        "z": -1544
+      },
+      "rotation": {
+        "x": 0,
+        "y": 42.1487465,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "10100023293": {
+      "position": {
+        "x": -1105.70435,
+        "y": 226.647598,
+        "z": -1584.96997
+      },
+      "rotation": {
+        "x": 0,
+        "y": 139.829285,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv001_data_sub_01_gameplay_007"
+    },
+    "10100023294": {
+      "position": {
+        "x": -1102.04602,
+        "y": 226.622116,
+        "z": -1616.37207
+      },
+      "rotation": {
+        "x": 0,
+        "y": 45.1225471,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv001_data_sub_01_gameplay_009"
+    },
+    "10100023295": {
+      "position": {
+        "x": -1089.73401,
+        "y": 226.649002,
+        "z": -1590.43994
+      },
+      "rotation": {
+        "x": 0,
+        "y": 222.102066,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv001_data_sub_01_gameplay_008"
+    },
+    "10100023296": {
+      "position": {
+        "x": -1096.82434,
+        "y": 226.681503,
+        "z": -1614.75
+      },
+      "rotation": {
+        "x": 0,
+        "y": 251.98439,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv001_data_sub_01_gameplay_010"
+    },
+    "10100023302": {
+      "position": {
+        "x": -926.690918,
+        "y": 263.273773,
+        "z": -1858.70349
+      },
+      "rotation": {
+        "x": 0,
+        "y": 330.854523,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv001_data_sub_01_gameplay_001"
+    },
+    "10100023303": {
+      "position": {
+        "x": -943.750916,
+        "y": 263.273804,
+        "z": -1830.17346
+      },
+      "rotation": {
+        "x": 0,
+        "y": 227.673798,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv001_data_sub_01_gameplay_002"
+    },
+    "10100023304": {
+      "position": {
+        "x": -922.26593,
+        "y": 263.367859,
+        "z": -1848.99341
+      },
+      "rotation": {
+        "x": 0,
+        "y": 275.76355,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv001_data_sub_01_gameplay_003"
+    },
+    "10100023305": {
+      "position": {
+        "x": -937.939941,
+        "y": 263.257385,
+        "z": -1852.94849
+      },
+      "rotation": {
+        "x": 0,
+        "y": 319.871613,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv001_data_sub_01_gameplay_004"
+    },
+    "10100023310": {
+      "position": {
+        "x": -1139.60474,
+        "y": 226.783096,
+        "z": -1633.21716
+      },
+      "rotation": {
+        "x": 0,
+        "y": 173.345947,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv001_data_sub_01_gameplay_011"
+    },
+    "10100023311": {
+      "position": {
+        "x": -1164.87476,
+        "y": 226.753098,
+        "z": -1649.39722
+      },
+      "rotation": {
+        "x": 0,
+        "y": 52.4916763,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv001_data_sub_01_gameplay_015"
+    },
+    "10100023312": {
+      "position": {
+        "x": -1148.80969,
+        "y": 226.83934,
+        "z": -1648.20422
+      },
+      "rotation": {
+        "x": 0,
+        "y": 62.1286316,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv001_data_sub_01_gameplay_012"
+    },
+    "10100023313": {
+      "position": {
+        "x": -1157.34473,
+        "y": 226.747467,
+        "z": -1660.66724
+      },
+      "rotation": {
+        "x": 0,
+        "y": 328.399719,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv001_data_sub_01_gameplay_013"
+    },
+    "10100023314": {
+      "position": {
+        "x": -1120.11475,
+        "y": 226.622101,
+        "z": -1645.23718
+      },
+      "rotation": {
+        "x": 0,
+        "y": 224.406021,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_POI_FireflyFrogs_gameplay_005"
+    },
+    "10100023344": {
+      "position": {
+        "x": -957.350952,
+        "y": 263.290344,
+        "z": -1842.75342
+      },
+      "rotation": {
+        "x": 0,
+        "y": 47.6738014,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv001_data_sub_01_gameplay_014"
+    },
+    "10100023351": {
+      "position": {
+        "x": -989.223022,
+        "y": 226.63858,
+        "z": -1690.88281
+      },
+      "rotation": {
+        "x": 0,
+        "y": 78.720665,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv001_data_sub_01_gameplay_002"
+    },
+    "10100023352": {
+      "position": {
+        "x": -990.653015,
+        "y": 226.648972,
+        "z": -1686.78296
+      },
+      "rotation": {
+        "x": 0,
+        "y": 78.720665,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv001_data_sub_01_gameplay_003"
+    },
+    "10100023353": {
+      "position": {
+        "x": -994.638,
+        "y": 226.647995,
+        "z": -1685.41797
+      },
+      "rotation": {
+        "x": 0,
+        "y": 326.160828,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv001_data_sub_01_gameplay_001"
+    },
+    "10100023354": {
+      "position": {
+        "x": -994.38501,
+        "y": 226.647995,
+        "z": -1684.42395
+      },
+      "rotation": {
+        "x": 0,
+        "y": 291.254028,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv001_data_sub_01_gameplay_004"
+    },
+    "10100023355": {
+      "position": {
+        "x": -989.05603,
+        "y": 226.63858,
+        "z": -1691.72095
+      },
+      "rotation": {
+        "x": 0,
+        "y": 43.981144,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv001_data_sub_01_gameplay_005"
+    },
+    "10100030017": {
+      "position": {
+        "x": -992.219971,
+        "y": 237.070007,
+        "z": -1307.33997
+      },
+      "rotation": {
+        "x": 0,
+        "y": 137.013779,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "10100030018": {
+      "position": {
+        "x": -751.505249,
+        "y": 234.761993,
+        "z": -1138.02795
+      },
+      "rotation": {
+        "x": 0,
+        "y": 218.344406,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "10100030027": {
+      "position": {
+        "x": -961.889404,
+        "y": 247.259995,
+        "z": -1059.87
+      },
+      "rotation": {
+        "x": 0,
+        "y": 188.335953,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "10100030048": {
+      "position": {
+        "x": -735.26001,
+        "y": 236.005997,
+        "z": -1348.91003
+      },
+      "rotation": {
+        "x": 0,
+        "y": 186.131073,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "10100030146": {
+      "position": {
+        "x": -762.853088,
+        "y": 227.218735,
+        "z": -1441.26794
+      },
+      "rotation": {
+        "x": 0,
+        "y": 2.36607456,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "10100030179": {
+      "position": {
+        "x": -1058.83997,
+        "y": 193.589996,
+        "z": -1423.75
+      },
+      "rotation": {
+        "x": 3.84343338e-07,
+        "y": 324.600006,
+        "z": -1.9254513e-07
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "10100360072": {
+      "position": {
+        "x": -946.887207,
+        "y": 227.058899,
+        "z": -1414.99463
+      },
+      "rotation": {
+        "x": 0,
+        "y": 87.5033493,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv001_data_sub_05_gameplay_007"
+    },
+    "10100360081": {
+      "position": {
+        "x": -929.737244,
+        "y": 226.854156,
+        "z": -1408.20459
+      },
+      "rotation": {
+        "x": 0,
+        "y": 234.487152,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv001_data_sub_05_gameplay_004"
+    },
+    "10100360082": {
+      "position": {
+        "x": -943.347229,
+        "y": 226.661652,
+        "z": -1395.33459
+      },
+      "rotation": {
+        "x": 0,
+        "y": 163.264984,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv001_data_sub_05_gameplay_005"
+    },
+    "10100360083": {
+      "position": {
+        "x": -940.287231,
+        "y": 227.002686,
+        "z": -1406.8446
+      },
+      "rotation": {
+        "x": 0,
+        "y": 99.1199341,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv001_data_sub_05_gameplay_001"
+    },
+    "10100360087": {
+      "position": {
+        "x": -930.650513,
+        "y": 226.55896,
+        "z": -1428.30798
+      },
+      "rotation": {
+        "x": 0,
+        "y": 146.765991,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv001_data_sub_05_gameplay_002"
+    },
+    "10100380001": {
+      "position": {
+        "x": -863.664917,
+        "y": 232.784897,
+        "z": -1295.453
+      },
+      "rotation": {
+        "x": 0,
+        "y": 188.600006,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv001_data_sub_animal_v1d0_gameplay_001"
+    },
+    "10100380002": {
+      "position": {
+        "x": -867.904907,
+        "y": 232.958893,
+        "z": -1291.93286
+      },
+      "rotation": {
+        "x": 0,
+        "y": 152.100006,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv001_data_sub_animal_v1d0_gameplay_002"
+    },
+    "10100570014": {
+      "position": {
+        "x": -905.195801,
+        "y": 233.474854,
+        "z": -1154.58679
+      },
+      "rotation": {
+        "x": 0,
+        "y": 245.300003,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv001_data_sub_a1m6_gameplay_008"
+    },
+    "10100570015": {
+      "position": {
+        "x": -936.872009,
+        "y": 238.490005,
+        "z": -1152.479
+      },
+      "rotation": {
+        "x": 0,
+        "y": 241.914566,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_02_map02_lv001_data_sub_a1m6_gameplay_001"
+    },
+    "10100570016": {
+      "position": {
+        "x": -926.386475,
+        "y": 238.517303,
+        "z": -1148.76807
+      },
+      "rotation": {
+        "x": 0,
+        "y": 115.600014,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_02_map02_lv001_data_sub_a1m6_gameplay_002"
+    },
+    "10100570017": {
+      "position": {
+        "x": -937.099976,
+        "y": 238.432999,
+        "z": -1154.93005
+      },
+      "rotation": {
+        "x": 0,
+        "y": 309.583466,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv001_data_sub_a1m6_gameplay_001"
+    },
+    "10100570018": {
+      "position": {
+        "x": -918.182556,
+        "y": 235.854996,
+        "z": -1155.87585
+      },
+      "rotation": {
+        "x": 0,
+        "y": 342.273468,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_02_map02_lv001_data_sub_a1m6_gameplay_008"
+    },
+    "10100570019": {
+      "position": {
+        "x": -922.938477,
+        "y": 238.514008,
+        "z": -1143.84607
+      },
+      "rotation": {
+        "x": 0,
+        "y": 245.300003,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_02_map02_lv001_data_sub_a1m6_gameplay_007"
+    },
+    "10100570020": {
+      "position": {
+        "x": -909.659912,
+        "y": 236.199478,
+        "z": -1140.5304
+      },
+      "rotation": {
+        "x": 0,
+        "y": 47.7655334,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv001_data_sub_a1m6_gameplay_002"
+    },
+    "10100570021": {
+      "position": {
+        "x": -902.43103,
+        "y": 233.925003,
+        "z": -1147.46802
+      },
+      "rotation": {
+        "x": 8.25066185,
+        "y": 131.547989,
+        "z": 2.71430612
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv001_data_sub_a1m6_gameplay_003"
+    },
+    "10100570022": {
+      "position": {
+        "x": -890.66803,
+        "y": 232.979996,
+        "z": -1143.66199
+      },
+      "rotation": {
+        "x": 8.55013943,
+        "y": 170.664276,
+        "z": 3.84536362
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_02_map02_lv001_data_sub_a1m6_gameplay_013"
+    },
+    "10100570023": {
+      "position": {
+        "x": -912.04657,
+        "y": 233.908173,
+        "z": -1158.30408
+      },
+      "rotation": {
+        "x": 356.244659,
+        "y": 10.8266573,
+        "z": 8.02135105e-08
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_02_map02_lv001_data_sub_a1m6_gameplay_015"
+    },
+    "10100570024": {
+      "position": {
+        "x": -906.422729,
+        "y": 231.192001,
+        "z": -1163.72131
+      },
+      "rotation": {
+        "x": 0,
+        "y": 29.6690197,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_02_map02_lv001_data_sub_a1m6_gameplay_016"
+    },
+    "10100570025": {
+      "position": {
+        "x": -920.466492,
+        "y": 232.832047,
+        "z": -1166.85144
+      },
+      "rotation": {
+        "x": 356.810516,
+        "y": 217.727707,
+        "z": 354.830414
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_02_map02_lv001_data_sub_a1m6_gameplay_018"
+    },
+    "10100570026": {
+      "position": {
+        "x": -917.198853,
+        "y": 232.913269,
+        "z": -1169.97302
+      },
+      "rotation": {
+        "x": 9.92354393,
+        "y": 340.971832,
+        "z": 349.674011
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv001_data_sub_a1m6_gameplay_004"
+    },
+    "10100570027": {
+      "position": {
+        "x": -897.453796,
+        "y": 231.272003,
+        "z": -1157.23303
+      },
+      "rotation": {
+        "x": 1.25042415,
+        "y": 175.386536,
+        "z": 6.67169475e-09
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_02_map02_lv001_data_sub_a1m6_gameplay_023"
+    },
+    "10100570029": {
+      "position": {
+        "x": -885.460022,
+        "y": 231.091003,
+        "z": -1148.75
+      },
+      "rotation": {
+        "x": 0,
+        "y": 245.300003,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_02_map02_lv001_data_sub_a1m6_gameplay_022"
+    },
+    "10100570037": {
+      "position": {
+        "x": -897.452026,
+        "y": 231.233002,
+        "z": -1157.25195
+      },
+      "rotation": {
+        "x": 0,
+        "y": 175.386505,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_clean_01_map02_lv001_data_sub_a1m6_gameplay_001"
+    },
+    "10100570049": {
+      "position": {
+        "x": -881.690002,
+        "y": 231.091995,
+        "z": -1146.54004
+      },
+      "rotation": {
+        "x": 0,
+        "y": 33.2880669,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_05_map02_lv001_data_sub_a1m6_gameplay_001"
+    },
+    "10100570050": {
+      "position": {
+        "x": -909.352722,
+        "y": 231.072998,
+        "z": -1169.09802
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_clean_01_map02_lv001_data_sub_a1m6_gameplay_003"
+    },
+    "10100570051": {
+      "position": {
+        "x": -887.25,
+        "y": 233.820007,
+        "z": -1133.09998
+      },
+      "rotation": {
+        "x": 357.987152,
+        "y": 262.181885,
+        "z": -3.20362773e-07
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_clean_01_map02_lv001_data_sub_a1m6_gameplay_004"
+    },
+    "10100570052": {
+      "position": {
+        "x": -900.721008,
+        "y": 233.848999,
+        "z": -1146.50696
+      },
+      "rotation": {
+        "x": 4.60440016,
+        "y": 170.398407,
+        "z": 0.570200026
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_clean_01_map02_lv001_data_sub_a1m6_gameplay_005"
+    },
+    "10100570053": {
+      "position": {
+        "x": -908.659973,
+        "y": 236.309998,
+        "z": -1136.13
+      },
+      "rotation": {
+        "x": 5.5952816,
+        "y": 129.223526,
+        "z": -6.43395765e-07
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_clean_01_map02_lv001_data_sub_a1m6_gameplay_006"
+    },
+    "10100570054": {
+      "position": {
+        "x": -920.148987,
+        "y": 238.535004,
+        "z": -1137.04504
+      },
+      "rotation": {
+        "x": 357.525482,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_05_map02_lv001_data_sub_a1m6_gameplay_002"
+    },
+    "10100570055": {
+      "position": {
+        "x": -935.25,
+        "y": 238.476501,
+        "z": -1146.62
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_05_map02_lv001_data_sub_a1m6_gameplay_003"
+    },
+    "10100630001": {
+      "position": {
+        "x": -929.299988,
+        "y": 238.476471,
+        "z": -1141.71997
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_broomchck_01_map02_lv001_data_sub_kitestation_v1d1_gameplay_001"
+    },
+    "10200030151": {
+      "position": {
+        "x": -431.809998,
+        "y": 254.820007,
+        "z": 578.47998
+      },
+      "rotation": {
+        "x": 0,
+        "y": 262.866974,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "10200030153": {
+      "position": {
+        "x": -490.589996,
+        "y": 248.777252,
+        "z": 409.550018
+      },
+      "rotation": {
+        "x": 0,
+        "y": 299.702148,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "10200030160": {
+      "position": {
+        "x": -872.220581,
+        "y": 263.880005,
+        "z": 625.98999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90.1766586,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "10200030168": {
+      "position": {
+        "x": -564.599121,
+        "y": 247.240005,
+        "z": 485.23999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 272.096619,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "10200030169": {
+      "position": {
+        "x": -536.929993,
+        "y": 243.820007,
+        "z": 726.890015
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270.560577,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "10200030255": {
+      "position": {
+        "x": -434.100006,
+        "y": 260.463623,
+        "z": 760.23999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 25.3624878,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "10200280001": {
+      "position": {
+        "x": -392.51001,
+        "y": 249.87381,
+        "z": 470.130005
+      },
+      "rotation": {
+        "x": 0,
+        "y": 14.8968592,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_broomchck_01_map02_lv007_data_sub_f1m29d4_gameplay_003"
+    },
+    "10200280002": {
+      "position": {
+        "x": -394.369995,
+        "y": 249.89325,
+        "z": 470.269989
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_broomchck_01_map02_lv007_data_sub_f1m29d4_gameplay_004"
+    },
+    "12300000271": {
+      "position": {
+        "x": 102.532707,
+        "y": 1.78395081,
+        "z": 64.1909943
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_dung01_cdg007_data_gameplay_008"
+    },
+    "12300000272": {
+      "position": {
+        "x": 137.970428,
+        "y": 1.70877337,
+        "z": 65.990036
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_dung01_cdg007_data_gameplay_006"
+    },
+    "12300000275": {
+      "position": {
+        "x": 112.357658,
+        "y": 2.09433985,
+        "z": 60.5657082
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_dung01_cdg007_data_gameplay_007"
+    },
+    "12300000276": {
+      "position": {
+        "x": 71.4940033,
+        "y": -4.89660406,
+        "z": 71.1360016
+      },
+      "rotation": {
+        "x": 0,
+        "y": 157.575058,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_dung01_cdg007_data_gameplay_003"
+    },
+    "12300000277": {
+      "position": {
+        "x": 31.8735638,
+        "y": -7.41301441,
+        "z": 15.1091347
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_dung01_cdg007_data_gameplay_002"
+    },
+    "12300000278": {
+      "position": {
+        "x": 23.2822933,
+        "y": -7.72883987,
+        "z": 22.562048
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_dung01_cdg007_data_gameplay_010"
+    },
+    "12300000285": {
+      "position": {
+        "x": -4.40999985,
+        "y": 4.57000017,
+        "z": 90.8799973
+      },
+      "rotation": {
+        "x": 5.45999956,
+        "y": 293.079956,
+        "z": 6.95999765
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_dung01_cdg007_data_gameplay_005"
+    },
+    "12300000286": {
+      "position": {
+        "x": -8.88025093,
+        "y": 4.56382084,
+        "z": 96.7763443
+      },
+      "rotation": {
+        "x": 1.67756772,
+        "y": 171.881363,
+        "z": 0.596547842
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_dung01_cdg007_data_gameplay_011"
+    },
+    "12300000288": {
+      "position": {
+        "x": -11.8199997,
+        "y": 4.55999994,
+        "z": 94.0899963
+      },
+      "rotation": {
+        "x": 3.76000094,
+        "y": 111.319992,
+        "z": 357.390015
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_dung01_cdg007_data_gameplay_009"
+    },
+    "12300000289": {
+      "position": {
+        "x": -11.8500004,
+        "y": 4.53999996,
+        "z": 90.0400009
+      },
+      "rotation": {
+        "x": 359.450012,
+        "y": 49.2299957,
+        "z": 355.459991
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_dung01_cdg007_data_gameplay_001"
+    },
+    "12300000290": {
+      "position": {
+        "x": -8.53999996,
+        "y": 4.51999998,
+        "z": 88.3499985
+      },
+      "rotation": {
+        "x": 1.25,
+        "y": 351.790009,
+        "z": 358.009979
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_02_dung01_cdg007_data_gameplay_004"
+    },
+    "15900000020": {
+      "position": {
+        "x": -276.299988,
+        "y": 6.1893425,
+        "z": -107.769997
+      },
+      "rotation": {
+        "x": 0,
+        "y": 7.60000038,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_gentleman_unionminer_a_04_blackbox_asseblingbomb_1_data_gameplay_001"
+    },
+    "15900000021": {
+      "position": {
+        "x": -274.519989,
+        "y": 6.1893425,
+        "z": -107.690002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 221.509995,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_lady_unionminer_a_03_blackbox_asseblingbomb_1_data_gameplay_001"
+    },
+    "15900000022": {
+      "position": {
+        "x": -277.160004,
+        "y": 6.1893425,
+        "z": -92.0699997
+      },
+      "rotation": {
+        "x": 0,
+        "y": 197.5,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_01_blackbox_asseblingbomb_1_data_gameplay_001"
+    },
+    "15900000023": {
+      "position": {
+        "x": -274.829987,
+        "y": 6.1893425,
+        "z": -92.8399963
+      },
+      "rotation": {
+        "x": 0,
+        "y": 226.490005,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_01_blackbox_asseblingbomb_1_data_gameplay_002"
+    },
+    "22800030004": {
+      "position": {
+        "x": -1384.75293,
+        "y": 320,
+        "z": -292.964996
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "22800030005": {
+      "position": {
+        "x": -1107.82996,
+        "y": 282.484009,
+        "z": -371.939972
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "22800030007": {
+      "position": {
+        "x": -1342.32996,
+        "y": 308.680695,
+        "z": -532.309998
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "22800030008": {
+      "position": {
+        "x": -1109.29004,
+        "y": 280.453217,
+        "z": -730.638611
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "22800030009": {
+      "position": {
+        "x": -828.890015,
+        "y": 265.910004,
+        "z": -323.439972
+      },
+      "rotation": {
+        "x": 0,
+        "y": 301.553436,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "22800030016": {
+      "position": {
+        "x": -791.081665,
+        "y": 276.77002,
+        "z": -582.913696
+      },
+      "rotation": {
+        "x": 0,
+        "y": 262.746277,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "22800031002": {
+      "position": {
+        "x": -750.450012,
+        "y": 289.223022,
+        "z": -820.450012
+      },
+      "rotation": {
+        "x": 0,
+        "y": 262.746307,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "22800040395": {
+      "position": {
+        "x": -1189.71912,
+        "y": 289.011139,
+        "z": -453.302368
+      },
+      "rotation": {
+        "x": 0.10758771,
+        "y": 223.958099,
+        "z": 2.23614407
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv002_data_sub_04_gameplay_001"
+    },
+    "22800040396": {
+      "position": {
+        "x": -1206.38477,
+        "y": 288.955994,
+        "z": -485.70047
+      },
+      "rotation": {
+        "x": 0,
+        "y": 47.2168045,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv002_data_sub_04_gameplay_002"
+    },
+    "22800040397": {
+      "position": {
+        "x": -1204.63489,
+        "y": 288.412292,
+        "z": -462.539124
+      },
+      "rotation": {
+        "x": 0,
+        "y": 34.5717735,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv002_data_sub_04_gameplay_005"
+    },
+    "22800040407": {
+      "position": {
+        "x": -1198.71997,
+        "y": 288.739288,
+        "z": -478.277588
+      },
+      "rotation": {
+        "x": 0,
+        "y": 226.116806,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv002_data_sub_04_gameplay_004"
+    },
+    "22800060089": {
+      "position": {
+        "x": -819.01001,
+        "y": 247.630096,
+        "z": 45.6899986
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "22800060090": {
+      "position": {
+        "x": -893.219971,
+        "y": 267.410065,
+        "z": -699.76001
+      },
+      "rotation": {
+        "x": 0,
+        "y": 81.8595963,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "22800400002": {
+      "position": {
+        "x": -741.789978,
+        "y": 298.762756,
+        "z": -811.48999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 350,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_002"
+    },
+    "22800400003": {
+      "position": {
+        "x": -738.820007,
+        "y": 298.762756,
+        "z": -810.97998
+      },
+      "rotation": {
+        "x": 0,
+        "y": 350,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_003"
+    },
+    "22800400004": {
+      "position": {
+        "x": -728.76001,
+        "y": 298.762756,
+        "z": -809.210022
+      },
+      "rotation": {
+        "x": 0,
+        "y": 350,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_004"
+    },
+    "22800400005": {
+      "position": {
+        "x": -731.789978,
+        "y": 298.762756,
+        "z": -809.73999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 350,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_005"
+    },
+    "22800400006": {
+      "position": {
+        "x": -729.02002,
+        "y": 298.636841,
+        "z": -814.72998
+      },
+      "rotation": {
+        "x": 0,
+        "y": 304.436798,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_006"
+    },
+    "22800400007": {
+      "position": {
+        "x": -735.10675,
+        "y": 298.67038,
+        "z": -814.81012
+      },
+      "rotation": {
+        "x": 0,
+        "y": 231.890366,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_007"
+    },
+    "22800400008": {
+      "position": {
+        "x": -1029.19104,
+        "y": 272.065002,
+        "z": -638.203979
+      },
+      "rotation": {
+        "x": 354.430603,
+        "y": 353.975189,
+        "z": -5.36139417e-08
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_001"
+    },
+    "22800400010": {
+      "position": {
+        "x": -1035.06384,
+        "y": 272.320007,
+        "z": -642.448608
+      },
+      "rotation": {
+        "x": 0,
+        "y": 265.661255,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_009"
+    },
+    "22800400011": {
+      "position": {
+        "x": -1039.09998,
+        "y": 272.440002,
+        "z": -639.150024
+      },
+      "rotation": {
+        "x": 0,
+        "y": 183.774948,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_010"
+    },
+    "22800400012": {
+      "position": {
+        "x": -1022.33398,
+        "y": 272.079987,
+        "z": -639.059998
+      },
+      "rotation": {
+        "x": 0,
+        "y": 338.249756,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_011"
+    },
+    "22800400013": {
+      "position": {
+        "x": -1023.54968,
+        "y": 272.238007,
+        "z": -632.551941
+      },
+      "rotation": {
+        "x": 0,
+        "y": 305.035217,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_012"
+    },
+    "22800400014": {
+      "position": {
+        "x": -744.460022,
+        "y": 298.762756,
+        "z": -811.969971
+      },
+      "rotation": {
+        "x": 0,
+        "y": 350,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_008"
+    },
+    "22800400015": {
+      "position": {
+        "x": -1026.78271,
+        "y": 272.350006,
+        "z": -636.603394
+      },
+      "rotation": {
+        "x": 0,
+        "y": 259.420654,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_013"
+    },
+    "22800400016": {
+      "position": {
+        "x": -1020.21643,
+        "y": 271.786987,
+        "z": -637.583008
+      },
+      "rotation": {
+        "x": 0,
+        "y": 287.516083,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_014"
+    },
+    "22800400017": {
+      "position": {
+        "x": -1031.24365,
+        "y": 272.048492,
+        "z": -631.601562
+      },
+      "rotation": {
+        "x": 0,
+        "y": 167.503052,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_015"
+    },
+    "22800400018": {
+      "position": {
+        "x": -1027.91187,
+        "y": 272.388123,
+        "z": -631.879333
+      },
+      "rotation": {
+        "x": 0,
+        "y": 242.88562,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_016"
+    },
+    "22800400019": {
+      "position": {
+        "x": -1031.90002,
+        "y": 271.982056,
+        "z": -636.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 36.9898911,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_017"
+    },
+    "22800400020": {
+      "position": {
+        "x": -1093.88403,
+        "y": 268.03006,
+        "z": -478.01532
+      },
+      "rotation": {
+        "x": 0,
+        "y": 10.0772629,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_018"
+    },
+    "22800400021": {
+      "position": {
+        "x": -1088.70496,
+        "y": 268.03006,
+        "z": -480.389008
+      },
+      "rotation": {
+        "x": 0,
+        "y": 220.889038,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_019"
+    },
+    "22800400022": {
+      "position": {
+        "x": -1096.23804,
+        "y": 268.03006,
+        "z": -467.744995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 311.841583,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_020"
+    },
+    "22800400023": {
+      "position": {
+        "x": -1084.10999,
+        "y": 268.03006,
+        "z": -470.269989
+      },
+      "rotation": {
+        "x": 0,
+        "y": 244.352783,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_021"
+    },
+    "22800400024": {
+      "position": {
+        "x": -1087.43005,
+        "y": 267.961365,
+        "z": -467.309998
+      },
+      "rotation": {
+        "x": 0,
+        "y": 38.2872009,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_022"
+    },
+    "22800400025": {
+      "position": {
+        "x": -1074.01404,
+        "y": 268.485107,
+        "z": -555.435974
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv002_data_sub_animal_v1d0_gameplay_001"
+    },
+    "22800400027": {
+      "position": {
+        "x": -1075.22595,
+        "y": 268.485107,
+        "z": -552.041016
+      },
+      "rotation": {
+        "x": 0,
+        "y": 100.863686,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv002_data_sub_animal_v1d0_gameplay_002"
+    },
+    "22800400029": {
+      "position": {
+        "x": -1006.12408,
+        "y": 271.449829,
+        "z": -623.738281
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270.728333,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_023"
+    },
+    "22800400030": {
+      "position": {
+        "x": -1010.42999,
+        "y": 271.643402,
+        "z": -622.789978
+      },
+      "rotation": {
+        "x": 0,
+        "y": 89.8866501,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_024"
+    },
+    "22800400031": {
+      "position": {
+        "x": -1007.21155,
+        "y": 271.4198,
+        "z": -619.482422
+      },
+      "rotation": {
+        "x": 0,
+        "y": 142.646988,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv002_data_sub_animal_v1d0_gameplay_025"
+    },
+    "22800530210": {
+      "position": {
+        "x": -1288.55151,
+        "y": 308.579987,
+        "z": -502.654999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv002_data_sub_14_gameplay_001"
+    },
+    "22800530222": {
+      "position": {
+        "x": -1309.7959,
+        "y": 308.640015,
+        "z": -554.861328
+      },
+      "rotation": {
+        "x": 0,
+        "y": 288.997498,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv002_data_sub_14_gameplay_002"
+    },
+    "22800530223": {
+      "position": {
+        "x": -1426.07373,
+        "y": 316.334351,
+        "z": -477.754333
+      },
+      "rotation": {
+        "x": 0,
+        "y": 321.278412,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv002_data_sub_14_gameplay_003"
+    },
+    "22800530224": {
+      "position": {
+        "x": -1428.57776,
+        "y": 316.304016,
+        "z": -538.46637
+      },
+      "rotation": {
+        "x": 0,
+        "y": 289.47113,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv002_data_sub_14_gameplay_004"
+    },
+    "22800530231": {
+      "position": {
+        "x": -1027.69775,
+        "y": 258.133362,
+        "z": -108.316345
+      },
+      "rotation": {
+        "x": 0,
+        "y": 306.658264,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv002_data_sub_14_gameplay_005"
+    },
+    "22800530290": {
+      "position": {
+        "x": -1139.7373,
+        "y": 269.412018,
+        "z": -71.1909485
+      },
+      "rotation": {
+        "x": 0,
+        "y": 345.2659,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv002_data_sub_14_gameplay_006"
+    },
+    "22800530292": {
+      "position": {
+        "x": -1146.00159,
+        "y": 268.929993,
+        "z": -75.0588531
+      },
+      "rotation": {
+        "x": 0,
+        "y": 34.1569252,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv002_data_sub_14_gameplay_007"
+    },
+    "22800530331": {
+      "position": {
+        "x": -1144.4447,
+        "y": 268.884979,
+        "z": -69.9102478
+      },
+      "rotation": {
+        "x": 0,
+        "y": 333.429291,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv002_data_sub_14_gameplay_008"
+    },
+    "22800540139": {
+      "position": {
+        "x": -1123.92651,
+        "y": 278.994537,
+        "z": -672.48999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_03_map02_lv002_data_sub_15_gameplay_001"
+    },
+    "22800540202": {
+      "position": {
+        "x": -1186.76733,
+        "y": 306.906494,
+        "z": -666.461731
+      },
+      "rotation": {
+        "x": 0,
+        "y": 221.763916,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv002_data_sub_15_gameplay_001"
+    },
+    "22800540220": {
+      "position": {
+        "x": -1040.95776,
+        "y": 278.426453,
+        "z": -725.448792
+      },
+      "rotation": {
+        "x": 0,
+        "y": 301.888702,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv002_data_sub_15_gameplay_002"
+    },
+    "22800540248": {
+      "position": {
+        "x": -1365.45801,
+        "y": 294.102997,
+        "z": -788.026978
+      },
+      "rotation": {
+        "x": 0,
+        "y": 306.015961,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv002_data_sub_15_gameplay_003"
+    },
+    "22800540269": {
+      "position": {
+        "x": -1073.22327,
+        "y": 277.69812,
+        "z": -716.633301
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.30944896,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv002_data_sub_15_gameplay_008"
+    },
+    "22800540270": {
+      "position": {
+        "x": -1070.93262,
+        "y": 277.550507,
+        "z": -692.520691
+      },
+      "rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv002_data_sub_15_gameplay_009"
+    },
+    "22800540271": {
+      "position": {
+        "x": -1072.47034,
+        "y": 277.474304,
+        "z": -710.678711
+      },
+      "rotation": {
+        "x": 359.737854,
+        "y": 318.06723,
+        "z": 356.93042
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv002_data_sub_15_gameplay_010"
+    },
+    "22800540272": {
+      "position": {
+        "x": -1080.54431,
+        "y": 277.511932,
+        "z": -707.291687
+      },
+      "rotation": {
+        "x": 0,
+        "y": 295.649109,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv002_data_sub_15_gameplay_011"
+    },
+    "22800540273": {
+      "position": {
+        "x": -1068.25427,
+        "y": 277.569122,
+        "z": -702.111694
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv002_data_sub_15_gameplay_012"
+    },
+    "22800580215": {
+      "position": {
+        "x": -816.855835,
+        "y": 276.99231,
+        "z": -559.505554
+      },
+      "rotation": {
+        "x": 354.819672,
+        "y": 350.828918,
+        "z": 357.456665
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv002_data_sub_17_gameplay_002"
+    },
+    "22800580216": {
+      "position": {
+        "x": -822.421997,
+        "y": 277.040985,
+        "z": -560.179016
+      },
+      "rotation": {
+        "x": 354.819672,
+        "y": 350.828918,
+        "z": 357.456665
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv002_data_sub_17_gameplay_001"
+    },
+    "22801120001": {
+      "position": {
+        "x": -836.880005,
+        "y": 258.072998,
+        "z": 214.899994
+      },
+      "rotation": {
+        "x": 0,
+        "y": 164.051193,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "22801140001": {
+      "position": {
+        "x": -647.679993,
+        "y": 256.299988,
+        "z": 97.2300034
+      },
+      "rotation": {
+        "x": 0,
+        "y": 91.1187134,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "22801140002": {
+      "position": {
+        "x": -1369.42004,
+        "y": 287.75,
+        "z": -830.75
+      },
+      "rotation": {
+        "x": 0,
+        "y": 124.579308,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "22801140057": {
+      "position": {
+        "x": -1481.29797,
+        "y": 340.936005,
+        "z": -42.4239998
+      },
+      "rotation": {
+        "x": 0,
+        "y": 91.1187134,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23100010219": {
+      "position": {
+        "x": -553.22998,
+        "y": 232.060059,
+        "z": 994.719971
+      },
+      "rotation": {
+        "x": 0,
+        "y": 158.713715,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23100010220": {
+      "position": {
+        "x": -445.269989,
+        "y": 217.725159,
+        "z": 1215.13
+      },
+      "rotation": {
+        "x": 0,
+        "y": 127.512093,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23100010221": {
+      "position": {
+        "x": -187.990005,
+        "y": 212.367065,
+        "z": 1364.16003
+      },
+      "rotation": {
+        "x": 0,
+        "y": 26.0808983,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23100010222": {
+      "position": {
+        "x": 67.8799973,
+        "y": 233.722427,
+        "z": 1284.56006
+      },
+      "rotation": {
+        "x": 0,
+        "y": 189.784546,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23100010223": {
+      "position": {
+        "x": -108.790001,
+        "y": 142.215607,
+        "z": 1085.65002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 213.910294,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23100010640": {
+      "position": {
+        "x": -341.049988,
+        "y": 235.14006,
+        "z": 1357.85999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 302.408417,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23100010670": {
+      "position": {
+        "x": -491.750305,
+        "y": 203.118805,
+        "z": 1370.34204
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23100010671": {
+      "position": {
+        "x": 62.5200005,
+        "y": 152.386902,
+        "z": 1201.31995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 203.453506,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23100010733": {
+      "position": {
+        "x": 12.2200003,
+        "y": 152.991211,
+        "z": 1360.94995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23100010740": {
+      "position": {
+        "x": 72.3600006,
+        "y": 257.929993,
+        "z": 1171.59998
+      },
+      "rotation": {
+        "x": 0,
+        "y": 167.834244,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23100031242": {
+      "position": {
+        "x": -190.660004,
+        "y": 166.805161,
+        "z": 1121.96997
+      },
+      "rotation": {
+        "x": 0,
+        "y": 107.486847,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23100031243": {
+      "position": {
+        "x": -324.51001,
+        "y": 179.202423,
+        "z": 976.960022
+      },
+      "rotation": {
+        "x": 0,
+        "y": 287.487457,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23200010005": {
+      "position": {
+        "x": -554,
+        "y": 248.350006,
+        "z": -294.200012
+      },
+      "rotation": {
+        "x": 0,
+        "y": 103.1875,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23200010664": {
+      "position": {
+        "x": -555.81958,
+        "y": 243.41658,
+        "z": -184.45401
+      },
+      "rotation": {
+        "x": 0,
+        "y": 234.269592,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_elfmachine_01_map02_lv005_data_sub_01_gameplay_001"
+    },
+    "23200013030": {
+      "position": {
+        "x": -431.920105,
+        "y": 242.938004,
+        "z": -210.089935
+      },
+      "rotation": {
+        "x": 0,
+        "y": 346.049255,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_elfmachine_02_map02_lv005_data_sub_01_gameplay_001"
+    },
+    "23200013087": {
+      "position": {
+        "x": -255.119003,
+        "y": 252.490005,
+        "z": -386.683014
+      },
+      "rotation": {
+        "x": 0,
+        "y": 182.535995,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23200013265": {
+      "position": {
+        "x": -326.49469,
+        "y": 267.26001,
+        "z": -551.559998
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270.806183,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23200013375": {
+      "position": {
+        "x": -253.869995,
+        "y": 249.477005,
+        "z": -475.869995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 265.014374,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23200013376": {
+      "position": {
+        "x": -314.059998,
+        "y": 242.391769,
+        "z": -231.729996
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90.9365616,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23200013387": {
+      "position": {
+        "x": -252.130005,
+        "y": 242.614014,
+        "z": -253.285004
+      },
+      "rotation": {
+        "x": 0,
+        "y": 335.524902,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_elfmachine_03_map02_lv005_data_sub_01_gameplay_001"
+    },
+    "23200100065": {
+      "position": {
+        "x": -381.746094,
+        "y": 264.303772,
+        "z": -428.688477
+      },
+      "rotation": {
+        "x": 3.1632843e-09,
+        "y": 0,
+        "z": -1.82882545e-07
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv005_data_sub_02_gameplay_001"
+    },
+    "23200100066": {
+      "position": {
+        "x": -394.366089,
+        "y": 264.428772,
+        "z": -416.788483
+      },
+      "rotation": {
+        "x": 0,
+        "y": 88.3392944,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv005_data_sub_02_gameplay_002"
+    },
+    "23200100067": {
+      "position": {
+        "x": -387.686096,
+        "y": 264.035095,
+        "z": -414.168488
+      },
+      "rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv005_data_sub_02_gameplay_003"
+    },
+    "23200100068": {
+      "position": {
+        "x": -363.696075,
+        "y": 264.88089,
+        "z": -415.968475
+      },
+      "rotation": {
+        "x": 0,
+        "y": 273.332581,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv005_data_sub_02_gameplay_004"
+    },
+    "23200100106": {
+      "position": {
+        "x": -438.083527,
+        "y": 263.841003,
+        "z": -527.58136
+      },
+      "rotation": {
+        "x": 0,
+        "y": 83.6819763,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv005_data_sub_02_gameplay_001"
+    },
+    "23200100108": {
+      "position": {
+        "x": -421.50351,
+        "y": 263.792786,
+        "z": -525.371399
+      },
+      "rotation": {
+        "x": 0,
+        "y": 222.631653,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv005_data_sub_02_gameplay_003"
+    },
+    "23200100109": {
+      "position": {
+        "x": -447.747314,
+        "y": 265.495148,
+        "z": -512.633789
+      },
+      "rotation": {
+        "x": 0,
+        "y": 113.006767,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv005_data_sub_02_gameplay_002"
+    },
+    "23200100263": {
+      "position": {
+        "x": -404.563538,
+        "y": 245.139999,
+        "z": -146.051361
+      },
+      "rotation": {
+        "x": 0,
+        "y": 351.99826,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv005_data_sub_02_gameplay_004"
+    },
+    "23200100265": {
+      "position": {
+        "x": -383.49353,
+        "y": 242.229996,
+        "z": -146.471375
+      },
+      "rotation": {
+        "x": 0,
+        "y": 77.2354355,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv005_data_sub_02_gameplay_005"
+    },
+    "23200100270": {
+      "position": {
+        "x": -389.456085,
+        "y": 265.184662,
+        "z": -425.728485
+      },
+      "rotation": {
+        "x": 0,
+        "y": 18.3995895,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv005_data_sub_02_gameplay_005"
+    },
+    "23200100271": {
+      "position": {
+        "x": -392.173523,
+        "y": 245.139999,
+        "z": -143.84137
+      },
+      "rotation": {
+        "x": 0,
+        "y": 322.278717,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv005_data_sub_02_gameplay_006"
+    },
+    "23200130003": {
+      "position": {
+        "x": -362.269989,
+        "y": 243.339996,
+        "z": -339.829987
+      },
+      "rotation": {
+        "x": 0,
+        "y": 248.615677,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv005_data_sub__animal_v1d2_gameplay_002"
+    },
+    "23200130004": {
+      "position": {
+        "x": -352.047272,
+        "y": 242.190002,
+        "z": -329.072998
+      },
+      "rotation": {
+        "x": 0,
+        "y": 131.701736,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv005_data_sub__animal_v1d2_gameplay_001"
+    },
+    "23200130005": {
+      "position": {
+        "x": -482.127167,
+        "y": 243.348007,
+        "z": -342.854309
+      },
+      "rotation": {
+        "x": 0,
+        "y": 33.2982864,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv005_data_sub_animal_v1d2_gameplay_003"
+    },
+    "23200130006": {
+      "position": {
+        "x": -469.555939,
+        "y": 242.177994,
+        "z": -328.405365
+      },
+      "rotation": {
+        "x": 0,
+        "y": 247.610748,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv005_data_sub_animal_v1d2_gameplay_004"
+    },
+    "23200130007": {
+      "position": {
+        "x": -472.51001,
+        "y": 242.251999,
+        "z": -332.630005
+      },
+      "rotation": {
+        "x": 0,
+        "y": 342.617676,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv005_data_sub_animal_v1d2_gameplay_005"
+    },
+    "23200130008": {
+      "position": {
+        "x": -234.429993,
+        "y": 243.929993,
+        "z": -340.820007
+      },
+      "rotation": {
+        "x": 0,
+        "y": 47.5532684,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv005_data_sub_animal_v1d2_gameplay_006"
+    },
+    "23200130009": {
+      "position": {
+        "x": -231.485703,
+        "y": 242.25,
+        "z": -333.20047
+      },
+      "rotation": {
+        "x": 0,
+        "y": 303.13736,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_livstock_hs_04_map02_lv005_data_sub_animal_v1d2_gameplay_007"
+    },
+    "23300000095": {
+      "position": {
+        "x": -182.669998,
+        "y": 329.74527,
+        "z": -1462.64001
+      },
+      "rotation": {
+        "x": 0,
+        "y": 312.800018,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23300000096": {
+      "position": {
+        "x": -371.73999,
+        "y": 267.149994,
+        "z": -1353.68994
+      },
+      "rotation": {
+        "x": 0,
+        "y": 94.1956406,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23300000097": {
+      "position": {
+        "x": -485.209991,
+        "y": 253.061264,
+        "z": -1252.44995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 135.593658,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23300000098": {
+      "position": {
+        "x": -534.840027,
+        "y": 256.010193,
+        "z": -1057.72998
+      },
+      "rotation": {
+        "x": 0,
+        "y": 322.820099,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23300000102": {
+      "position": {
+        "x": -230.600006,
+        "y": 305.871033,
+        "z": -1124.06995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 245.279175,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23300000363": {
+      "position": {
+        "x": -315.156891,
+        "y": 309.350311,
+        "z": -1547.177
+      },
+      "rotation": {
+        "x": 359.980286,
+        "y": 338.221741,
+        "z": 359.306122
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv003_data_gameplay_001"
+    },
+    "23300000364": {
+      "position": {
+        "x": -357.290894,
+        "y": 311.404327,
+        "z": -1545.30298
+      },
+      "rotation": {
+        "x": 0,
+        "y": 94.534462,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv003_data_gameplay_002"
+    },
+    "23300000365": {
+      "position": {
+        "x": -317.968872,
+        "y": 309.382324,
+        "z": -1540.18201
+      },
+      "rotation": {
+        "x": 0,
+        "y": 231.031921,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv003_data_gameplay_005"
+    },
+    "23300000366": {
+      "position": {
+        "x": -326.020874,
+        "y": 309.270325,
+        "z": -1541.04993
+      },
+      "rotation": {
+        "x": 0,
+        "y": 212.389252,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv003_data_gameplay_004"
+    },
+    "23300000367": {
+      "position": {
+        "x": -334.875854,
+        "y": 309.513855,
+        "z": -1535.3949
+      },
+      "rotation": {
+        "x": 0,
+        "y": 222.214935,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv003_data_gameplay_008"
+    },
+    "23300000368": {
+      "position": {
+        "x": -349.948883,
+        "y": 310.924927,
+        "z": -1543.36401
+      },
+      "rotation": {
+        "x": 0,
+        "y": 252.882751,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv003_data_gameplay_003"
+    },
+    "23300000370": {
+      "position": {
+        "x": -323.57489,
+        "y": 309.309326,
+        "z": -1545.30896
+      },
+      "rotation": {
+        "x": 0,
+        "y": 302.074707,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv003_data_gameplay_006"
+    },
+    "23300050024": {
+      "position": {
+        "x": -172.773972,
+        "y": 328.520966,
+        "z": -1432.71521
+      },
+      "rotation": {
+        "x": 0,
+        "y": 35.0127182,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv003_data_sub_char_gameplay_001"
+    },
+    "23300050027": {
+      "position": {
+        "x": -226.600006,
+        "y": 333.113831,
+        "z": -1299.30005
+      },
+      "rotation": {
+        "x": 0.0250558946,
+        "y": 136.010269,
+        "z": -0.00532050338
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv003_data_sub_char_gameplay_002"
+    },
+    "23300050029": {
+      "position": {
+        "x": -226.900009,
+        "y": 333.113831,
+        "z": -1300.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 32.3609734,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv003_data_sub_char_gameplay_003"
+    },
+    "23300050034": {
+      "position": {
+        "x": -242,
+        "y": 340.470123,
+        "z": -1337.5
+      },
+      "rotation": {
+        "x": 0.0250559114,
+        "y": 310.498291,
+        "z": -0.00532051595
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv003_data_sub_char_gameplay_005"
+    },
+    "23300050035": {
+      "position": {
+        "x": -244.070007,
+        "y": 340.470123,
+        "z": -1333.65002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 82.509079,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv003_data_sub_char_gameplay_006"
+    },
+    "23300050036": {
+      "position": {
+        "x": -244.520004,
+        "y": 340.470123,
+        "z": -1335.15002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 131.252319,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv003_data_sub_char_gameplay_007"
+    },
+    "23300050061": {
+      "position": {
+        "x": -592.619995,
+        "y": 252.529999,
+        "z": -1124.20996
+      },
+      "rotation": {
+        "x": 359.975433,
+        "y": 344.394379,
+        "z": 359.992767
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv003_data_sub_char_gameplay_004"
+    },
+    "23400000006": {
+      "position": {
+        "x": -1727.65979,
+        "y": 284.848297,
+        "z": -1190.79297
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_loading_portal"
+    },
+    "23400083018": {
+      "position": {
+        "x": -1392.95996,
+        "y": 280.579987,
+        "z": -1030.3877
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23400083106": {
+      "position": {
+        "x": -1259.51843,
+        "y": 280.730011,
+        "z": -1199.58655
+      },
+      "rotation": {
+        "x": 0,
+        "y": 348.452362,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2_smaller"
+    },
+    "23400083248": {
+      "position": {
+        "x": -1497.88745,
+        "y": 265.606659,
+        "z": -1184.21997
+      },
+      "rotation": {
+        "x": 0,
+        "y": 42.5250664,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23400083294": {
+      "position": {
+        "x": -1463.828,
+        "y": 269.432495,
+        "z": -1567.78003
+      },
+      "rotation": {
+        "x": 0,
+        "y": 164.949997,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv004_data_sub_01_gameplay_005"
+    },
+    "23400083295": {
+      "position": {
+        "x": -1470.82703,
+        "y": 269.432495,
+        "z": -1595.60901
+      },
+      "rotation": {
+        "x": 0,
+        "y": 359.694305,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv004_data_sub_01_gameplay_006"
+    },
+    "23400083297": {
+      "position": {
+        "x": -1479.63,
+        "y": 269.432495,
+        "z": -1578.44995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 60.5831032,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv004_data_sub_01_gameplay_007"
+    },
+    "23400083299": {
+      "position": {
+        "x": -1461.06799,
+        "y": 269.432495,
+        "z": -1576.46106
+      },
+      "rotation": {
+        "x": 0,
+        "y": 233.638702,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv004_data_sub_01_gameplay_008"
+    },
+    "23400083315": {
+      "position": {
+        "x": -1375.62524,
+        "y": 297.191284,
+        "z": -1651.28638
+      },
+      "rotation": {
+        "x": 0,
+        "y": 264.063873,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "23400240051": {
+      "position": {
+        "x": -1186.43518,
+        "y": 268.838654,
+        "z": -1313.14062
+      },
+      "rotation": {
+        "x": 0,
+        "y": 244.940155,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv004_data_sub_sub_system_gameplay_003"
+    },
+    "23400240054": {
+      "position": {
+        "x": -1323.70813,
+        "y": 269.149048,
+        "z": -1253.80664
+      },
+      "rotation": {
+        "x": 0,
+        "y": 244.940155,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv004_data_sub_sub_system_gameplay_002"
+    },
+    "24300010012": {
+      "position": {
+        "x": 91.8539963,
+        "y": 15.9710379,
+        "z": 1.31200004
+      },
+      "rotation": {
+        "x": -3.15045407e-12,
+        "y": 0,
+        "z": 8.25807738e-13
+      },
+      "entityType": 256,
+      "detailId": "npc_chr_0017_yvonne_g01_dung01_rdg005_c17m3d5_003"
+    },
+    "24300010019": {
+      "position": {
+        "x": 34.5825348,
+        "y": 12.9703732,
+        "z": 79.6858292
+      },
+      "rotation": {
+        "x": 0,
+        "y": 191.155609,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_chr_0003_endminf_g01_dung01_rdg005_c17m3d5_003"
+    },
+    "24300010021": {
+      "position": {
+        "x": 43.8927917,
+        "y": 12.9591713,
+        "z": 71.929245
+      },
+      "rotation": {
+        "x": 0,
+        "y": 196.57486,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_chr_0003_endminf_g01_dung01_rdg005_c17m3d5_004"
+    },
+    "24300010023": {
+      "position": {
+        "x": 32.9500008,
+        "y": 13.0893641,
+        "z": 62.0299988
+      },
+      "rotation": {
+        "x": 0,
+        "y": 230.973114,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_chr_0003_endminf_g01_dung01_rdg005_c17m3d5_005"
+    },
+    "24300010024": {
+      "position": {
+        "x": 19.6140003,
+        "y": 12.834218,
+        "z": 65.8430023
+      },
+      "rotation": {
+        "x": 0,
+        "y": 264.755676,
+        "z": 0.00645867782
+      },
+      "entityType": 256,
+      "detailId": "npc_chr_0003_endminf_g01_dung01_rdg005_c17m3d5_006"
+    },
+    "24300010031": {
+      "position": {
+        "x": 93.3399963,
+        "y": 15.939229,
+        "z": -0.600000024
+      },
+      "rotation": {
+        "x": -3.00986861e-12,
+        "y": 268.116333,
+        "z": 1.24419051e-12
+      },
+      "entityType": 256,
+      "detailId": "npc_chr_0017_yvonne_g01_dung01_rdg005_c17m3d5_005"
+    },
+    "24400003089": {
+      "position": {
+        "x": -368.981079,
+        "y": -230.307999,
+        "z": -235.261429
+      },
+      "rotation": {
+        "x": 0,
+        "y": 83.0256348,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_gameplay_001"
+    },
+    "24400003090": {
+      "position": {
+        "x": -71.2099991,
+        "y": -413.519989,
+        "z": -488.73999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_gameplay_002"
+    },
+    "24400003091": {
+      "position": {
+        "x": -57.7702179,
+        "y": -419.548004,
+        "z": -355.87616
+      },
+      "rotation": {
+        "x": 0,
+        "y": 169.288635,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_gameplay_003"
+    },
+    "24400003092": {
+      "position": {
+        "x": -218.404999,
+        "y": -407.471985,
+        "z": -459.53299
+      },
+      "rotation": {
+        "x": 0,
+        "y": 94.4763489,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_gameplay_004"
+    },
+    "24400003093": {
+      "position": {
+        "x": -307.190002,
+        "y": -232.889999,
+        "z": -237.020004
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_gameplay_005"
+    },
+    "24400003094": {
+      "position": {
+        "x": -193.809998,
+        "y": -233.296997,
+        "z": -238.328003
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_gameplay_006"
+    },
+    "24400003095": {
+      "position": {
+        "x": -47.9180908,
+        "y": -431.690002,
+        "z": -451.73349
+      },
+      "rotation": {
+        "x": 0,
+        "y": 265.148132,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_gameplay_007"
+    },
+    "24400003096": {
+      "position": {
+        "x": -16.1690006,
+        "y": -386.359985,
+        "z": -323.049988
+      },
+      "rotation": {
+        "x": 0,
+        "y": 8.88406754,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_gameplay_008"
+    },
+    "24400003100": {
+      "position": {
+        "x": -180.160995,
+        "y": -422.75,
+        "z": -488.005188
+      },
+      "rotation": {
+        "x": 0,
+        "y": 176.799515,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_gameplay_012"
+    },
+    "24400003102": {
+      "position": {
+        "x": -266.418671,
+        "y": -406.877014,
+        "z": -449.591492
+      },
+      "rotation": {
+        "x": 0,
+        "y": 236.309845,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_gameplay_013"
+    },
+    "24400003108": {
+      "position": {
+        "x": -333.333893,
+        "y": -228.830002,
+        "z": -236.602402
+      },
+      "rotation": {
+        "x": 0,
+        "y": 265.584991,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon_02"
+    },
+    "24400003109": {
+      "position": {
+        "x": -308.445007,
+        "y": -232.970001,
+        "z": -235.444
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon_02"
+    },
+    "24400003110": {
+      "position": {
+        "x": -219.682999,
+        "y": -234.875,
+        "z": -234.835999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon_02"
+    },
+    "24400003111": {
+      "position": {
+        "x": -129.699997,
+        "y": -226.403,
+        "z": -234.039993
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon_02"
+    },
+    "24400003112": {
+      "position": {
+        "x": -103.158997,
+        "y": -235.852005,
+        "z": -234.996002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon_02"
+    },
+    "24400003113": {
+      "position": {
+        "x": -195.830002,
+        "y": -233.615005,
+        "z": -239.470001
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon_02"
+    },
+    "24400003118": {
+      "position": {
+        "x": -22.3570004,
+        "y": -423.053009,
+        "z": -451.73999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003119": {
+      "position": {
+        "x": -74.5390015,
+        "y": -404.287994,
+        "z": -488.929993
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003120": {
+      "position": {
+        "x": -83.1640015,
+        "y": -436.661011,
+        "z": -451.688995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90.0000534,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003121": {
+      "position": {
+        "x": -31.3540001,
+        "y": -464.600006,
+        "z": -488.639008
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon_02"
+    },
+    "24400003122": {
+      "position": {
+        "x": -62.3826752,
+        "y": -466.730011,
+        "z": -488.630005
+      },
+      "rotation": {
+        "x": 0,
+        "y": 89.9999771,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003124": {
+      "position": {
+        "x": -57.4080009,
+        "y": -440.016998,
+        "z": -348.119995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 179.999969,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003126": {
+      "position": {
+        "x": -16.3899994,
+        "y": -387.812012,
+        "z": -345.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0.94709444,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003127": {
+      "position": {
+        "x": -16.25,
+        "y": -404.153015,
+        "z": -292.143005
+      },
+      "rotation": {
+        "x": 0,
+        "y": 179.999969,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003128": {
+      "position": {
+        "x": -6.08599997,
+        "y": -373.537994,
+        "z": -354.908997
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270.000031,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003129": {
+      "position": {
+        "x": 18.4120007,
+        "y": -410.299988,
+        "z": -355.559998
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon_02"
+    },
+    "24400003130": {
+      "position": {
+        "x": -20.0529995,
+        "y": -396.540985,
+        "z": -291.131012
+      },
+      "rotation": {
+        "x": -1.02452841e-05,
+        "y": 90.9472275,
+        "z": 269.999969
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003131": {
+      "position": {
+        "x": -61.2019997,
+        "y": -373.313995,
+        "z": -355.76001
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90.946991,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003132": {
+      "position": {
+        "x": -57.637001,
+        "y": -372.51001,
+        "z": -363.089996
+      },
+      "rotation": {
+        "x": 270,
+        "y": 180,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003135": {
+      "position": {
+        "x": -192.383072,
+        "y": -408.859985,
+        "z": -459.399994
+      },
+      "rotation": {
+        "x": 0,
+        "y": 269.999939,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003140": {
+      "position": {
+        "x": -186.746002,
+        "y": -402.451996,
+        "z": -458.839996
+      },
+      "rotation": {
+        "x": 6.83018952e-05,
+        "y": 269.052795,
+        "z": 270.003845
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003142": {
+      "position": {
+        "x": -208.324005,
+        "y": -395.279999,
+        "z": -464.562988
+      },
+      "rotation": {
+        "x": 90,
+        "y": 359.052795,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003143": {
+      "position": {
+        "x": -192.309998,
+        "y": -437.447998,
+        "z": -482.359985
+      },
+      "rotation": {
+        "x": -2.56132098e-05,
+        "y": 270.947205,
+        "z": 90.0000381
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003145": {
+      "position": {
+        "x": -186.251999,
+        "y": -436.502014,
+        "z": -488.928986
+      },
+      "rotation": {
+        "x": 0,
+        "y": 89.9999313,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003146": {
+      "position": {
+        "x": -244.557007,
+        "y": -404.39801,
+        "z": -450.029999
+      },
+      "rotation": {
+        "x": -3.22554188e-05,
+        "y": 270.947205,
+        "z": 180.000046
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003147": {
+      "position": {
+        "x": -250.388,
+        "y": -403.253998,
+        "z": -456.135986
+      },
+      "rotation": {
+        "x": -3.58584948e-05,
+        "y": 270.947205,
+        "z": 270.000061
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003148": {
+      "position": {
+        "x": -268.299988,
+        "y": -398.5,
+        "z": -445.690002
+      },
+      "rotation": {
+        "x": 3.80773781e-05,
+        "y": 90.947197,
+        "z": 179.999924
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003149": {
+      "position": {
+        "x": -237.990005,
+        "y": -438.5,
+        "z": -455.23999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 269.999847,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003151": {
+      "position": {
+        "x": -38.3240013,
+        "y": -398.639557,
+        "z": -451.589996
+      },
+      "rotation": {
+        "x": 270,
+        "y": 270,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003152": {
+      "position": {
+        "x": -16.3530006,
+        "y": -403.420013,
+        "z": -332.484009
+      },
+      "rotation": {
+        "x": 270,
+        "y": 180,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003153": {
+      "position": {
+        "x": -208.361862,
+        "y": -442.52301,
+        "z": -495.687042
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0.946971178,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003163": {
+      "position": {
+        "x": -61.4300003,
+        "y": -413.40799,
+        "z": -355.302002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90.9467392,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003176": {
+      "position": {
+        "x": -57.2290001,
+        "y": -438.928009,
+        "z": -349.246002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 169.288635,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_gameplay_009"
+    },
+    "24400003177": {
+      "position": {
+        "x": -55.1599998,
+        "y": -441.579987,
+        "z": -488.929993
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_gameplay_010"
+    },
+    "24400003178": {
+      "position": {
+        "x": -40.8520012,
+        "y": -464.932007,
+        "z": -489.940002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 265.148132,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_gameplay_011"
+    },
+    "24400003179": {
+      "position": {
+        "x": -2.72900009,
+        "y": -411.98999,
+        "z": -355.290009
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_gameplay_014"
+    },
+    "24400003180": {
+      "position": {
+        "x": -170.169998,
+        "y": -413.77301,
+        "z": -435.609985
+      },
+      "rotation": {
+        "x": 0,
+        "y": 236.309845,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_gameplay_015"
+    },
+    "24400003184": {
+      "position": {
+        "x": -177.479996,
+        "y": -407.779999,
+        "z": -424.279999
+      },
+      "rotation": {
+        "x": 4.43962308e-05,
+        "y": 90.947197,
+        "z": 270.000854
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon"
+    },
+    "24400003189": {
+      "position": {
+        "x": -7.44807434,
+        "y": -371.391998,
+        "z": -354.792511
+      },
+      "rotation": {
+        "x": 0,
+        "y": 33.7217789,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_gameplay_016"
+    },
+    "24400003190": {
+      "position": {
+        "x": -239.147995,
+        "y": -436.334015,
+        "z": -455.165985
+      },
+      "rotation": {
+        "x": 0,
+        "y": 150.802628,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_gameplay_017"
+    },
+    "24400003191": {
+      "position": {
+        "x": -274.649994,
+        "y": -453.209991,
+        "z": -454.75
+      },
+      "rotation": {
+        "x": 0,
+        "y": 91.4756546,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_gameplay_018"
+    },
+    "24400020001": {
+      "position": {
+        "x": -125.290001,
+        "y": -413.019012,
+        "z": -487.976013
+      },
+      "rotation": {
+        "x": 0,
+        "y": 68.9754868,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_sub_e10m4d5_gameplay_001"
+    },
+    "24400020002": {
+      "position": {
+        "x": -93.2580032,
+        "y": -419.673004,
+        "z": -355.743713
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_sub_e10m4d5_gameplay_003"
+    },
+    "24400020005": {
+      "position": {
+        "x": -101.024002,
+        "y": -235.837128,
+        "z": -235.231247
+      },
+      "rotation": {
+        "x": 0,
+        "y": 83.0256348,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_sub_e10m4d5_gameplay_002"
+    },
+    "24400020006": {
+      "position": {
+        "x": -208.509995,
+        "y": -414.459991,
+        "z": -435.420013
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg002_data_sub_e10m4d5_gameplay_004"
+    },
+    "24700000332": {
+      "position": {
+        "x": 47.8535347,
+        "y": 8.80500031,
+        "z": -15.8279991
+      },
+      "rotation": {
+        "x": 0,
+        "y": 151.646286,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_03_dung01_rdg007_data_gameplay_001"
+    },
+    "24700000333": {
+      "position": {
+        "x": 7.53213882,
+        "y": 22.7847557,
+        "z": 33.1719055
+      },
+      "rotation": {
+        "x": 0,
+        "y": 332.459656,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_04_dung01_rdg007_data_gameplay_001"
+    },
+    "24700000334": {
+      "position": {
+        "x": 50.1539993,
+        "y": 8.81048012,
+        "z": -22.7910004
+      },
+      "rotation": {
+        "x": 0,
+        "y": 174.302551,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_03_dung01_rdg007_data_gameplay_002"
+    },
+    "24700000335": {
+      "position": {
+        "x": 10.6670847,
+        "y": 22.7560005,
+        "z": 31.7172012
+      },
+      "rotation": {
+        "x": 0,
+        "y": 128.637772,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_04_dung01_rdg007_data_gameplay_002"
+    },
+    "24700010051": {
+      "position": {
+        "x": 99.6210022,
+        "y": 29.4869995,
+        "z": 39.3409996
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_02_dung01_rdg007_data_sub_c28m3_gameplay_001"
+    },
+    "25000000343": {
+      "position": {
+        "x": 61.7000008,
+        "y": 260.325684,
+        "z": -1832.15002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 206.439911,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "25000000345": {
+      "position": {
+        "x": 375.549011,
+        "y": 232.983551,
+        "z": -1911.08606
+      },
+      "rotation": {
+        "x": 0,
+        "y": 288.445343,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "25000000461": {
+      "position": {
+        "x": 83.1600037,
+        "y": 119.438744,
+        "z": -1798.22998
+      },
+      "rotation": {
+        "x": 0,
+        "y": 284.029602,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "25000000462": {
+      "position": {
+        "x": 405.899994,
+        "y": 226.018997,
+        "z": -2037.27002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "25000040030": {
+      "position": {
+        "x": -17.7089005,
+        "y": 275.339905,
+        "z": -1766.16602
+      },
+      "rotation": {
+        "x": 0,
+        "y": 336.171112,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "25000040031": {
+      "position": {
+        "x": -13.4939003,
+        "y": 275.339905,
+        "z": -1775.70203
+      },
+      "rotation": {
+        "x": 0,
+        "y": 336.171112,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_d"
+    },
+    "25000040032": {
+      "position": {
+        "x": -27.2261009,
+        "y": 275.339996,
+        "z": -1770.38306
+      },
+      "rotation": {
+        "x": 0,
+        "y": 246.171082,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000040033": {
+      "position": {
+        "x": -23.0186996,
+        "y": 275.339996,
+        "z": -1779.90503
+      },
+      "rotation": {
+        "x": 0,
+        "y": 246.171082,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000040084": {
+      "position": {
+        "x": -30.8600006,
+        "y": 273.888306,
+        "z": -1804.83997
+      },
+      "rotation": {
+        "x": 0,
+        "y": 259.46582,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv006_data_gameplay_002"
+    },
+    "25000040085": {
+      "position": {
+        "x": -23.5300007,
+        "y": 274.032562,
+        "z": -1815.94995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 272.880005,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv006_data_gameplay_001"
+    },
+    "25000040088": {
+      "position": {
+        "x": -35.7900009,
+        "y": 274.015533,
+        "z": -1797.77002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 49.4700012,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv006_data_sub_01_gameplay_006"
+    },
+    "25000040089": {
+      "position": {
+        "x": -34.5300026,
+        "y": 273.913574,
+        "z": -1815.3999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 92.8751068,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv006_data_gameplay_004"
+    },
+    "25000050088": {
+      "position": {
+        "x": 92.1128006,
+        "y": 253.240005,
+        "z": -1910.62195
+      },
+      "rotation": {
+        "x": 0,
+        "y": 224.941895,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "25000050089": {
+      "position": {
+        "x": 97.3550034,
+        "y": 253.299698,
+        "z": -1915.85498
+      },
+      "rotation": {
+        "x": 0,
+        "y": 224.941895,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_d"
+    },
+    "25000050090": {
+      "position": {
+        "x": 86.9505005,
+        "y": 253.240005,
+        "z": -1926.28296
+      },
+      "rotation": {
+        "x": 0,
+        "y": 224.941895,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "25000050091": {
+      "position": {
+        "x": 81.6641006,
+        "y": 253.240005,
+        "z": -1910.63696
+      },
+      "rotation": {
+        "x": 0,
+        "y": 224.941895,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_b"
+    },
+    "25000050092": {
+      "position": {
+        "x": 97.3630981,
+        "y": 253.240005,
+        "z": -1926.30798
+      },
+      "rotation": {
+        "x": 0,
+        "y": 224.941895,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_c"
+    },
+    "25000050093": {
+      "position": {
+        "x": 81.711998,
+        "y": 253.240005,
+        "z": -1921.02405
+      },
+      "rotation": {
+        "x": 0,
+        "y": 224.941895,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_d"
+    },
+    "25000050100": {
+      "position": {
+        "x": 86.8936005,
+        "y": 253.240005,
+        "z": -1915.85596
+      },
+      "rotation": {
+        "x": 0,
+        "y": 224.941895,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000050101": {
+      "position": {
+        "x": 92.1358032,
+        "y": 253.240005,
+        "z": -1921.09204
+      },
+      "rotation": {
+        "x": 0,
+        "y": 224.941895,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000050102": {
+      "position": {
+        "x": 76.4786987,
+        "y": 253.240005,
+        "z": -1915.828
+      },
+      "rotation": {
+        "x": 0,
+        "y": 224.941895,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000050103": {
+      "position": {
+        "x": 92.1449966,
+        "y": 253.240005,
+        "z": -1931.474
+      },
+      "rotation": {
+        "x": 0,
+        "y": 224.941895,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000050104": {
+      "position": {
+        "x": 76.5226974,
+        "y": 253.240005,
+        "z": -1926.24402
+      },
+      "rotation": {
+        "x": 0,
+        "y": 224.941895,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000050105": {
+      "position": {
+        "x": 81.822197,
+        "y": 253.240005,
+        "z": -1931.479
+      },
+      "rotation": {
+        "x": 0,
+        "y": 224.941895,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000050234": {
+      "position": {
+        "x": 5.21975994,
+        "y": 289.189758,
+        "z": -1974.65283
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv006_data_sub_02_gameplay_001"
+    },
+    "25000050235": {
+      "position": {
+        "x": 9.14848423,
+        "y": 289.105865,
+        "z": -1974.77954
+      },
+      "rotation": {
+        "x": 0,
+        "y": 259.52475,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slughs_01_map02_lv006_data_sub_02_gameplay_002"
+    },
+    "25000060141": {
+      "position": {
+        "x": 374.780304,
+        "y": 226.835007,
+        "z": -1861.74597
+      },
+      "rotation": {
+        "x": 354.844513,
+        "y": 122.27301,
+        "z": 0.00410018628
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_b"
+    },
+    "25000060146": {
+      "position": {
+        "x": 340.652008,
+        "y": 226.977905,
+        "z": -1917.18103
+      },
+      "rotation": {
+        "x": 359.956909,
+        "y": 211.843704,
+        "z": 354.844604
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "25000060147": {
+      "position": {
+        "x": 341.796692,
+        "y": 220.810699,
+        "z": -1850.00098
+      },
+      "rotation": {
+        "x": 0.0628998652,
+        "y": 31.5737038,
+        "z": 4.68489933
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000060148": {
+      "position": {
+        "x": 355.808105,
+        "y": 221.4021,
+        "z": -1841.26904
+      },
+      "rotation": {
+        "x": 355.315002,
+        "y": 121.65519,
+        "z": 0.0534003228
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "25000060149": {
+      "position": {
+        "x": 349.540009,
+        "y": 220.789703,
+        "z": -1837.40503
+      },
+      "rotation": {
+        "x": 0.0628998652,
+        "y": 31.5737038,
+        "z": 4.68489933
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000060150": {
+      "position": {
+        "x": 345.672211,
+        "y": 220.802399,
+        "z": -1843.70703
+      },
+      "rotation": {
+        "x": 0.0628998652,
+        "y": 31.5737038,
+        "z": 4.68489933
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000060151": {
+      "position": {
+        "x": 351.940002,
+        "y": 221.403397,
+        "z": -1847.56006
+      },
+      "rotation": {
+        "x": 0.0628998652,
+        "y": 31.5737038,
+        "z": 4.68489933
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_b"
+    },
+    "25000060152": {
+      "position": {
+        "x": 348.071808,
+        "y": 221.411697,
+        "z": -1853.85901
+      },
+      "rotation": {
+        "x": 0.0628998652,
+        "y": 31.5737038,
+        "z": 4.68489933
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_c"
+    },
+    "25000060153": {
+      "position": {
+        "x": 328.517792,
+        "y": 224.001205,
+        "z": -1871.57996
+      },
+      "rotation": {
+        "x": 0.0628998652,
+        "y": 31.5737038,
+        "z": 4.68489933
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000060154": {
+      "position": {
+        "x": 334.794495,
+        "y": 224.617203,
+        "z": -1875.43005
+      },
+      "rotation": {
+        "x": 0.0628998652,
+        "y": 31.5737038,
+        "z": 4.68489933
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "25000060155": {
+      "position": {
+        "x": 303.787415,
+        "y": 220.888596,
+        "z": -1911.80896
+      },
+      "rotation": {
+        "x": 0.0628998652,
+        "y": 31.5737038,
+        "z": 4.68489933
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_c"
+    },
+    "25000060156": {
+      "position": {
+        "x": 311.530701,
+        "y": 220.867599,
+        "z": -1899.21301
+      },
+      "rotation": {
+        "x": 0.0628998652,
+        "y": 31.5737038,
+        "z": 4.68489933
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000060157": {
+      "position": {
+        "x": 317.798889,
+        "y": 221.479996,
+        "z": -1903.07703
+      },
+      "rotation": {
+        "x": 355.315002,
+        "y": 121.65519,
+        "z": 0.0534003228
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000060158": {
+      "position": {
+        "x": 307.662811,
+        "y": 220.880295,
+        "z": -1905.51404
+      },
+      "rotation": {
+        "x": 0.0628998652,
+        "y": 31.5737038,
+        "z": 4.68489933
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000060159": {
+      "position": {
+        "x": 313.930603,
+        "y": 221.481293,
+        "z": -1909.36804
+      },
+      "rotation": {
+        "x": 0.0628998652,
+        "y": 31.5737038,
+        "z": 4.68489933
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000060160": {
+      "position": {
+        "x": 310.062408,
+        "y": 221.489594,
+        "z": -1915.66699
+      },
+      "rotation": {
+        "x": 0.0628998652,
+        "y": 31.5737038,
+        "z": 4.68489933
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_b"
+    },
+    "25000060216": {
+      "position": {
+        "x": 324.693298,
+        "y": 224.003998,
+        "z": -1877.78003
+      },
+      "rotation": {
+        "x": 0.0628998652,
+        "y": 31.5737038,
+        "z": 4.68489933
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000060217": {
+      "position": {
+        "x": 330.970001,
+        "y": 224.619995,
+        "z": -1881.63
+      },
+      "rotation": {
+        "x": 0.0628998652,
+        "y": 31.5737038,
+        "z": 4.68489933
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_d"
+    },
+    "25000060224": {
+      "position": {
+        "x": 343.385193,
+        "y": 220.166794,
+        "z": -1833.62305
+      },
+      "rotation": {
+        "x": 0.0628998652,
+        "y": 31.5737038,
+        "z": 4.68489933
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000060225": {
+      "position": {
+        "x": 297.636993,
+        "y": 220.289703,
+        "z": -1908.01697
+      },
+      "rotation": {
+        "x": 0.0628998652,
+        "y": 31.5737038,
+        "z": 4.68489933
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_d"
+    },
+    "25000060330": {
+      "position": {
+        "x": 448.324982,
+        "y": 231.475006,
+        "z": -1868.62109
+      },
+      "rotation": {
+        "x": 0,
+        "y": 167.179001,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv006_data_sub_03_gameplay_001"
+    },
+    "25000060331": {
+      "position": {
+        "x": 441.907013,
+        "y": 231.475006,
+        "z": -1866.59802
+      },
+      "rotation": {
+        "x": 0,
+        "y": 229.180099,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv006_data_sub_03_gameplay_002"
+    },
+    "25000060332": {
+      "position": {
+        "x": 440.466614,
+        "y": 231.475006,
+        "z": -1881.19604
+      },
+      "rotation": {
+        "x": 0,
+        "y": 320.508392,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv006_data_sub_03_gameplay_003"
+    },
+    "25000060333": {
+      "position": {
+        "x": 454.072388,
+        "y": 231.690002,
+        "z": -1872.37195
+      },
+      "rotation": {
+        "x": 0,
+        "y": 23.7105751,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv006_data_sub_03_gameplay_004"
+    },
+    "25000060334": {
+      "position": {
+        "x": 435.213287,
+        "y": 231.765701,
+        "z": -1879.37305
+      },
+      "rotation": {
+        "x": 0,
+        "y": 165.422516,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv006_data_sub_03_gameplay_005"
+    },
+    "25000060339": {
+      "position": {
+        "x": 225.002853,
+        "y": 252.435516,
+        "z": -2002.5531
+      },
+      "rotation": {
+        "x": 0,
+        "y": 224.120834,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv006_data_sub_03_gameplay_006"
+    },
+    "25000060340": {
+      "position": {
+        "x": 221.129852,
+        "y": 252.544876,
+        "z": -2020.51611
+      },
+      "rotation": {
+        "x": 0,
+        "y": 52.7048302,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv006_data_sub_03_gameplay_007"
+    },
+    "25000060344": {
+      "position": {
+        "x": 216.759857,
+        "y": 252.417877,
+        "z": -2010.69604
+      },
+      "rotation": {
+        "x": 0,
+        "y": 99.7018127,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv006_data_sub_03_gameplay_011"
+    },
+    "25000060346": {
+      "position": {
+        "x": 229.839859,
+        "y": 252.417877,
+        "z": -2012.95605
+      },
+      "rotation": {
+        "x": 0,
+        "y": 229.520294,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv006_data_sub_03_gameplay_012"
+    },
+    "25000070150": {
+      "position": {
+        "x": 212.933899,
+        "y": 153.539993,
+        "z": -1712.39905
+      },
+      "rotation": {
+        "x": 4.26886828e-07,
+        "y": 142.848801,
+        "z": 9.29940033
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "25000070151": {
+      "position": {
+        "x": 202.684204,
+        "y": 154.729996,
+        "z": -1710.88098
+      },
+      "rotation": {
+        "x": 4.26886828e-07,
+        "y": 142.848801,
+        "z": 9.29940033
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_b"
+    },
+    "25000070152": {
+      "position": {
+        "x": 211.719803,
+        "y": 156.473007,
+        "z": -1722.64197
+      },
+      "rotation": {
+        "x": 0,
+        "y": 142.848801,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "25000070153": {
+      "position": {
+        "x": 201.3246,
+        "y": 156.514999,
+        "z": -1721.19299
+      },
+      "rotation": {
+        "x": 0,
+        "y": 52.8469009,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_b"
+    },
+    "25000070154": {
+      "position": {
+        "x": 190.968094,
+        "y": 156.514999,
+        "z": -1719.776
+      },
+      "rotation": {
+        "x": 0,
+        "y": 52.8469009,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_c"
+    },
+    "25000070155": {
+      "position": {
+        "x": 192.346603,
+        "y": 156.514999,
+        "z": -1709.38794
+      },
+      "rotation": {
+        "x": 0,
+        "y": 52.8469009,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_d"
+    },
+    "25000070156": {
+      "position": {
+        "x": 207.161499,
+        "y": 154.729996,
+        "z": -1716.80701
+      },
+      "rotation": {
+        "x": 4.26886828e-07,
+        "y": 142.848801,
+        "z": 9.29940033
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000070157": {
+      "position": {
+        "x": 208.460007,
+        "y": 153.539993,
+        "z": -1706.46997
+      },
+      "rotation": {
+        "x": 4.26886828e-07,
+        "y": 142.848801,
+        "z": 9.29940033
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000070158": {
+      "position": {
+        "x": 205.798004,
+        "y": 156.514999,
+        "z": -1727.11499
+      },
+      "rotation": {
+        "x": 0,
+        "y": 142.846893,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25000070159": {
+      "position": {
+        "x": 196.820007,
+        "y": 156.520004,
+        "z": -1715.31006
+      },
+      "rotation": {
+        "x": 0,
+        "y": 52.8499985,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "25600040000": {
+      "position": {
+        "x": -1663.30542,
+        "y": 408.342041,
+        "z": -323.663666
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "25800050017": {
+      "position": {
+        "x": -67.2910004,
+        "y": 1.42200005,
+        "z": 0.388999999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_system_spaceship_visit_portal"
+    },
+    "25800050023": {
+      "position": {
+        "x": 0,
+        "y": 0.939999998,
+        "z": 57.137001
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_base_quest_smaller"
+    },
+    "25800050026": {
+      "position": {
+        "x": 0,
+        "y": 2.41000009,
+        "z": -50
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_base_quest_smaller"
+    },
+    "26200000061": {
+      "position": {
+        "x": 98.6830215,
+        "y": 130.449997,
+        "z": 10.9799995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "26200000062": {
+      "position": {
+        "x": -25.5499992,
+        "y": 163.890503,
+        "z": -34.0200005
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2_smaller"
+    },
+    "26200000130": {
+      "position": {
+        "x": 69.2267075,
+        "y": -0.357207775,
+        "z": 8.61952591
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "26200000193": {
+      "position": {
+        "x": -47.3399773,
+        "y": 139.410004,
+        "z": 72.3553925
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "26200000204": {
+      "position": {
+        "x": -40.2999992,
+        "y": 148.582001,
+        "z": -76.7699966
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2_smaller"
+    },
+    "28200000046": {
+      "position": {
+        "x": 153.960007,
+        "y": 98.533638,
+        "z": -144.229996
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_03_dung02_cdg006_data_gameplay_001"
+    },
+    "28200000138": {
+      "position": {
+        "x": 97.1100006,
+        "y": 108.699997,
+        "z": -84.5299988
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_03_dung02_cdg006_data_gameplay_003"
+    },
+    "28200000139": {
+      "position": {
+        "x": 38.6500015,
+        "y": 102.103119,
+        "z": -3.44000006
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_slug_03_dung02_cdg006_data_gameplay_002"
+    },
+    "29400020001": {
+      "position": {
+        "x": -0.107529432,
+        "y": -500.022675,
+        "z": 27.5861206
+      },
+      "rotation": {
+        "x": 0,
+        "y": 357.347992,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_seamless_portal"
+    },
+    "34200003163": {
+      "position": {
+        "x": -333.333893,
+        "y": -228.830002,
+        "z": -236.602402
+      },
+      "rotation": {
+        "x": 0,
+        "y": 265.584991,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon_02"
+    },
+    "34200003164": {
+      "position": {
+        "x": -219.682999,
+        "y": -234.460007,
+        "z": -234.835999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon_02"
+    },
+    "34200003165": {
+      "position": {
+        "x": -129.699997,
+        "y": -226.403,
+        "z": -234.039993
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon_02"
+    },
+    "34200003166": {
+      "position": {
+        "x": -308.445007,
+        "y": -234.922607,
+        "z": -235.444
+      },
+      "rotation": {
+        "x": 0,
+        "y": 89.4565964,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon_02"
+    },
+    "34200003167": {
+      "position": {
+        "x": -195.830002,
+        "y": -235.82637,
+        "z": -239.470001
+      },
+      "rotation": {
+        "x": 0,
+        "y": 89.4566727,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon_02"
+    },
+    "34200003168": {
+      "position": {
+        "x": -103.126999,
+        "y": -237.726959,
+        "z": -235.216995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 89.4568024,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon_02"
+    },
+    "34200003170": {
+      "position": {
+        "x": -103.158997,
+        "y": -235.852005,
+        "z": -234.996002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon_02"
+    },
+    "34200003171": {
+      "position": {
+        "x": -219.682999,
+        "y": -234.460007,
+        "z": -234.835999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon_02"
+    },
+    "34200003172": {
+      "position": {
+        "x": -129.699997,
+        "y": -226.403,
+        "z": -234.039993
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_portal_zfydungeon_02"
+    },
+    "34200003175": {
+      "position": {
+        "x": -343.874207,
+        "y": -229.990005,
+        "z": -237.00412
+      },
+      "rotation": {
+        "x": 0,
+        "y": 144.381531,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_dung02_rdg003_data_gameplay_001"
+    },
+    "36100010006": {
+      "position": {
+        "x": -227.350006,
+        "y": 241.455994,
+        "z": 475.049988
+      },
+      "rotation": {
+        "x": 0,
+        "y": 330.416077,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "36100010007": {
+      "position": {
+        "x": -34.9599991,
+        "y": 196.200546,
+        "z": 471.23999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 261.833679,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "36100010365": {
+      "position": {
+        "x": 76.1299973,
+        "y": 287.040009,
+        "z": 545.960022
+      },
+      "rotation": {
+        "x": 0,
+        "y": 56.1000671,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "36100010458": {
+      "position": {
+        "x": 79.9000015,
+        "y": 158.227005,
+        "z": 358
+      },
+      "rotation": {
+        "x": 0,
+        "y": 346.068451,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "36100010460": {
+      "position": {
+        "x": -164,
+        "y": 180.320007,
+        "z": 467.279999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 50.9782944,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "36100010467": {
+      "position": {
+        "x": 245.977448,
+        "y": 138.963287,
+        "z": 465.356384
+      },
+      "rotation": {
+        "x": 2.30111456,
+        "y": 180.522003,
+        "z": 358.766235
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "36100010474": {
+      "position": {
+        "x": 83.3799973,
+        "y": 166.070007,
+        "z": 466.940002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 261.833679,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "37900000002": {
+      "position": {
+        "x": 370.770538,
+        "y": 237.559998,
+        "z": 1146.53003
+      },
+      "rotation": {
+        "x": 0,
+        "y": 104.365677,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "37900000003": {
+      "position": {
+        "x": 886.799988,
+        "y": 275.220001,
+        "z": 1108.04004
+      },
+      "rotation": {
+        "x": 0,
+        "y": 257.854523,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "37900000004": {
+      "position": {
+        "x": 1019.78003,
+        "y": 361.579956,
+        "z": 1088.04004
+      },
+      "rotation": {
+        "x": 0,
+        "y": 141.629227,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "37900000005": {
+      "position": {
+        "x": 1100.65002,
+        "y": 388.48172,
+        "z": 1089.30005
+      },
+      "rotation": {
+        "x": 0,
+        "y": 351.243652,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "37900000006": {
+      "position": {
+        "x": 1131.16003,
+        "y": 417.35611,
+        "z": 778.280029
+      },
+      "rotation": {
+        "x": 0,
+        "y": 312.374054,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "37900000007": {
+      "position": {
+        "x": 1196.81995,
+        "y": 498.640015,
+        "z": 1178.44995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 7.03998804,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "37900000013": {
+      "position": {
+        "x": 1230.21997,
+        "y": 496.243134,
+        "z": 1231.77002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 23.6214371,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "37900000014": {
+      "position": {
+        "x": 1132.76794,
+        "y": 340.14859,
+        "z": 1435.99597
+      },
+      "rotation": {
+        "x": 0,
+        "y": 193.148773,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "37900000015": {
+      "position": {
+        "x": 1508.17004,
+        "y": 589.313538,
+        "z": 1079.17004
+      },
+      "rotation": {
+        "x": 0,
+        "y": 7.03998804,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "37900000291": {
+      "position": {
+        "x": 1047.23999,
+        "y": 407.909729,
+        "z": 834.890015
+      },
+      "rotation": {
+        "x": 0,
+        "y": 164.654312,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "37900000296": {
+      "position": {
+        "x": 1145.28003,
+        "y": 431.891357,
+        "z": 998.900024
+      },
+      "rotation": {
+        "x": 0,
+        "y": 23.6214371,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "37900020000": {
+      "position": {
+        "x": 279.271729,
+        "y": 299.595398,
+        "z": 1301.83777
+      },
+      "rotation": {
+        "x": 0,
+        "y": 82.1652145,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_02_map02_lv010_data_sub_e12m1_gameplay_001"
+    },
+    "37900070004": {
+      "position": {
+        "x": 1233.66492,
+        "y": 437.444946,
+        "z": 1062.63184
+      },
+      "rotation": {
+        "x": 0,
+        "y": 281.039001,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv010_data_sub_2_gameplay_001"
+    },
+    "37900070005": {
+      "position": {
+        "x": 1208.974,
+        "y": 437.574951,
+        "z": 1067.36768
+      },
+      "rotation": {
+        "x": 0,
+        "y": 95.1105881,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv010_data_sub_2_gameplay_002"
+    },
+    "37900070006": {
+      "position": {
+        "x": 1223.83594,
+        "y": 436.934937,
+        "z": 1070.69897
+      },
+      "rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv010_data_sub_2_gameplay_003"
+    },
+    "37900070007": {
+      "position": {
+        "x": 1227.31433,
+        "y": 437.45694,
+        "z": 1064.19006
+      },
+      "rotation": {
+        "x": 0,
+        "y": 146.221893,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv010_data_sub_2_gameplay_004"
+    },
+    "37900070008": {
+      "position": {
+        "x": 1213.86902,
+        "y": 437.293396,
+        "z": 1066.75269
+      },
+      "rotation": {
+        "x": 0,
+        "y": 228.503769,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv010_data_sub_2_gameplay_005"
+    },
+    "37900070009": {
+      "position": {
+        "x": 1226.82996,
+        "y": 438.269012,
+        "z": 1055.29993
+      },
+      "rotation": {
+        "x": 0,
+        "y": 338.501831,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv010_data_sub_2_gameplay_006"
+    },
+    "37900090068": {
+      "position": {
+        "x": 957.249939,
+        "y": 291.166901,
+        "z": 966.990112
+      },
+      "rotation": {
+        "x": 0,
+        "y": 30.3831615,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv010_data_sub_3_gameplay_001"
+    },
+    "37900090069": {
+      "position": {
+        "x": 984.792358,
+        "y": 290.742188,
+        "z": 969.55957
+      },
+      "rotation": {
+        "x": 0,
+        "y": 233.29567,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv010_data_sub_3_gameplay_002"
+    },
+    "37900090070": {
+      "position": {
+        "x": 961.032288,
+        "y": 291.151978,
+        "z": 973.932678
+      },
+      "rotation": {
+        "x": 0,
+        "y": 96.0131531,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv010_data_sub_3_gameplay_003"
+    },
+    "37900090072": {
+      "position": {
+        "x": 967.825073,
+        "y": 291.175995,
+        "z": 967.984558
+      },
+      "rotation": {
+        "x": 0,
+        "y": 46.5921822,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv010_data_sub_3_gameplay_005"
+    },
+    "37900090100": {
+      "position": {
+        "x": 862.764893,
+        "y": 265.587982,
+        "z": 1303.23718
+      },
+      "rotation": {
+        "x": 359.746307,
+        "y": 87.4748917,
+        "z": 357.398529
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv010_data_sub_3_gameplay_004"
+    },
+    "37900090101": {
+      "position": {
+        "x": 863.719299,
+        "y": 265.619019,
+        "z": 1312.55396
+      },
+      "rotation": {
+        "x": 0,
+        "y": 173.814926,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv010_data_sub_3_gameplay_006"
+    },
+    "37900090109": {
+      "position": {
+        "x": 868.879517,
+        "y": 265.526276,
+        "z": 1294.42688
+      },
+      "rotation": {
+        "x": 0,
+        "y": 320.689178,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv010_data_sub_3_gameplay_009"
+    },
+    "37900090115": {
+      "position": {
+        "x": 977.046509,
+        "y": 290.573975,
+        "z": 976.429321
+      },
+      "rotation": {
+        "x": 0,
+        "y": 172.81955,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv010_data_sub_3_gameplay_007"
+    },
+    "37900090116": {
+      "position": {
+        "x": 978.784546,
+        "y": 291.151978,
+        "z": 958.570618
+      },
+      "rotation": {
+        "x": 0,
+        "y": 319.222717,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_lotusfrog_02_map02_lv010_data_sub_3_gameplay_008"
+    },
+    "37900090418": {
+      "position": {
+        "x": 1080.90417,
+        "y": 355.999207,
+        "z": 1335.1427
+      },
+      "rotation": {
+        "x": 0,
+        "y": 239.859283,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_map02_lv010_data_sub_3_gameplay_001"
+    },
+    "37900090419": {
+      "position": {
+        "x": 1079.78455,
+        "y": 355.999207,
+        "z": 1337.1792
+      },
+      "rotation": {
+        "x": 0,
+        "y": 262.533905,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_map02_lv010_data_sub_3_gameplay_002"
+    },
+    "37900090420": {
+      "position": {
+        "x": 1080.81116,
+        "y": 355.999207,
+        "z": 1332.32764
+      },
+      "rotation": {
+        "x": 0,
+        "y": 274.630524,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_map02_lv010_data_sub_3_gameplay_003"
+    },
+    "38300000350": {
+      "position": {
+        "x": -86.5868149,
+        "y": 96.8446198,
+        "z": 114.703629
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "38300000351": {
+      "position": {
+        "x": -73.5768204,
+        "y": 96.8446198,
+        "z": 114.703629
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "38300000352": {
+      "position": {
+        "x": -65.6768188,
+        "y": 96.7842407,
+        "z": 114.703629
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_b"
+    },
+    "38300000353": {
+      "position": {
+        "x": -65.6768188,
+        "y": 96.7842407,
+        "z": 108.003624
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "38300000354": {
+      "position": {
+        "x": -65.6768188,
+        "y": 96.7842407,
+        "z": 121.370003
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_c"
+    },
+    "38300000355": {
+      "position": {
+        "x": -73.546814,
+        "y": 96.8446198,
+        "z": 108.003624
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "38300000356": {
+      "position": {
+        "x": -86.5868149,
+        "y": 96.7842407,
+        "z": 121.57
+      },
+      "rotation": {
+        "x": 0,
+        "y": 270.619568,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_b"
+    },
+    "38300000357": {
+      "position": {
+        "x": -65.7024689,
+        "y": 96.8446198,
+        "z": 95.3899994
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "38300000358": {
+      "position": {
+        "x": -54.6068192,
+        "y": 96.635994,
+        "z": 132.539993
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "38300000359": {
+      "position": {
+        "x": -65.5868149,
+        "y": 96.635994,
+        "z": 132.559998
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "38300000363": {
+      "position": {
+        "x": -2.20000005,
+        "y": 113.984238,
+        "z": 1.85000002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "38300000364": {
+      "position": {
+        "x": 1.67999995,
+        "y": 114.044632,
+        "z": 1.83000088
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "38300000366": {
+      "position": {
+        "x": -29.4899998,
+        "y": 114.084251,
+        "z": 10.0699997
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_b"
+    },
+    "38300000367": {
+      "position": {
+        "x": -22.25,
+        "y": 109.544624,
+        "z": -18.9963779
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "38300000368": {
+      "position": {
+        "x": -22.0900002,
+        "y": 113.84462,
+        "z": -4.69637775
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "38300000369": {
+      "position": {
+        "x": -22,
+        "y": 114.044624,
+        "z": 10.0500002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "38300000370": {
+      "position": {
+        "x": -22.0599995,
+        "y": 114.044624,
+        "z": -0.219999999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "38300000371": {
+      "position": {
+        "x": -29.2199993,
+        "y": 114.084251,
+        "z": -0.219999999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "38300000373": {
+      "position": {
+        "x": -84.4178162,
+        "y": 104.902,
+        "z": -22.8129997
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "38300000374": {
+      "position": {
+        "x": -84.4768143,
+        "y": 109.444618,
+        "z": -8.72999954
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "38300000375": {
+      "position": {
+        "x": -84.4768143,
+        "y": 109.444618,
+        "z": -0.520000219
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "38300000376": {
+      "position": {
+        "x": -94.9768143,
+        "y": 109.384239,
+        "z": -0.520000219
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_b"
+    },
+    "38300000378": {
+      "position": {
+        "x": -2.20000005,
+        "y": 114.044624,
+        "z": 9.89999962
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "39800010001": {
+      "position": {
+        "x": -0.128000006,
+        "y": 2.86477995,
+        "z": -43.7350006
+      },
+      "rotation": {
+        "x": 0,
+        "y": 214.732147,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_inkbutterfly_01_indie_dg014_data_sub_e12m5_gameplay_001"
+    },
+    "46300000019": {
+      "position": {
+        "x": 2.79999995,
+        "y": 106.235413,
+        "z": -112.309998
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "46300000135": {
+      "position": {
+        "x": -87.9160538,
+        "y": 119.911514,
+        "z": -7.74827147
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "46300000166": {
+      "position": {
+        "x": -168.960144,
+        "y": 147.936966,
+        "z": -123.251282
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_campfire_v2"
+    },
+    "48200000002": {
+      "position": {
+        "x": 46.4092484,
+        "y": 75.8194427,
+        "z": -20.4074059
+      },
+      "rotation": {
+        "x": 0,
+        "y": 141.561905,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_020"
+    },
+    "48200000013": {
+      "position": {
+        "x": 48.2126083,
+        "y": 91.8914261,
+        "z": -17.705822
+      },
+      "rotation": {
+        "x": 0,
+        "y": 136.863831,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_006"
+    },
+    "48200000014": {
+      "position": {
+        "x": 59.3169441,
+        "y": 96.1447067,
+        "z": -28.5060844
+      },
+      "rotation": {
+        "x": 0,
+        "y": 306.034729,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_021"
+    },
+    "48200000015": {
+      "position": {
+        "x": 54.4104576,
+        "y": 99.6920624,
+        "z": -13.1870155
+      },
+      "rotation": {
+        "x": 0,
+        "y": 149.203384,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_022"
+    },
+    "48200000016": {
+      "position": {
+        "x": 50.9567223,
+        "y": 86.9896927,
+        "z": -16.5974236
+      },
+      "rotation": {
+        "x": 10.6990633,
+        "y": 157.58168,
+        "z": -4.34439158e-07
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_023"
+    },
+    "48200000022": {
+      "position": {
+        "x": 52.0162315,
+        "y": 98.2547684,
+        "z": -14.9318161
+      },
+      "rotation": {
+        "x": 0,
+        "y": 169.47258,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_024"
+    },
+    "48200000023": {
+      "position": {
+        "x": 44.7643356,
+        "y": 97.9900818,
+        "z": -23.4197578
+      },
+      "rotation": {
+        "x": 0,
+        "y": 95.9178314,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_025"
+    },
+    "48200000073": {
+      "position": {
+        "x": 54.1317368,
+        "y": 95.9176636,
+        "z": -31.2971573
+      },
+      "rotation": {
+        "x": 0,
+        "y": 323.068604,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_007"
+    },
+    "48200000074": {
+      "position": {
+        "x": 43.2310219,
+        "y": 98.5821915,
+        "z": -21.6451988
+      },
+      "rotation": {
+        "x": 0,
+        "y": 95.9178314,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_008"
+    },
+    "48200000075": {
+      "position": {
+        "x": 56.418541,
+        "y": 91.1304474,
+        "z": -16.9213562
+      },
+      "rotation": {
+        "x": 0,
+        "y": 149.26329,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_002"
+    },
+    "48200000076": {
+      "position": {
+        "x": 46.0296173,
+        "y": 92.0152283,
+        "z": -20.6129761
+      },
+      "rotation": {
+        "x": 0,
+        "y": 116.859291,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_009"
+    },
+    "48200000077": {
+      "position": {
+        "x": 47.028286,
+        "y": 88.8893051,
+        "z": -30.1862259
+      },
+      "rotation": {
+        "x": 0,
+        "y": 15.5628853,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_010"
+    },
+    "48200000078": {
+      "position": {
+        "x": 47.3214684,
+        "y": 77.132576,
+        "z": -17.9348145
+      },
+      "rotation": {
+        "x": 0,
+        "y": 121.042732,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_011"
+    },
+    "48200000080": {
+      "position": {
+        "x": 44.9066658,
+        "y": 78.2412415,
+        "z": -23.8105621
+      },
+      "rotation": {
+        "x": 0,
+        "y": 137.296677,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_012"
+    },
+    "48200000081": {
+      "position": {
+        "x": 56.298008,
+        "y": 90.5615234,
+        "z": -18.0000343
+      },
+      "rotation": {
+        "x": 0,
+        "y": 219.99881,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_014"
+    },
+    "48200000082": {
+      "position": {
+        "x": 45.7666016,
+        "y": 101.339401,
+        "z": -15.8270683
+      },
+      "rotation": {
+        "x": 0,
+        "y": 137.296677,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_013"
+    },
+    "48200000083": {
+      "position": {
+        "x": 54.9244118,
+        "y": 80.6934357,
+        "z": -31.0869789
+      },
+      "rotation": {
+        "x": 0,
+        "y": 324.59903,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_015"
+    },
+    "48200000084": {
+      "position": {
+        "x": 60.7175064,
+        "y": 99.9727097,
+        "z": -19.2056503
+      },
+      "rotation": {
+        "x": 0,
+        "y": 267.162445,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_016"
+    },
+    "48200000085": {
+      "position": {
+        "x": 56.4094048,
+        "y": 75.2546921,
+        "z": -25.7049255
+      },
+      "rotation": {
+        "x": 0,
+        "y": 273.151917,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_017"
+    },
+    "48200000086": {
+      "position": {
+        "x": 58.273735,
+        "y": 84.2125168,
+        "z": -24.7584305
+      },
+      "rotation": {
+        "x": 0,
+        "y": 279.510376,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_018"
+    },
+    "48200000087": {
+      "position": {
+        "x": 59.7175407,
+        "y": 96.7326126,
+        "z": -18.0229607
+      },
+      "rotation": {
+        "x": 0,
+        "y": 274.167206,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_001"
+    },
+    "48200000088": {
+      "position": {
+        "x": 56.8286133,
+        "y": 79.0196915,
+        "z": -27.4938583
+      },
+      "rotation": {
+        "x": 0,
+        "y": 308.832214,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_019"
+    },
+    "48200000095": {
+      "position": {
+        "x": 51.1832848,
+        "y": 78.945694,
+        "z": 5.61250305
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_005"
+    },
+    "48200000096": {
+      "position": {
+        "x": -100.071602,
+        "y": 15.2206898,
+        "z": -119.530609
+      },
+      "rotation": {
+        "x": 0,
+        "y": 22.760994,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_003"
+    },
+    "48200000117": {
+      "position": {
+        "x": 27.7744026,
+        "y": 38.2323036,
+        "z": -57.6921425
+      },
+      "rotation": {
+        "x": 0,
+        "y": 81.6266022,
+        "z": 0
+      },
+      "entityType": 256,
+      "detailId": "npc_obj_rabbit_05_dung02_cdg014_data_gameplay_004"
+    },
+    "49200000010": {
+      "position": {
+        "x": 3.41799998,
+        "y": -20.4099998,
+        "z": 8.48400021
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "49200000071": {
+      "position": {
+        "x": 3.39199996,
+        "y": -20.4099998,
+        "z": 16.1620007
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "49200000075": {
+      "position": {
+        "x": -20.2940006,
+        "y": -20.4099998,
+        "z": -12.29
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_b"
+    },
+    "49200000082": {
+      "position": {
+        "x": -25.8670006,
+        "y": -20.4099998,
+        "z": 18.0300007
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_c"
+    },
+    "49200000086": {
+      "position": {
+        "x": -44.6049995,
+        "y": -20.4099998,
+        "z": 17.9990005
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_c"
+    },
+    "49200000087": {
+      "position": {
+        "x": -2.33899999,
+        "y": -20.4099998,
+        "z": -12.1709986
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_b"
+    },
+    "49200000163": {
+      "position": {
+        "x": -6.71000004,
+        "y": 4.92000008,
+        "z": 41.9300003
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "49200000164": {
+      "position": {
+        "x": -6.69999981,
+        "y": 4.92000008,
+        "z": 52.6899986
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_b"
+    },
+    "49200000165": {
+      "position": {
+        "x": 7.5250001,
+        "y": 4.92000008,
+        "z": 41.9580002
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_c"
+    },
+    "49200000166": {
+      "position": {
+        "x": 7.5,
+        "y": 4.92000008,
+        "z": 52.6899986
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_d"
+    },
+    "49200000168": {
+      "position": {
+        "x": 16.2700005,
+        "y": 4.92000008,
+        "z": 52.6899986
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "49200000169": {
+      "position": {
+        "x": -15.289999,
+        "y": 4.92000008,
+        "z": 59.6699982
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "49200000170": {
+      "position": {
+        "x": 12.5100002,
+        "y": 3.30000019,
+        "z": 115.320007
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "49200000171": {
+      "position": {
+        "x": 12.5100002,
+        "y": 3.30000019,
+        "z": 122.700005
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "49200000174": {
+      "position": {
+        "x": -17.0700016,
+        "y": 1.74000049,
+        "z": 99.9800034
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "49200000175": {
+      "position": {
+        "x": -9.68000031,
+        "y": 1.74000049,
+        "z": 99.9800034
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "49200000220": {
+      "position": {
+        "x": -50.5029984,
+        "y": -20.4099998,
+        "z": 17.6639996
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "49200000222": {
+      "position": {
+        "x": -50.4099998,
+        "y": -20.4099998,
+        "z": 25.4799995
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "49200000223": {
+      "position": {
+        "x": -44.5099983,
+        "y": -20.4099998,
+        "z": -99.0599976
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_b"
+    },
+    "49200000224": {
+      "position": {
+        "x": -56.2400017,
+        "y": -20.4099998,
+        "z": -99.0599976
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_d"
+    },
+    "49200000227": {
+      "position": {
+        "x": -56.2400017,
+        "y": -20.4099998,
+        "z": -87.1449966
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_d"
+    },
+    "49200000262": {
+      "position": {
+        "x": -9.07999992,
+        "y": 2.74000001,
+        "z": -68.1600037
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "49200000263": {
+      "position": {
+        "x": -9.07999992,
+        "y": 2.74000001,
+        "z": -78.5459976
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "49200000264": {
+      "position": {
+        "x": 19.0699997,
+        "y": 2.73000002,
+        "z": -78.5599976
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "49200000265": {
+      "position": {
+        "x": -18.9414997,
+        "y": 2.74000001,
+        "z": -78.5459976
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "49200000266": {
+      "position": {
+        "x": -8.54749966,
+        "y": 4.66200018,
+        "z": -50.7821999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_b"
+    },
+    "49200000267": {
+      "position": {
+        "x": 8.69999981,
+        "y": 6.15999985,
+        "z": -33.4421997
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_c"
+    },
+    "49200000268": {
+      "position": {
+        "x": -8.54749966,
+        "y": 6.23999977,
+        "z": -33.4421997
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_c"
+    },
+    "49200000269": {
+      "position": {
+        "x": -18.8600006,
+        "y": 6.23999977,
+        "z": -33.4421997
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "49200000270": {
+      "position": {
+        "x": 8.69999981,
+        "y": 4.6500001,
+        "z": -50.7821999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_b"
+    },
+    "49200000271": {
+      "position": {
+        "x": 19.0400009,
+        "y": 4.71310043,
+        "z": -50.7821999
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "49200000272": {
+      "position": {
+        "x": 9.19999981,
+        "y": 2.73000002,
+        "z": -68.1600037
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "49200000278": {
+      "position": {
+        "x": 69.0699997,
+        "y": 5.71000004,
+        "z": -66.0021973
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_d"
+    },
+    "49200000280": {
+      "position": {
+        "x": 69.0699997,
+        "y": 5.71000004,
+        "z": -71.7300034
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_d"
+    },
+    "49200000281": {
+      "position": {
+        "x": 69.0940018,
+        "y": 5.61999989,
+        "z": -82.0579987
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "49200000282": {
+      "position": {
+        "x": 58.6500015,
+        "y": 5.61999989,
+        "z": -82.0579987
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_d"
+    },
+    "49200000330": {
+      "position": {
+        "x": 16.2200012,
+        "y": 4.92000008,
+        "z": 59.6699982
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_d"
+    },
+    "49200000341": {
+      "position": {
+        "x": -15.25,
+        "y": 4.92000008,
+        "z": 52.6899986
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "49200000342": {
+      "position": {
+        "x": 39.0180016,
+        "y": 4.94500017,
+        "z": 77.5670013
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    },
+    "49200000343": {
+      "position": {
+        "x": 38.9740028,
+        "y": 4.94500017,
+        "z": 85.0130005
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint_a"
+    },
+    "49200000349": {
+      "position": {
+        "x": 9.14400005,
+        "y": 2.73000002,
+        "z": -78.5390015
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "entityType": 32,
+      "detailId": "int_rune_checkpoint"
+    }
+  }
+}

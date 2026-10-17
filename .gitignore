@@ -1,0 +1,14 @@
+**/bin/
+**/obj/
+.vs/
+.idea/
+Log/
+PlayerData/
+Config/Config.json
+certificate.pfx
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.log

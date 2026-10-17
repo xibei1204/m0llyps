@@ -1,0 +1,16 @@
+{
+  "clientFingerprint": "ga=320415624 meta=74424564",
+  "mode": "scenic",
+  "source": "Existing matching resource profile, projected to the fields used by scenic mode.",
+  "sha256": {
+    "AnchorCatalog.json": "ae17d09faf7c3759cccf49bac2b9eb90afc17bbb5edb6dfbb2c694f920e5f336",
+    "CharacterTable.json": "920e7f22d87077f47e9d663a6ad1a9cdf30aa478316d509106facaac735a1d01",
+    "LevelConfigTable.json": "e82c796bd6dfc9c7413389e2c86cf096f8f7b2df4051c2141c784a7bc76a9144",
+    "MailSenderCatalog.json": "96582218018788d3157f686431980173df0bf91169f7d6653e2d73163c81cb64",
+    "MapUnlockCatalog.json": "b3bd932d176da35ce175d05e10bbc696c9b7a52fa4344be82e9b581a43ea3e1c",
+    "NavigationUnlockCatalog.json": "4aba22bd5ae28137a1ad452c4ee8e13e10d562b00d887215c8ba9a06775e3069",
+    "SkillPatchTable.json": "fd3190aa397e05b3b9dcd5f217fb95dbaf3524c75c3cf7d7cd7c8e7dbcb084c6",
+    "StrIdNumTable.json": "9e05ecb4f16634b3dec432749cacd12e86a25be5f4627ba2c96c060158b567d3",
+    "WorldEntityRegistry.json": "1d11a87abac1249ebd2bf4fc0be9092aaa719f711eb036d3a987293aa9ae6b01"
+  }
+}

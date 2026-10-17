@@ -1,0 +1,3362 @@
+{
+  "base01_dg001": {
+    "idNum": 99,
+    "playerInitPos": {
+      "x": -100,
+      "y": 0.0500000007,
+      "z": 135
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "base01_dg001"
+  },
+  "base01_dg002": {
+    "idNum": 220,
+    "playerInitPos": {
+      "x": -100,
+      "y": 0.0500000007,
+      "z": 140
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "base01_dg002"
+  },
+  "base01_dg003": {
+    "idNum": 303,
+    "playerInitPos": {
+      "x": -11,
+      "y": 0,
+      "z": 0
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "base01_dg003"
+  },
+  "base01_dg004": {
+    "idNum": 520,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -10
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "base01_dg004"
+  },
+  "base01_lv001": {
+    "idNum": 98,
+    "playerInitPos": {
+      "x": 0,
+      "y": 2.4000001,
+      "z": -45.5
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "base01_lv001"
+  },
+  "base01_lv002": {
+    "idNum": 160,
+    "playerInitPos": {
+      "x": -114,
+      "y": 0.5,
+      "z": 90
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "base01_lv002"
+  },
+  "base01_lv003": {
+    "idNum": 258,
+    "playerInitPos": {
+      "x": -67.3499985,
+      "y": 1.5,
+      "z": 0.300000012
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "base01_lv003"
+  },
+  "blackbox_assebling_1": {
+    "idNum": 167,
+    "playerInitPos": {
+      "x": -231,
+      "y": 5,
+      "z": -161
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_assebling_1"
+  },
+  "blackbox_assebling_2": {
+    "idNum": 156,
+    "playerInitPos": {
+      "x": -143.600006,
+      "y": 0.300000012,
+      "z": -150.25
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_assebling_2"
+  },
+  "blackbox_asseblingbomb_1": {
+    "idNum": 159,
+    "playerInitPos": {
+      "x": -280,
+      "y": 6.30000019,
+      "z": -145
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_asseblingbomb_1"
+  },
+  "blackbox_basic_1": {
+    "idNum": 89,
+    "playerInitPos": {
+      "x": -190,
+      "y": 0.300000012,
+      "z": -175
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -45,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_basic_1"
+  },
+  "blackbox_belt_1": {
+    "idNum": 90,
+    "playerInitPos": {
+      "x": -130,
+      "y": 0.300000012,
+      "z": -168
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_belt_1"
+  },
+  "blackbox_belt_2": {
+    "idNum": 169,
+    "playerInitPos": {
+      "x": -145,
+      "y": 0,
+      "z": -130
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_belt_2"
+  },
+  "blackbox_bus_1": {
+    "idNum": 157,
+    "playerInitPos": {
+      "x": -150,
+      "y": 0,
+      "z": -144
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_bus_1"
+  },
+  "blackbox_bus_2": {
+    "idNum": 165,
+    "playerInitPos": {
+      "x": -150,
+      "y": 0,
+      "z": -150
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_bus_2"
+  },
+  "blackbox_cmpt_1": {
+    "idNum": 94,
+    "playerInitPos": {
+      "x": -133,
+      "y": 0.300000012,
+      "z": -166
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_cmpt_1"
+  },
+  "blackbox_conditioner_1": {
+    "idNum": 330,
+    "playerInitPos": {
+      "x": -130,
+      "y": 0.300000012,
+      "z": -155
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_conditioner_1"
+  },
+  "blackbox_connector_1": {
+    "idNum": 161,
+    "playerInitPos": {
+      "x": -119,
+      "y": 0,
+      "z": -138
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_connector_1"
+  },
+  "blackbox_converger_1": {
+    "idNum": 166,
+    "playerInitPos": {
+      "x": -150,
+      "y": 0,
+      "z": -150
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_converger_1"
+  },
+  "blackbox_dismantler_1": {
+    "idNum": 320,
+    "playerInitPos": {
+      "x": -8,
+      "y": 51.2999992,
+      "z": -20
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_dismantler_1"
+  },
+  "blackbox_filling_1": {
+    "idNum": 153,
+    "playerInitPos": {
+      "x": -130,
+      "y": 0.300000012,
+      "z": -161
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_filling_1"
+  },
+  "blackbox_filling_2": {
+    "idNum": 162,
+    "playerInitPos": {
+      "x": -150,
+      "y": 0.300000012,
+      "z": -150
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_filling_2"
+  },
+  "blackbox_filling_3": {
+    "idNum": 168,
+    "playerInitPos": {
+      "x": -150,
+      "y": 0.300000012,
+      "z": -150
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_filling_3"
+  },
+  "blackbox_filling_4": {
+    "idNum": 195,
+    "playerInitPos": {
+      "x": -5,
+      "y": 51.2999992,
+      "z": -12
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_filling_4"
+  },
+  "blackbox_gaspump_1": {
+    "idNum": 453,
+    "playerInitPos": {
+      "x": -160,
+      "y": 61,
+      "z": 33
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -125,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_gaspump_1"
+  },
+  "blackbox_gaspurifier_1": {
+    "idNum": 456,
+    "playerInitPos": {
+      "x": 8.26290035,
+      "y": 51.2360001,
+      "z": 17.4948997
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_gaspurifier_1"
+  },
+  "blackbox_gasreactor_1": {
+    "idNum": 457,
+    "playerInitPos": {
+      "x": -22,
+      "y": 51.2360001,
+      "z": 9
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_gasreactor_1"
+  },
+  "blackbox_grinder_1": {
+    "idNum": 95,
+    "playerInitPos": {
+      "x": -165,
+      "y": 0.300000012,
+      "z": -145
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_grinder_1"
+  },
+  "blackbox_hub_1": {
+    "idNum": 96,
+    "playerInitPos": {
+      "x": -137,
+      "y": 0.300000012,
+      "z": -160
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_hub_1"
+  },
+  "blackbox_liquidcleaner_1": {
+    "idNum": 199,
+    "playerInitPos": {
+      "x": 2.26989698,
+      "y": 51.2524414,
+      "z": -11.2511301
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -180,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_liquidcleaner_1"
+  },
+  "blackbox_liquidpurifier_1": {
+    "idNum": 328,
+    "playerInitPos": {
+      "x": -6,
+      "y": 51.2000008,
+      "z": 0
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_liquidpurifier_1"
+  },
+  "blackbox_miner_1": {
+    "idNum": 97,
+    "playerInitPos": {
+      "x": -286,
+      "y": 6.30000019,
+      "z": -107
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 60,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_miner_1"
+  },
+  "blackbox_miner_2": {
+    "idNum": 150,
+    "playerInitPos": {
+      "x": -274.970001,
+      "y": 6.30000019,
+      "z": -148.660004
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_miner_2"
+  },
+  "blackbox_miner_3": {
+    "idNum": 197,
+    "playerInitPos": {
+      "x": -150.251999,
+      "y": 60.9980507,
+      "z": -6.61225891
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_miner_3"
+  },
+  "blackbox_mix_1": {
+    "idNum": 194,
+    "playerInitPos": {
+      "x": -5,
+      "y": 51.2999992,
+      "z": -15
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_mix_1"
+  },
+  "blackbox_mix_2": {
+    "idNum": 203,
+    "playerInitPos": {
+      "x": -6,
+      "y": 51.2999992,
+      "z": 0
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_mix_2"
+  },
+  "blackbox_mix_3": {
+    "idNum": 326,
+    "playerInitPos": {
+      "x": -6,
+      "y": 51.2999992,
+      "z": 0
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_mix_3"
+  },
+  "blackbox_pipe_1": {
+    "idNum": 204,
+    "playerInitPos": {
+      "x": -78.6399994,
+      "y": 53,
+      "z": 30.9799995
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_pipe_1"
+  },
+  "blackbox_pipe_2": {
+    "idNum": 201,
+    "playerInitPos": {
+      "x": -71.9563065,
+      "y": 53,
+      "z": 45.0504608
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_pipe_2"
+  },
+  "blackbox_planter_1": {
+    "idNum": 164,
+    "playerInitPos": {
+      "x": -130,
+      "y": 0.300000012,
+      "z": -165
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_planter_1"
+  },
+  "blackbox_planter_2": {
+    "idNum": 196,
+    "playerInitPos": {
+      "x": -12,
+      "y": 51.2999992,
+      "z": -10
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_planter_2"
+  },
+  "blackbox_powerstation_1": {
+    "idNum": 163,
+    "playerInitPos": {
+      "x": -143,
+      "y": 0.300000012,
+      "z": -161
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_powerstation_1"
+  },
+  "blackbox_shaper_1": {
+    "idNum": 93,
+    "playerInitPos": {
+      "x": -133,
+      "y": 0.300000012,
+      "z": -160
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_shaper_1"
+  },
+  "blackbox_shaper_2": {
+    "idNum": 200,
+    "playerInitPos": {
+      "x": -10,
+      "y": 51.2360382,
+      "z": 24
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_shaper_2"
+  },
+  "blackbox_speedlimit_1": {
+    "idNum": 455,
+    "playerInitPos": {
+      "x": -7.5,
+      "y": 51.2360001,
+      "z": 8.5
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_speedlimit_1"
+  },
+  "blackbox_splitter_1": {
+    "idNum": 152,
+    "playerInitPos": {
+      "x": -126,
+      "y": 0.300000012,
+      "z": -144
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_splitter_1"
+  },
+  "blackbox_squirter_1": {
+    "idNum": 198,
+    "playerInitPos": {
+      "x": -189,
+      "y": 62,
+      "z": 58
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_squirter_1"
+  },
+  "blackbox_storager_1": {
+    "idNum": 91,
+    "playerInitPos": {
+      "x": -260,
+      "y": 6.30000019,
+      "z": -160
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_storager_1"
+  },
+  "blackbox_thickener_1": {
+    "idNum": 158,
+    "playerInitPos": {
+      "x": -138.330002,
+      "y": 0.300000012,
+      "z": -143.789993
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_thickener_1"
+  },
+  "blackbox_transmuter_1": {
+    "idNum": 454,
+    "playerInitPos": {
+      "x": -16.5,
+      "y": 51.2360001,
+      "z": 9.55000019
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_transmuter_1"
+  },
+  "blackbox_transmuter_2": {
+    "idNum": 452,
+    "playerInitPos": {
+      "x": -16,
+      "y": 51,
+      "z": -7
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_transmuter_2"
+  },
+  "blackbox_udpipe_1": {
+    "idNum": 325,
+    "playerInitPos": {
+      "x": 4,
+      "y": 51.2999992,
+      "z": 20
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_udpipe_1"
+  },
+  "blackbox_vaporizer_1": {
+    "idNum": 458,
+    "playerInitPos": {
+      "x": -18,
+      "y": 51,
+      "z": 9
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_vaporizer_1"
+  },
+  "blackbox_winder_1": {
+    "idNum": 151,
+    "playerInitPos": {
+      "x": -133,
+      "y": 0.300000012,
+      "z": -160
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_winder_1"
+  },
+  "blackbox_xiraniteoven_1": {
+    "idNum": 324,
+    "playerInitPos": {
+      "x": 8.26290035,
+      "y": 51.2360001,
+      "z": -17.4948997
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_xiraniteoven_1"
+  },
+  "blackbox_xiraniteoven_2": {
+    "idNum": 329,
+    "playerInitPos": {
+      "x": -26.6700001,
+      "y": 51.2999992,
+      "z": 30.0699997
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_xiraniteoven_2"
+  },
+  "blackbox_xiraniteoven_3": {
+    "idNum": 478,
+    "playerInitPos": {
+      "x": -2.5,
+      "y": 51.2360382,
+      "z": 1.5
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "blackbox_xiraniteoven_3"
+  },
+  "dung01_bdg001": {
+    "idNum": 210,
+    "playerInitPos": {
+      "x": -854.639282,
+      "y": 142.931,
+      "z": 155.155502
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung01_bdg001"
+  },
+  "dung01_bdg002": {
+    "idNum": 209,
+    "playerInitPos": {
+      "x": 441.859985,
+      "y": 29.3799992,
+      "z": 605.888
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -30.4913902,
+      "z": 0
+    },
+    "mapIdStr": "dung01_bdg002"
+  },
+  "dung01_bdg003": {
+    "idNum": 175,
+    "playerInitPos": {
+      "x": -39,
+      "y": 203,
+      "z": 274
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 150,
+      "z": 0
+    },
+    "mapIdStr": "dung01_bdg003"
+  },
+  "dung01_cdg001": {
+    "idNum": 117,
+    "playerInitPos": {
+      "x": 79.1992874,
+      "y": -6,
+      "z": -47.2632713
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -15.3161898,
+      "z": 0
+    },
+    "mapIdStr": "dung01_cdg001"
+  },
+  "dung01_cdg002": {
+    "idNum": 118,
+    "playerInitPos": {
+      "x": -88.8399963,
+      "y": 1.5,
+      "z": 96.3679962
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "dung01_cdg002"
+  },
+  "dung01_cdg003": {
+    "idNum": 120,
+    "playerInitPos": {
+      "x": -15.1800003,
+      "y": 2.5,
+      "z": 0.589999974
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung01_cdg003"
+  },
+  "dung01_cdg004": {
+    "idNum": 75,
+    "playerInitPos": {
+      "x": -141.110001,
+      "y": 1,
+      "z": 15.3100004
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "dung01_cdg004"
+  },
+  "dung01_cdg005": {
+    "idNum": 77,
+    "playerInitPos": {
+      "x": -182.960403,
+      "y": -33.1240997,
+      "z": 141.205795
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -150.535004,
+      "z": 0
+    },
+    "mapIdStr": "dung01_cdg005"
+  },
+  "dung01_cdg006": {
+    "idNum": 76,
+    "playerInitPos": {
+      "x": -53,
+      "y": 0.5,
+      "z": -84.9899979
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung01_cdg006"
+  },
+  "dung01_cdg007": {
+    "idNum": 123,
+    "playerInitPos": {
+      "x": 168.770004,
+      "y": 1.52381694,
+      "z": 149.770004
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -176.162796,
+      "z": 0
+    },
+    "mapIdStr": "dung01_cdg007"
+  },
+  "dung01_cdg008": {
+    "idNum": 122,
+    "playerInitPos": {
+      "x": -70.8099976,
+      "y": 16.3609791,
+      "z": 138.789993
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -180,
+      "z": 0
+    },
+    "mapIdStr": "dung01_cdg008"
+  },
+  "dung01_cdg010": {
+    "idNum": 121,
+    "playerInitPos": {
+      "x": -8.06099987,
+      "y": 6.88721895,
+      "z": -12.0200005
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -36.4693909,
+      "z": 0
+    },
+    "mapIdStr": "dung01_cdg010"
+  },
+  "dung01_cdg011": {
+    "idNum": 310,
+    "playerInitPos": {
+      "x": -109.449997,
+      "y": 81.9614868,
+      "z": -581.070007
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -57.7177391,
+      "z": 0
+    },
+    "mapIdStr": "dung01_cdg011"
+  },
+  "dung01_cdg012": {
+    "idNum": 311,
+    "playerInitPos": {
+      "x": -520.839783,
+      "y": 96.6576767,
+      "z": -471.202087
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 164.495499,
+      "z": 0
+    },
+    "mapIdStr": "dung01_cdg012"
+  },
+  "dung01_cdg013": {
+    "idNum": 312,
+    "playerInitPos": {
+      "x": -112.120003,
+      "y": 81.8060074,
+      "z": -578.940002
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -64.6182327,
+      "z": 0
+    },
+    "mapIdStr": "dung01_cdg013"
+  },
+  "dung01_cdg014": {
+    "idNum": 313,
+    "playerInitPos": {
+      "x": -510.980286,
+      "y": 96.0991516,
+      "z": -476.518097
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 154.303696,
+      "z": 0
+    },
+    "mapIdStr": "dung01_cdg014"
+  },
+  "dung01_cdg015": {
+    "idNum": 314,
+    "playerInitPos": {
+      "x": -112.809998,
+      "y": 81.8528671,
+      "z": -578.469971
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -64.1858826,
+      "z": 0
+    },
+    "mapIdStr": "dung01_cdg015"
+  },
+  "dung01_cdg016": {
+    "idNum": 316,
+    "playerInitPos": {
+      "x": -601.521484,
+      "y": 91.6871338,
+      "z": -232.990997
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -172.095093,
+      "z": 0
+    },
+    "mapIdStr": "dung01_cdg016"
+  },
+  "dung01_cdg017": {
+    "idNum": 317,
+    "playerInitPos": {
+      "x": -111.053596,
+      "y": 81.7593765,
+      "z": -578.351685
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -72.4442673,
+      "z": 0
+    },
+    "mapIdStr": "dung01_cdg017"
+  },
+  "dung01_cdg018": {
+    "idNum": 318,
+    "playerInitPos": {
+      "x": -111.512199,
+      "y": 81.7704315,
+      "z": -577.89209
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -71.3193436,
+      "z": 0
+    },
+    "mapIdStr": "dung01_cdg018"
+  },
+  "dung01_rdg001": {
+    "idNum": 130,
+    "playerInitPos": {
+      "x": 157.820007,
+      "y": 23.0269184,
+      "z": 341.309998
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung01_rdg001"
+  },
+  "dung01_rdg002": {
+    "idNum": 131,
+    "playerInitPos": {
+      "x": 6.26052809,
+      "y": 174.380203,
+      "z": 484.101593
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 69.9787903,
+      "z": 0
+    },
+    "mapIdStr": "dung01_rdg002"
+  },
+  "dung01_rdg003": {
+    "idNum": 240,
+    "playerInitPos": {
+      "x": -70,
+      "y": 191.800003,
+      "z": 21.5
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -90,
+      "z": 0
+    },
+    "mapIdStr": "dung01_rdg003"
+  },
+  "dung01_rdg004": {
+    "idNum": 242,
+    "playerInitPos": {
+      "x": -368.25,
+      "y": 101.599998,
+      "z": -107.550003
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 15,
+      "z": 0
+    },
+    "mapIdStr": "dung01_rdg004"
+  },
+  "dung01_rdg005": {
+    "idNum": 243,
+    "playerInitPos": {
+      "x": -45.9057999,
+      "y": 15.3999996,
+      "z": 1.17411494
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 83.6083832,
+      "z": 0
+    },
+    "mapIdStr": "dung01_rdg005"
+  },
+  "dung01_rdg007": {
+    "idNum": 247,
+    "playerInitPos": {
+      "x": -2.29159999,
+      "y": 30.9633007,
+      "z": 99.1215973
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 253,
+      "z": 0
+    },
+    "mapIdStr": "dung01_rdg007"
+  },
+  "dung01_rdg008": {
+    "idNum": 365,
+    "playerInitPos": {
+      "x": 556.429993,
+      "y": 37.1599998,
+      "z": 247.940002
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung01_rdg008"
+  },
+  "dung01_rdg010": {
+    "idNum": 465,
+    "playerInitPos": {
+      "x": -159.836197,
+      "y": 106.559502,
+      "z": -592.626587
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung01_rdg010"
+  },
+  "dung01_rdg011": {
+    "idNum": 497,
+    "playerInitPos": {
+      "x": -93.5466919,
+      "y": 196.139999,
+      "z": 368.068207
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 148.226898,
+      "z": 0
+    },
+    "mapIdStr": "dung01_rdg011"
+  },
+  "dung01_rdg012": {
+    "idNum": 498,
+    "playerInitPos": {
+      "x": 495.805511,
+      "y": 38.6633987,
+      "z": 279.711212
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 127.307899,
+      "z": 0
+    },
+    "mapIdStr": "dung01_rdg012"
+  },
+  "dung01_rdg013": {
+    "idNum": 499,
+    "playerInitPos": {
+      "x": -32.4868507,
+      "y": 90.8238831,
+      "z": -496.029114
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 163.115402,
+      "z": 0
+    },
+    "mapIdStr": "dung01_rdg013"
+  },
+  "dung01_rdg014": {
+    "idNum": 500,
+    "playerInitPos": {
+      "x": -181.813705,
+      "y": 107.856102,
+      "z": -602.704773
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 271.616791,
+      "z": 0
+    },
+    "mapIdStr": "dung01_rdg014"
+  },
+  "dung01_sdg001": {
+    "idNum": 129,
+    "playerInitPos": {
+      "x": -5,
+      "y": 0,
+      "z": 0
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung01_sdg001"
+  },
+  "dung01_sdg002": {
+    "idNum": 141,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -3
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung01_sdg002"
+  },
+  "dung01_sdg003": {
+    "idNum": 142,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": 5
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "dung01_sdg003"
+  },
+  "dung01_sdg004": {
+    "idNum": 140,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -3
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung01_sdg004"
+  },
+  "dung01_sdg005": {
+    "idNum": 143,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -3
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung01_sdg005"
+  },
+  "dung01_sdg006": {
+    "idNum": 144,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -3
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung01_sdg006"
+  },
+  "dung01_ssdg001": {
+    "idNum": 273,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -8
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung01_ssdg001"
+  },
+  "dung01_ssdg002": {
+    "idNum": 274,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -8
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung01_ssdg002"
+  },
+  "dung01_ttdg001": {
+    "idNum": 403,
+    "playerInitPos": {
+      "x": 0,
+      "y": 100,
+      "z": -8
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung01_ttdg001"
+  },
+  "dung01_wrdg001": {
+    "idNum": 268,
+    "playerInitPos": {
+      "x": -29.1900005,
+      "y": 353.670288,
+      "z": -43.0800018
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung01_wrdg001"
+  },
+  "dung01_wrdg001_guide": {
+    "idNum": 349,
+    "playerInitPos": {
+      "x": -29.4400005,
+      "y": 353.670288,
+      "z": -42.8499985
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung01_wrdg001_guide"
+  },
+  "dung02_bdg001": {
+    "idNum": 402,
+    "playerInitPos": {
+      "x": -224.0858,
+      "y": 299.699585,
+      "z": -1062.70105
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 19,
+      "z": 0
+    },
+    "mapIdStr": "dung02_bdg001"
+  },
+  "dung02_bdg002": {
+    "idNum": 411,
+    "playerInitPos": {
+      "x": -32.9939995,
+      "y": 0,
+      "z": 294.279999
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_bdg002"
+  },
+  "dung02_bdg003": {
+    "idNum": 474,
+    "playerInitPos": {
+      "x": 130.899994,
+      "y": 125.5,
+      "z": -1807.69995
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 105,
+      "z": 0
+    },
+    "mapIdStr": "dung02_bdg003"
+  },
+  "dung02_bdg004": {
+    "idNum": 479,
+    "playerInitPos": {
+      "x": -320.649994,
+      "y": 222.800003,
+      "z": 1314.60999
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -152.5,
+      "z": 0
+    },
+    "mapIdStr": "dung02_bdg004"
+  },
+  "dung02_bdg005": {
+    "idNum": 480,
+    "playerInitPos": {
+      "x": 13.8247299,
+      "y": 99.9499969,
+      "z": 15.5434198
+    },
+    "playerInitRot": {
+      "x": 0.107206702,
+      "y": 95.7350235,
+      "z": 0.00192617602
+    },
+    "mapIdStr": "dung02_bdg005"
+  },
+  "dung02_bdg006": {
+    "idNum": 491,
+    "playerInitPos": {
+      "x": 331,
+      "y": 212,
+      "z": 200
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "dung02_bdg006"
+  },
+  "dung02_bdg007": {
+    "idNum": 542,
+    "playerInitPos": {
+      "x": -14,
+      "y": 0,
+      "z": 0
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_bdg007"
+  },
+  "dung02_cdg001": {
+    "idNum": 266,
+    "playerInitPos": {
+      "x": 0,
+      "y": 30.7999992,
+      "z": 43.9500008
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "dung02_cdg001"
+  },
+  "dung02_cdg002": {
+    "idNum": 267,
+    "playerInitPos": {
+      "x": 10.3547201,
+      "y": 317.404999,
+      "z": 149.029999
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "dung02_cdg002"
+  },
+  "dung02_cdg003": {
+    "idNum": 276,
+    "playerInitPos": {
+      "x": 131.570007,
+      "y": 62.5143204,
+      "z": -124
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -9,
+      "z": 0
+    },
+    "mapIdStr": "dung02_cdg003"
+  },
+  "dung02_cdg004": {
+    "idNum": 280,
+    "playerInitPos": {
+      "x": 65,
+      "y": 11.6999998,
+      "z": 40
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "dung02_cdg004"
+  },
+  "dung02_cdg005": {
+    "idNum": 281,
+    "playerInitPos": {
+      "x": 8.37969971,
+      "y": 27.9967003,
+      "z": 3.71370006
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -5.76998901,
+      "z": 0
+    },
+    "mapIdStr": "dung02_cdg005"
+  },
+  "dung02_cdg006": {
+    "idNum": 282,
+    "playerInitPos": {
+      "x": 159,
+      "y": 98.2987366,
+      "z": -144.449997
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_cdg006"
+  },
+  "dung02_cdg007": {
+    "idNum": 292,
+    "playerInitPos": {
+      "x": -115.529999,
+      "y": 36.6500015,
+      "z": -30
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "dung02_cdg007"
+  },
+  "dung02_cdg008": {
+    "idNum": 378,
+    "playerInitPos": {
+      "x": -43.8625603,
+      "y": 101.07,
+      "z": -4.72599792
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_cdg008"
+  },
+  "dung02_cdg009": {
+    "idNum": 383,
+    "playerInitPos": {
+      "x": 19.6000004,
+      "y": 113.800003,
+      "z": 1.79999995
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_cdg009"
+  },
+  "dung02_cdg010": {
+    "idNum": 391,
+    "playerInitPos": {
+      "x": 2.16580009,
+      "y": 48.0999985,
+      "z": -499.600006
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung02_cdg010"
+  },
+  "dung02_cdg011": {
+    "idNum": 394,
+    "playerInitPos": {
+      "x": 46.5,
+      "y": 121.400002,
+      "z": 154
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 35,
+      "z": 0
+    },
+    "mapIdStr": "dung02_cdg011"
+  },
+  "dung02_cdg012": {
+    "idNum": 395,
+    "playerInitPos": {
+      "x": 219.399994,
+      "y": 1.5,
+      "z": -3.30999994
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_cdg012"
+  },
+  "dung02_cdg013": {
+    "idNum": 477,
+    "playerInitPos": {
+      "x": -116.964897,
+      "y": 121.061203,
+      "z": -148.772202
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_cdg013"
+  },
+  "dung02_cdg014": {
+    "idNum": 482,
+    "playerInitPos": {
+      "x": -106.139999,
+      "y": 13.0799999,
+      "z": -135.149994
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung02_cdg014"
+  },
+  "dung02_cdg015": {
+    "idNum": 492,
+    "playerInitPos": {
+      "x": 0,
+      "y": 4.42999983,
+      "z": 0
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung02_cdg015"
+  },
+  "dung02_cdg016": {
+    "idNum": 494,
+    "playerInitPos": {
+      "x": -141,
+      "y": 32.1500015,
+      "z": 109.133003
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung02_cdg016"
+  },
+  "dung02_cdg017": {
+    "idNum": 496,
+    "playerInitPos": {
+      "x": -220.389999,
+      "y": 44.3075714,
+      "z": 102.129997
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 122,
+      "z": 0
+    },
+    "mapIdStr": "dung02_cdg017"
+  },
+  "dung02_cdg018": {
+    "idNum": 506,
+    "playerInitPos": {
+      "x": 25.5,
+      "y": 236.567001,
+      "z": -52
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 225,
+      "z": 0
+    },
+    "mapIdStr": "dung02_cdg018"
+  },
+  "dung02_dg001": {
+    "idNum": 246,
+    "playerInitPos": {
+      "x": -1638.38,
+      "y": 408.299988,
+      "z": -338.549988
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_dg001"
+  },
+  "dung02_dg002": {
+    "idNum": 249,
+    "playerInitPos": {
+      "x": -1092.63904,
+      "y": 259.221313,
+      "z": 73.584198
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 123.390503,
+      "z": 0
+    },
+    "mapIdStr": "dung02_dg002"
+  },
+  "dung02_dg003": {
+    "idNum": 298,
+    "playerInitPos": {
+      "x": -37.8769989,
+      "y": 0.140000001,
+      "z": 292.940002
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_dg003"
+  },
+  "dung02_dg004": {
+    "idNum": 366,
+    "playerInitPos": {
+      "x": -24.7453594,
+      "y": 408.302002,
+      "z": 11.4894505
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_dg004"
+  },
+  "dung02_dg005": {
+    "idNum": 370,
+    "playerInitPos": {
+      "x": -54.6097298,
+      "y": 103.110001,
+      "z": 16.9484596
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_dg005"
+  },
+  "dung02_dg006": {
+    "idNum": 423,
+    "playerInitPos": {
+      "x": -13,
+      "y": 0,
+      "z": 0
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_dg006"
+  },
+  "dung02_gdg001": {
+    "idNum": 428,
+    "playerInitPos": {
+      "x": 131.029999,
+      "y": 169.8694,
+      "z": 509.26001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg001"
+  },
+  "dung02_gdg002": {
+    "idNum": 432,
+    "playerInitPos": {
+      "x": 131.029999,
+      "y": 169.8694,
+      "z": 509.26001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg002"
+  },
+  "dung02_gdg003": {
+    "idNum": 433,
+    "playerInitPos": {
+      "x": 131.029999,
+      "y": 169.8694,
+      "z": 509.26001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg003"
+  },
+  "dung02_gdg004": {
+    "idNum": 434,
+    "playerInitPos": {
+      "x": 131.029999,
+      "y": 169.8694,
+      "z": 509.26001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg004"
+  },
+  "dung02_gdg005": {
+    "idNum": 441,
+    "playerInitPos": {
+      "x": 131.029999,
+      "y": 169.8694,
+      "z": 509.26001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg005"
+  },
+  "dung02_gdg006": {
+    "idNum": 442,
+    "playerInitPos": {
+      "x": 131.029999,
+      "y": 169.8694,
+      "z": 509.26001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg006"
+  },
+  "dung02_gdg007": {
+    "idNum": 443,
+    "playerInitPos": {
+      "x": 131.029999,
+      "y": 169.8694,
+      "z": 509.26001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg007"
+  },
+  "dung02_gdg008": {
+    "idNum": 444,
+    "playerInitPos": {
+      "x": 131.029999,
+      "y": 169.8694,
+      "z": 509.26001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg008"
+  },
+  "dung02_gdg009": {
+    "idNum": 445,
+    "playerInitPos": {
+      "x": 131.029999,
+      "y": 169.8694,
+      "z": 509.26001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg009"
+  },
+  "dung02_gdg010": {
+    "idNum": 446,
+    "playerInitPos": {
+      "x": 131.029999,
+      "y": 169.8694,
+      "z": 509.26001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg010"
+  },
+  "dung02_gdg011": {
+    "idNum": 447,
+    "playerInitPos": {
+      "x": 131.029999,
+      "y": 169.8694,
+      "z": 509.26001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg011"
+  },
+  "dung02_gdg012": {
+    "idNum": 448,
+    "playerInitPos": {
+      "x": 131.029999,
+      "y": 169.8694,
+      "z": 509.26001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg012"
+  },
+  "dung02_gdg013": {
+    "idNum": 468,
+    "playerInitPos": {
+      "x": 134.830002,
+      "y": 171.470001,
+      "z": 507.438507
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg013"
+  },
+  "dung02_gdg014": {
+    "idNum": 469,
+    "playerInitPos": {
+      "x": 134.973007,
+      "y": 170.759995,
+      "z": 508.258606
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg014"
+  },
+  "dung02_gdg015": {
+    "idNum": 470,
+    "playerInitPos": {
+      "x": 134.944702,
+      "y": 169.309692,
+      "z": 510.309998
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg015"
+  },
+  "dung02_gdg016": {
+    "idNum": 471,
+    "playerInitPos": {
+      "x": 131.029999,
+      "y": 169.8694,
+      "z": 509.26001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg016"
+  },
+  "dung02_gdg017": {
+    "idNum": 508,
+    "playerInitPos": {
+      "x": 131.029999,
+      "y": 169.8694,
+      "z": 509.26001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg017"
+  },
+  "dung02_gdg018": {
+    "idNum": 518,
+    "playerInitPos": {
+      "x": 131.029999,
+      "y": 169.8694,
+      "z": 509.26001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg018"
+  },
+  "dung02_gdg019": {
+    "idNum": 519,
+    "playerInitPos": {
+      "x": 131.029999,
+      "y": 169.8694,
+      "z": 509.26001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg019"
+  },
+  "dung02_gdg020": {
+    "idNum": 521,
+    "playerInitPos": {
+      "x": 131.029999,
+      "y": 169.8694,
+      "z": 509.26001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_gdg020"
+  },
+  "dung02_rcdg001": {
+    "idNum": 404,
+    "playerInitPos": {
+      "x": -882.138977,
+      "y": 261.067688,
+      "z": -257.554993
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -154.417297,
+      "z": 0
+    },
+    "mapIdStr": "dung02_rcdg001"
+  },
+  "dung02_rcdg002": {
+    "idNum": 406,
+    "playerInitPos": {
+      "x": -1381.85999,
+      "y": 319.979309,
+      "z": -380.059998
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung02_rcdg002"
+  },
+  "dung02_rcdg003": {
+    "idNum": 407,
+    "playerInitPos": {
+      "x": -1468.85999,
+      "y": 436.707703,
+      "z": -336.470001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 92.4968109,
+      "z": 0
+    },
+    "mapIdStr": "dung02_rcdg003"
+  },
+  "dung02_rcdg004": {
+    "idNum": 421,
+    "playerInitPos": {
+      "x": -1102.79797,
+      "y": 282.489014,
+      "z": -371.5289
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "dung02_rcdg004"
+  },
+  "dung02_rdg001": {
+    "idNum": 269,
+    "playerInitPos": {
+      "x": 28.3600006,
+      "y": 102.250999,
+      "z": -109.57
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung02_rdg001"
+  },
+  "dung02_rdg002": {
+    "idNum": 244,
+    "playerInitPos": {
+      "x": -468.840515,
+      "y": -235.979996,
+      "z": -235.350296
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_rdg002"
+  },
+  "dung02_rdg003": {
+    "idNum": 342,
+    "playerInitPos": {
+      "x": -468.212585,
+      "y": -138,
+      "z": -234.307007
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_rdg003"
+  },
+  "dung02_rdg004": {
+    "idNum": 344,
+    "playerInitPos": {
+      "x": 28.0773106,
+      "y": 40.7124901,
+      "z": 73.1231613
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "dung02_rdg004"
+  },
+  "dung02_rdg005": {
+    "idNum": 347,
+    "playerInitPos": {
+      "x": 126.125,
+      "y": 183.539993,
+      "z": 218.570007
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 154.399994,
+      "z": 0
+    },
+    "mapIdStr": "dung02_rdg005"
+  },
+  "dung02_rdg006": {
+    "idNum": 353,
+    "playerInitPos": {
+      "x": 28.0773106,
+      "y": 40.7124901,
+      "z": 73.1231613
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "dung02_rdg006"
+  },
+  "dung02_rdg007": {
+    "idNum": 354,
+    "playerInitPos": {
+      "x": 28.0773106,
+      "y": 40.7124901,
+      "z": 73.1231613
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "dung02_rdg007"
+  },
+  "dung02_rdg008": {
+    "idNum": 356,
+    "playerInitPos": {
+      "x": -77.3743362,
+      "y": 103.160004,
+      "z": 231.498199
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 102.401901,
+      "z": 0
+    },
+    "mapIdStr": "dung02_rdg008"
+  },
+  "dung02_rdg009": {
+    "idNum": 381,
+    "playerInitPos": {
+      "x": 5,
+      "y": 195,
+      "z": 472
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung02_rdg009"
+  },
+  "dung02_rdg012": {
+    "idNum": 464,
+    "playerInitPos": {
+      "x": 3.36770606,
+      "y": 63.1399994,
+      "z": 89.6413879
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 150,
+      "z": 0
+    },
+    "mapIdStr": "dung02_rdg012"
+  },
+  "dung02_rdg013": {
+    "idNum": 502,
+    "playerInitPos": {
+      "x": 119.339996,
+      "y": 161.5,
+      "z": 305.339996
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 18,
+      "z": 0
+    },
+    "mapIdStr": "dung02_rdg013"
+  },
+  "dung02_rdg014": {
+    "idNum": 510,
+    "playerInitPos": {
+      "x": 17.8371201,
+      "y": 38.5246201,
+      "z": -86.5054398
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -18.1449909,
+      "z": 0
+    },
+    "mapIdStr": "dung02_rdg014"
+  },
+  "dung02_rdg015": {
+    "idNum": 575,
+    "playerInitPos": {
+      "x": 342.558197,
+      "y": 212.744003,
+      "z": 230.0905
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -167.914795,
+      "z": 0
+    },
+    "mapIdStr": "dung02_rdg015"
+  },
+  "dung02_ssdg001": {
+    "idNum": 321,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -8
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung02_ssdg001"
+  },
+  "dung02_ssdg002": {
+    "idNum": 322,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -8
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung02_ssdg002"
+  },
+  "dung02_ssdg003": {
+    "idNum": 323,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -8
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung02_ssdg003"
+  },
+  "dung02_ssdg004": {
+    "idNum": 534,
+    "playerInitPos": {
+      "x": 1.70000005,
+      "y": 100.720001,
+      "z": 10
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "dung02_ssdg004"
+  },
+  "dung02_swdg001": {
+    "idNum": 507,
+    "playerInitPos": {
+      "x": 450.709991,
+      "y": 221.710007,
+      "z": -2001.31006
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -90,
+      "z": 0
+    },
+    "mapIdStr": "dung02_swdg001"
+  },
+  "indie_battle_guiderecord": {
+    "idNum": 301,
+    "playerInitPos": {
+      "x": -100,
+      "y": 0.0500000007,
+      "z": 135
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_battle_guiderecord"
+  },
+  "indie_ccdg001": {
+    "idNum": 382,
+    "playerInitPos": {
+      "x": 0,
+      "y": -11.5,
+      "z": 7
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "indie_ccdg001"
+  },
+  "indie_check001": {
+    "idNum": 270,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_check001"
+  },
+  "indie_check002": {
+    "idNum": 271,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_check002"
+  },
+  "indie_dg002": {
+    "idNum": 87,
+    "playerInitPos": {
+      "x": -370.299988,
+      "y": 103.300003,
+      "z": -94.8359985
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_dg002"
+  },
+  "indie_dg004": {
+    "idNum": 239,
+    "playerInitPos": {
+      "x": -0.0900000036,
+      "y": -0.560000002,
+      "z": -33.7099991
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_dg004"
+  },
+  "indie_dg005": {
+    "idNum": 256,
+    "playerInitPos": {
+      "x": -1710.15002,
+      "y": 407.200012,
+      "z": -338.546295
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_dg005"
+  },
+  "indie_dg006": {
+    "idNum": 257,
+    "playerInitPos": {
+      "x": -65.1342773,
+      "y": 0,
+      "z": 292.724701
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "indie_dg006"
+  },
+  "indie_dg007": {
+    "idNum": 262,
+    "playerInitPos": {
+      "x": 70.2461166,
+      "y": -0.357208699,
+      "z": -0.0387527309
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 270,
+      "z": 0
+    },
+    "mapIdStr": "indie_dg007"
+  },
+  "indie_dg008": {
+    "idNum": 294,
+    "playerInitPos": {
+      "x": 0,
+      "y": -500,
+      "z": 0
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_dg008"
+  },
+  "indie_dg011": {
+    "idNum": 369,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_dg011"
+  },
+  "indie_dg012": {
+    "idNum": 396,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_dg012"
+  },
+  "indie_dg013": {
+    "idNum": 397,
+    "playerInitPos": {
+      "x": -3.99000001,
+      "y": 0,
+      "z": 12.1899996
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 147.979401,
+      "z": 0
+    },
+    "mapIdStr": "indie_dg013"
+  },
+  "indie_dg014": {
+    "idNum": 398,
+    "playerInitPos": {
+      "x": 0,
+      "y": 2.36477995,
+      "z": -41.9205093
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "indie_dg014"
+  },
+  "indie_dg015": {
+    "idNum": 399,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -31
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_dg015"
+  },
+  "indie_dg016": {
+    "idNum": 463,
+    "playerInitPos": {
+      "x": -166.865799,
+      "y": 147.866699,
+      "z": -119.742897
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 75.411438,
+      "z": 0
+    },
+    "mapIdStr": "indie_dg016"
+  },
+  "indie_hdg001": {
+    "idNum": 283,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -4
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg001"
+  },
+  "indie_hdg002": {
+    "idNum": 284,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -4
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg002"
+  },
+  "indie_hdg003": {
+    "idNum": 285,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -2
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg003"
+  },
+  "indie_hdg004": {
+    "idNum": 286,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg004"
+  },
+  "indie_hdg005": {
+    "idNum": 287,
+    "playerInitPos": {
+      "x": 1.25,
+      "y": 130,
+      "z": 18
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg005"
+  },
+  "indie_hdg006": {
+    "idNum": 288,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -4
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg006"
+  },
+  "indie_hdg007": {
+    "idNum": 371,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0.100000001,
+      "z": 10
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg007"
+  },
+  "indie_hdg008": {
+    "idNum": 372,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0.100000001,
+      "z": -8
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg008"
+  },
+  "indie_hdg009": {
+    "idNum": 374,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -10
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg009"
+  },
+  "indie_hdg010": {
+    "idNum": 373,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -10
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg010"
+  },
+  "indie_hdg011": {
+    "idNum": 375,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -9
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg011"
+  },
+  "indie_hdg012": {
+    "idNum": 376,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -9
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg012"
+  },
+  "indie_hdg013": {
+    "idNum": 408,
+    "playerInitPos": {
+      "x": 1.25,
+      "y": 130,
+      "z": 14
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg013"
+  },
+  "indie_hdg014": {
+    "idNum": 409,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -9
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg014"
+  },
+  "indie_hdg015": {
+    "idNum": 410,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -9
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg015"
+  },
+  "indie_hdg016": {
+    "idNum": 413,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -3
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg016"
+  },
+  "indie_hdg017": {
+    "idNum": 414,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -3
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg017"
+  },
+  "indie_hdg018": {
+    "idNum": 415,
+    "playerInitPos": {
+      "x": 3.5999999,
+      "y": 0.100000001,
+      "z": -8
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg018"
+  },
+  "indie_hdg019": {
+    "idNum": 416,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -8
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg019"
+  },
+  "indie_hdg020": {
+    "idNum": 417,
+    "playerInitPos": {
+      "x": -0.25,
+      "y": 0,
+      "z": -6
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg020"
+  },
+  "indie_hdg021": {
+    "idNum": 418,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -6
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg021"
+  },
+  "indie_hdg022": {
+    "idNum": 449,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -13
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg022"
+  },
+  "indie_hdg023": {
+    "idNum": 450,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -13
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg023"
+  },
+  "indie_hdg024": {
+    "idNum": 451,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -13
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg024"
+  },
+  "indie_hdg025": {
+    "idNum": 467,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -13
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg025"
+  },
+  "indie_hdg026": {
+    "idNum": 525,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -7
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg026"
+  },
+  "indie_hdg027": {
+    "idNum": 527,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -7
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg027"
+  },
+  "indie_hdg028": {
+    "idNum": 526,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -4
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg028"
+  },
+  "indie_hdg029": {
+    "idNum": 550,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -10
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg029"
+  },
+  "indie_hdg030": {
+    "idNum": 551,
+    "playerInitPos": {
+      "x": -1.89999998,
+      "y": 100.012001,
+      "z": -26.8999996
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 39.9000015,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg030"
+  },
+  "indie_hdg031": {
+    "idNum": 552,
+    "playerInitPos": {
+      "x": 184,
+      "y": 100.599998,
+      "z": 49.6599998
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg031"
+  },
+  "indie_hdg032": {
+    "idNum": 553,
+    "playerInitPos": {
+      "x": 0,
+      "y": 100.099998,
+      "z": -10
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg032"
+  },
+  "indie_hdg033": {
+    "idNum": 554,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0,
+      "z": -3
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_hdg033"
+  },
+  "indie_race001": {
+    "idNum": 128,
+    "playerInitPos": {
+      "x": -0.219999999,
+      "y": 127.427803,
+      "z": 600.780029
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "mapIdStr": "indie_race001"
+  },
+  "indie_tower001": {
+    "idNum": 430,
+    "playerInitPos": {
+      "x": 0,
+      "y": 0.5,
+      "z": -4
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "indie_tower001"
+  },
+  "map01_lv001": {
+    "idNum": 21,
+    "playerInitPos": {
+      "x": 225.763458,
+      "y": 103.008018,
+      "z": -338.223236
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 60,
+      "z": 0
+    },
+    "mapIdStr": "map01"
+  },
+  "map01_lv002": {
+    "idNum": 2,
+    "playerInitPos": {
+      "x": -678.549988,
+      "y": 120.480003,
+      "z": -94.6100006
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "map01"
+  },
+  "map01_lv003": {
+    "idNum": 3,
+    "playerInitPos": {
+      "x": 141.8078,
+      "y": 72.0431671,
+      "z": -564.72998
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "map01"
+  },
+  "map01_lv005": {
+    "idNum": 34,
+    "playerInitPos": {
+      "x": 277.089996,
+      "y": 99,
+      "z": -345.049988
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "map01"
+  },
+  "map01_lv006": {
+    "idNum": 35,
+    "playerInitPos": {
+      "x": 683.905823,
+      "y": 51.0957603,
+      "z": 7.51415491
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -8.84899902,
+      "z": 0
+    },
+    "mapIdStr": "map01"
+  },
+  "map01_lv007": {
+    "idNum": 28,
+    "playerInitPos": {
+      "x": 109.690002,
+      "y": 156.423203,
+      "z": 694.530029
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": -117,
+      "z": 0
+    },
+    "mapIdStr": "map01"
+  },
+  "map02_lv001": {
+    "idNum": 101,
+    "playerInitPos": {
+      "x": -1203.35999,
+      "y": 230.600006,
+      "z": -1961.39001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 66,
+      "z": 0
+    },
+    "mapIdStr": "map02"
+  },
+  "map02_lv002": {
+    "idNum": 228,
+    "playerInitPos": {
+      "x": -778.618286,
+      "y": 289.829987,
+      "z": -822.105286
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "map02"
+  },
+  "map02_lv003": {
+    "idNum": 233,
+    "playerInitPos": {
+      "x": -523.799988,
+      "y": 260,
+      "z": -1059.92004
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "map02"
+  },
+  "map02_lv004": {
+    "idNum": 234,
+    "playerInitPos": {
+      "x": -1407.34094,
+      "y": 273.12149,
+      "z": -910.110229
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 248.210907,
+      "z": 0
+    },
+    "mapIdStr": "map02"
+  },
+  "map02_lv005": {
+    "idNum": 232,
+    "playerInitPos": {
+      "x": -555.909973,
+      "y": 247.360001,
+      "z": -301.540009
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "map02"
+  },
+  "map02_lv006": {
+    "idNum": 250,
+    "playerInitPos": {
+      "x": -216.699997,
+      "y": 323.249512,
+      "z": -1665.51001
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 59.8949585,
+      "z": 0
+    },
+    "mapIdStr": "map02"
+  },
+  "map02_lv007": {
+    "idNum": 102,
+    "playerInitPos": {
+      "x": -840.385986,
+      "y": 261.207489,
+      "z": 278.148987
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "map02"
+  },
+  "map02_lv008": {
+    "idNum": 231,
+    "playerInitPos": {
+      "x": -584.669983,
+      "y": 240.619995,
+      "z": 920.700012
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "mapIdStr": "map02"
+  },
+  "map02_lv009": {
+    "idNum": 361,
+    "playerInitPos": {
+      "x": -244.990005,
+      "y": 238.546906,
+      "z": 497.519989
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 83.2527237,
+      "z": 0
+    },
+    "mapIdStr": "map02"
+  },
+  "map02_lv010": {
+    "idNum": 379,
+    "playerInitPos": {
+      "x": 282.15799,
+      "y": 298.013702,
+      "z": 1301.77698
+    },
+    "playerInitRot": {
+      "x": 0,
+      "y": 90,
+      "z": 0
+    },
+    "mapIdStr": "map02"
+  }
+}

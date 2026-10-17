@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <RootNamespace>MollyPS.GameServer</RootNamespace>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AssemblyName>MollyPSGameServer</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="..\Resources\**\*.json" Link="Resources\%(RecursiveDir)%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj" />
+    <ProjectReference Include="..\Proto\Proto.csproj" />
+    <PackageReference Include="Google.Protobuf" Version="3.33.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <InternalsVisibleTo Include="MollyPS.Tests" />
+  </ItemGroup>
+
+</Project>
